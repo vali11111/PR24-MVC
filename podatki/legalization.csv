@@ -1,0 +1,51 @@
+State,Code,State,Recreational,Year legalized (Rec),Medical,Year legalized (Med)
+California,CA,Yes,2016,Yes,1996
+Alaska,AK,Yes,2014,Yes,1998
+Nevada,NV,Yes,2016,Yes,1998
+Oregon,OR,Yes,2014,Yes,1998
+Washington,WA,Yes,2012,Yes,1998
+Maine,ME,Yes,2016,Yes,1999
+Colorado,CO,Yes,2012,Yes,2000
+Hawaii,HI,No,,Yes,2000
+Montana,MT,Yes,2020,Yes,2004
+Vermont,VT,Yes,2020,Yes,2004
+Rhode Island,RI,Yes,2022,Yes,2006
+New Mexico,NM,Yes,2021,Yes,2007
+Michigan,MI,Yes,2018,Yes,2008
+Arizona,AZ,Yes,2020,Yes,2010
+New Jersey,NJ,Yes,2020,Yes,2010
+Delaware,DE,Yes,2023,Yes,2011
+Connecticut,CT,Yes,2021,Yes,2012
+Massachusetts,MA,Yes,2016,Yes,2012
+Illinois,IL,Yes,2019,Yes,2013
+Maryland,MD,Yes,2022,Yes,2013
+New Hampshire,NH,No,,Yes,2013
+Minnesota,MN,Yes,2023,Yes,2014
+New York,NY,Yes,2021,Yes,2014
+Georgia,GA,No,,Yes,2015
+Louisiana,LA,No,,Yes,2015
+Arkansas,AR,No,,Yes,2016
+Florida,FL,No,,Yes,2016
+North Dakota,ND,No,,Yes,2016
+Ohio,OH,Yes,2023,Yes,2016
+Pennsylvania,PA,No,,Yes,2016
+Iowa,IA,No,,Yes,2017
+West Virginia,WV,No,,Yes,2017
+Missouri,MO,Yes,2022,Yes,2018
+Oklahoma,OK,No,,Yes,2018
+Utah,UT,No,,Yes,2018
+Mississippi,MS,No,,Yes,2022
+South Dakota,SD,No,,Yes,2020
+Virginia,VA,Yes,2021,Yes,2020
+Alabama,AL,No,,Yes,2021
+Idaho,ID,No,,No,
+Indiana,IN,No,,No,
+Kansas,KS,No,,No,
+Kentucky,KY,No,,Yes,2023
+Nebraska,NE,No,,No,
+North Carolina,NC,No,,No,
+South Carolina,SC,No,,No,
+Tennessee,TN,No,,No,
+Texas,TX,No,,No,
+Wisconsin,WI,No,,No,
+Wyoming,WY,No,,No,
