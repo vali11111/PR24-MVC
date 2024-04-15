@@ -10,7 +10,7 @@ states_csv_path = r"C:\Users\Uporabnik\Desktop\FAKS\3. LETNIK\2. SEMESTER\PR\sem
 # Slovar za shranjevanje imen držav in njihovih kod
 state_data = {}
 
-# Preberi vsebino CSV datoteke z državami in njihovimi kodi
+# Prebere vsebino CSV datoteke z državami in njihovimi kodi
 with open(states_csv_path, mode='r') as file:
     reader = csv.reader(file)
     next(reader)  # Preskoči glavo
@@ -57,8 +57,6 @@ output_folder = r"podatki"
 output_csv_file = os.path.join(output_folder, "legalization.csv")
 
 
-
-# Preveri, ali se ime države ujema z imenom na spletni strani
 filtered_data = []
 for row in data[1:]:
     state_name = row[0]
@@ -66,11 +64,11 @@ for row in data[1:]:
         state_code = list(state_data.keys())[list(state_data.values()).index(state_name)]
         filtered_data.append([state_name, state_code] + row[1:])
 
-# Zapiši filtrirane podatke v CSV datoteko
 with open(output_csv_file, mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
-    # Dodaj header
-    writer.writerow(["State", "Code"] + headers)
+
+    writer.writerow(["State", "Code", "Recreational", "Year legalized (Rec)", "Medical", "Year legalized (Med)"])
     writer.writerows(filtered_data)
+    print(filtered_data)
 
 print(f"Filtrirani podatki so bili shranjeni v {output_csv_file}")
