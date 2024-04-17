@@ -29,6 +29,18 @@ Podatke smo pridobivali iz več virov:
 - Težave: Zaradi razširjenosti podatkov so možne težave z obdelavo velike količine podatkov in potrebnih virov za shranjevanje.
 - Predprocesiranje: Potrebno je obsežno predprocesiranje, vključno s čiščenjem podatkov, pretvorbo formatov in združevanjem različnih virov.
 
+5. Housing Price Index (https://stats.oecd.org/Download.ashx?type=csv&Delimiter=%2c&IncludeTimeSeriesIdentifiers=False&LabelType=CodeAndLabel&LanguageCode=en)
+- Namen: Analiza povezave cen nepremičnin po različnih zveznih državah z legalizacijo marihuane. Zbrali smo bazo podatkov za obdobja pred in po legalizaciji v posamičnih državah.
+- Obseg: Podatki so zelo obsežni; vsebujejo podatke med 1990 in 2022 za povprečje v ZDA, po državah in celo po nekaj posamečnih mestih. Čas beleženja je letno, indeks pa je podan absolutno in relativno.
+- Težave: Večjih težav s to bazo ni bilo. Večino težav je povzročajo čiščenje podatkov in podvojeni atributi.
+- Predprocesiranje: Predprocesiranje ni bilo preveč zahtevno, saj je v večini vključevalo le odstranjevanje odvečnih stolpcev in vrstic.
+
+6. Happiness Report (World Happiness Report)
+- Namen: Ugotavljanje povezav med legalizacijo marihuane in indeksom sreče v ZDA. Primerjati želimo kako se je indeks sreče v ZDA spreminjal s številom držav, ki so legalizirale marihuano. To spreminjanje spremljamo tudi v povezavi s svetovnim trendom.
+- Obseg: Podatki zajemajo krajše časovno obdobje (2007 - 2022) in poleg indeksa sreče vsebujejo tudi razne socialno-ekonomske vrednosti, ki so bile vključene pri izračunu indeksa. Podatki zajemajo večje število držav na svetu.
+- Težave: Podatki so podani v Excelovi tabeli, kjer so podatki za posamezna leta v ločenih tabelah po listih. Imena in vrstni red atributov se po posameznih listih spreminja - ni enotnega formata.
+- Predprocesiranje: Predprocesiranje je bilo obsežnejše. Potrebno je bilo preimenovati atribute, spreminjati vrstni red, dodati letnice in združiti vrednosti iz posameznih tabel v eno tabelo za smiselno primerjavo spreminjanja indeksa v ZDA skozi leta. Poleg tega je bilo nekaj odvečnih podatkov potrebno tudi odrezati.
+
 ### Glavna vprašanja/cilji podatkovnega rudarjenja
 
 - Pridobiti in analizirati informacije o tem, katere zvezne države imajo legalizirano konopljo (medicinska ali rekreacijska) in kako to vpliva na različne ekonomske (brezposelnost, cene nepremičnin) in družbene (kriminal, kazalniki sreče, brezdomstvo) faktorje.
