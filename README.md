@@ -37,30 +37,25 @@ Podatke smo pridobivali iz več virov:
 
 ### Podroben opis ciljev in metod
 
-1.  Pridobivanje informacij o legalizaciji konoplje v ZDA:
-
--   Cilj: Zbrati podatke o legalizaciji konoplje v zveznih državah ZDA za medicinsko ali rekreacijsko uporabo.
--   Metode: Uporaba uradnih statistik, zakonodajnih dokumentov, spletnih virov in analiz trga za pridobitev informacij o stanju legalizacije konoplje v posameznih zveznih državah.
-
-2.  Analiza vpliva legalizacije na ekonomske in družbene faktorje:
+1.  Analiza vpliva legalizacije na ekonomske in družbene faktorje:
 
 -   Cilj: Raziskati vpliv legalizacije konoplje na socio-ekonomske faktorje, kot so brezposelnost, cene nepremičnin, kriminal, sreča in brezdomstvo.
--   Metode: Analiza podatkov iz ekonomskih poročil, statističnih podatkov, anket in primerjalnih študij za ugotavljanje povezav med legalizacijo konoplje ter socio-ekonomskimi kazalci.
+-   Metode: Analiza podatkov (grafi) za ugotavljanje povezav med legalizacijo konoplje ter socio-ekonomskimi kazalci.
 
-3.  Primerjava učinkov medicinske in rekreacijske legalizacije:
+2.  Primerjava učinkov medicinske in rekreacijske legalizacije:
 
 -   Cilj: Primerjati učinke medicinske in rekreacijske legalizacije konoplje na socio-ekonomske faktorje.
 -   Metode: Primerjalna analiza socio-ekonomskih kazalcev v državah z medicinsko in rekreacijsko legalizacijo ter identifikacija morebitnih razlik v njihovem vplivu na ekonomske in družbene aspekte.
 
-4.  Napoved učinkov legalizacije v državah brez legalizacije:
+3.  Napoved učinkov legalizacije v državah brez legalizacije:
 
 -   Cilj: Napovedati vpliv legalizacije konoplje na socio-ekonomske razmere v državah brez legalizacije.
--   Metode: Uporaba ekonometričnih modelov, analiz trendov, primerjalnih študij in napovednih analiz za oceno potencialnih učinkov legalizacije konoplje na brezposelnost, cene nepremičnin, kriminal in druge socio-ekonomske faktorje.
+-   Metode: Uporaba  primerjalnih študij in napovednih analiz za oceno potencialnih učinkov legalizacije konoplje na brezposelnost, cene nepremičnin, kriminal in druge socio-ekonomske faktorje.
 
-5.  Raziskovanje medsebojnega vpliva socio-ekonomskih dejavnikov:
+4.  Raziskovanje medsebojnega vpliva socio-ekonomskih dejavnikov:
 
 -   Cilj: Analizirati medsebojni vpliv vseh socio-ekonomskih faktorjev ter ugotoviti kompleksne povezave med legalizacijo konoplje in drugimi družbenimi ter ekonomskimi dejavniki.
--   Metode: Uporaba statističnih analiz, mrežnih modelov, regresijskih analiz ter analize vzročnih učinkov za razumevanje celovite slike o vplivu legalizacije konoplje na družbo in gospodarstvo.
+-   Metode: Uporaba statističnih analiz, regresijskih analiz za razumevanje celovite slike o vplivu legalizacije konoplje na družbo in gospodarstvo.
 
 ### Rezultati in dosedanje ugotovitve
 
