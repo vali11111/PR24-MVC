@@ -1,0 +1,1042 @@
+[Running] python -u "c:\Users\Crt\Crime_Stats_VSC\CleanStats_Crime.py"
+State,Year,Total Crimes,Total Property Crime Count,Burglary,Larceny,Motor,Total Violent Crime Count,Assault,Murder,Rape,Robbery
+State:Alabama, Year:2000, Total Crimes:202159, TPC Count:180539, Burglary:40331, Larceny:127399, Motor:12809, TVC Count:21620, Assault:14107, Murder:329, Rape:1482, Robbery:5702
+State:Alabama, Year:2001, Total Crimes:192835, TPC Count:173253, Burglary:40642, Larceny:119992, Motor:12619, TVC Count:19582, Assault:12250, Murder:379, Rape:1369, Robbery:5584
+State:Alabama, Year:2002, Total Crimes:200331, TPC Count:180400, Burglary:42578, Larceny:123932, Motor:13890, TVC Count:19931, Assault:12002, Murder:303, Rape:1664, Robbery:5962
+State:Alabama, Year:2003, Total Crimes:201572, TPC Count:182241, Burglary:43245, Larceny:124039, Motor:14957, TVC Count:19331, Assault:11338, Murder:299, Rape:1656, Robbery:6038
+State:Alabama, Year:2004, Total Crimes:201664, TPC Count:182340, Burglary:44666, Larceny:123650, Motor:14024, TVC Count:19324, Assault:11286, Murder:254, Rape:1742, Robbery:6042
+State:Alabama, Year:2005, Total Crimes:197071, TPC Count:177393, Burglary:43473, Larceny:120780, Motor:13140, TVC Count:19678, Assault:11293, Murder:374, Rape:1564, Robbery:6447
+State:Alabama, Year:2006, Total Crimes:200802, TPC Count:181249, Burglary:44780, Larceny:121451, Motor:15018, TVC Count:19553, Assault:10463, Murder:382, Rape:1646, Robbery:7062
+State:Alabama, Year:2007, Total Crimes:204857, TPC Count:184082, Burglary:45379, Larceny:124465, Motor:14238, TVC Count:20775, Assault:11417, Murder:412, Rape:1548, Robbery:7398
+State:Alabama, Year:2008, Total Crimes:211526, TPC Count:190416, Burglary:50411, Larceny:126539, Motor:13466, TVC Count:21110, Assault:11795, Murder:351, Rape:1618, Robbery:7346
+State:Alabama, Year:2009, Total Crimes:199201, TPC Count:178007, Burglary:48844, Larceny:118072, Motor:11091, TVC Count:21194, Assault:13103, Murder:322, Rape:1504, Robbery:6265
+State:Alabama, Year:2010, Total Crimes:187191, TPC Count:168828, Burglary:42484, Larceny:115564, Motor:10780, TVC Count:18363, Assault:11869, Murder:275, Rape:1355, Robbery:4864
+State:Alabama, Year:2011, Total Crimes:193358, TPC Count:173192, Burglary:51119, Larceny:111411, Motor:10662, TVC Count:20166, Assault:13591, Murder:299, Rape:1370, Robbery:4906
+State:Alabama, Year:2012, Total Crimes:190571, TPC Count:168878, Burglary:47481, Larceny:111523, Motor:9874, TVC Count:21693, Assault:15035, Murder:342, Rape:1296, Robbery:5020
+State:Alabama, Year:2013, Total Crimes:182819, TPC Count:161993, Burglary:42429, Larceny:108993, Motor:10571, TVC Count:20826, Assault:13787, Murder:347, Rape:2044, Robbery:4648
+State:Alabama, Year:2014, Total Crimes:174821, TPC Count:154094, Burglary:39715, Larceny:104238, Motor:10141, TVC Count:20727, Assault:13745, Murder:276, Rape:2005, Robbery:4701
+State:Alabama, Year:2015, Total Crimes:167698, TPC Count:144746, Burglary:35255, Larceny:99156, Motor:10335, TVC Count:22952, Assault:15954, Murder:348, Rape:2039, Robbery:4611
+State:Alabama, Year:2016, Total Crimes:169248, TPC Count:143362, Burglary:34065, Larceny:97574, Motor:11723, TVC Count:25886, Assault:18877, Murder:407, Rape:1916, Robbery:4686
+State:Alabama, Year:2017, Total Crimes:169711, TPC Count:144160, Burglary:31477, Larceny:99842, Motor:12841, TVC Count:25551, Assault:18902, Murder:404, Rape:2028, Robbery:4217
+State:Alabama, Year:2018, Total Crimes:163099, TPC Count:137700, Burglary:28841, Larceny:95747, Motor:13112, TVC Count:25399, Assault:18944, Murder:383, Rape:1996, Robbery:4076
+State:Alabama, Year:2019, Total Crimes:156179, TPC Count:131133, Burglary:26079, Larceny:92477, Motor:12577, TVC Count:25046, Assault:18679, Murder:358, Rape:2068, Robbery:3941
+State:Alaska, Year:2000, Total Crimes:26641, TPC Count:23087, Burglary:3899, Larceny:16838, Motor:2350, TVC Count:3554, Assault:2540, Murder:27, Rape:497, Robbery:490
+State:Alaska, Year:2001, Total Crimes:26895, TPC Count:23160, Burglary:3847, Larceny:16695, Motor:2618, TVC Count:3735, Assault:2681, Murder:39, Rape:501, Robbery:514
+State:Alaska, Year:2002, Total Crimes:27745, TPC Count:24118, Burglary:3908, Larceny:17739, Motor:2471, TVC Count:3627, Assault:2594, Murder:33, Rape:511, Robbery:489
+State:Alaska, Year:2003, Total Crimes:28263, TPC Count:24386, Burglary:3874, Larceny:18051, Motor:2461, TVC Count:3877, Assault:2787, Murder:39, Rape:605, Robbery:446
+State:Alaska, Year:2004, Total Crimes:26331, TPC Count:22172, Burglary:3773, Larceny:16159, Motor:2240, TVC Count:4159, Assault:3117, Murder:37, Rape:558, Robbery:447
+State:Alaska, Year:2005, Total Crimes:28169, TPC Count:23975, Burglary:4131, Larceny:17249, Motor:2595, TVC Count:4194, Assault:3087, Murder:32, Rape:538, Robbery:537
+State:Alaska, Year:2006, Total Crimes:28585, TPC Count:23975, Burglary:4155, Larceny:17284, Motor:2536, TVC Count:4610, Assault:3462, Murder:36, Rape:512, Robbery:600
+State:Alaska, Year:2007, Total Crimes:27616, TPC Count:23096, Burglary:3734, Larceny:16929, Motor:2433, TVC Count:4520, Assault:3351, Murder:43, Rape:545, Robbery:581
+State:Alaska, Year:2008, Total Crimes:24565, TPC Count:20090, Burglary:3237, Larceny:15225, Motor:1628, TVC Count:4475, Assault:3356, Murder:27, Rape:447, Robbery:645
+State:Alaska, Year:2009, Total Crimes:24962, TPC Count:20538, Burglary:3600, Larceny:15251, Motor:1687, TVC Count:4424, Assault:3235, Murder:22, Rape:513, Robbery:654
+State:Alaska, Year:2010, Total Crimes:24796, TPC Count:20259, Burglary:3105, Larceny:15535, Motor:1619, TVC Count:4537, Assault:3379, Murder:31, Rape:533, Robbery:594
+State:Alaska, Year:2011, Total Crimes:23510, TPC Count:19094, Burglary:2852, Larceny:14854, Motor:1388, TVC Count:4416, Assault:3374, Murder:30, Rape:436, Robbery:576
+State:Alaska, Year:2012, Total Crimes:24449, TPC Count:20037, Burglary:2950, Larceny:15565, Motor:1522, TVC Count:4412, Assault:3169, Murder:30, Rape:583, Robbery:630
+State:Alaska, Year:2013, Total Crimes:25918, TPC Count:21210, Burglary:2916, Larceny:16599, Motor:1695, TVC Count:4708, Assault:3128, Murder:34, Rape:922, Robbery:624
+State:Alaska, Year:2014, Total Crimes:25018, TPC Count:20334, Burglary:3150, Larceny:15445, Motor:1739, TVC Count:4684, Assault:3243, Murder:41, Rape:771, Robbery:629
+State:Alaska, Year:2015, Total Crimes:26198, TPC Count:20806, Burglary:3511, Larceny:15249, Motor:2046, TVC Count:5392, Assault:3671, Murder:59, Rape:901, Robbery:761
+State:Alaska, Year:2016, Total Crimes:30842, TPC Count:24876, Burglary:4053, Larceny:17766, Motor:3057, TVC Count:5966, Assault:4011, Murder:52, Rape:1053, Robbery:850
+State:Alaska, Year:2017, Total Crimes:32337, TPC Count:26204, Burglary:4171, Larceny:17775, Motor:4258, TVC Count:6133, Assault:4257, Murder:62, Rape:863, Robbery:951
+State:Alaska, Year:2018, Total Crimes:30865, TPC Count:24339, Burglary:3979, Larceny:16364, Motor:3996, TVC Count:6526, Assault:4391, Murder:47, Rape:1192, Robbery:896
+State:Alaska, Year:2019, Total Crimes:27637, TPC Count:21294, Burglary:3563, Larceny:15114, Motor:2617, TVC Count:6343, Assault:4360, Murder:69, Rape:1088, Robbery:826
+State:Arizona, Year:2000, Total Crimes:299092, TPC Count:271811, Burglary:51902, Larceny:176705, Motor:43204, TVC Count:27281, Assault:17841, Murder:359, Rape:1577, Robbery:7504
+State:Arizona, Year:2001, Total Crimes:322549, TPC Count:293874, Burglary:54821, Larceny:186850, Motor:52203, TVC Count:28675, Assault:17889, Murder:400, Rape:1518, Robbery:8868
+State:Arizona, Year:2002, Total Crimes:348467, TPC Count:318296, Burglary:59087, Larceny:201541, Motor:57668, TVC Count:30171, Assault:20176, Murder:387, Rape:1608, Robbery:8000
+State:Arizona, Year:2003, Total Crimes:342973, TPC Count:314335, Burglary:58613, Larceny:198725, Motor:56997, TVC Count:28638, Assault:18722, Murder:441, Rape:1856, Robbery:7619
+State:Arizona, Year:2004, Total Crimes:320155, TPC Count:291203, Burglary:56885, Larceny:179012, Motor:55306, TVC Count:28952, Assault:18921, Murder:414, Rape:1896, Robbery:7721
+State:Arizona, Year:2005, Total Crimes:317823, TPC Count:287345, Burglary:56328, Larceny:176112, Motor:54905, TVC Count:30478, Assault:19448, Murder:445, Rape:2006, Robbery:8579
+State:Arizona, Year:2006, Total Crimes:327845, TPC Count:294389, Burglary:59418, Larceny:178321, Motor:56650, TVC Count:33456, Assault:20983, Murder:533, Rape:2449, Robbery:9491
+State:Arizona, Year:2007, Total Crimes:320143, TPC Count:287308, Burglary:59988, Larceny:177076, Motor:50244, TVC Count:32835, Assault:20170, Murder:548, Rape:2353, Robbery:9764
+State:Arizona, Year:2008, Total Crimes:298220, TPC Count:266653, Burglary:58606, Larceny:169460, Motor:38587, TVC Count:31567, Assault:19096, Murder:462, Rape:2200, Robbery:9809
+State:Arizona, Year:2009, Total Crimes:264849, TPC Count:236721, Burglary:54308, Larceny:155976, Motor:26437, TVC Count:28128, Assault:17270, Murder:380, Rape:2279, Robbery:8199
+State:Arizona, Year:2010, Total Crimes:253330, TPC Count:226802, Burglary:50932, Larceny:154137, Motor:21733, TVC Count:26528, Assault:16976, Murder:408, Rape:2191, Robbery:6953
+State:Arizona, Year:2011, Total Crimes:256685, TPC Count:229896, Burglary:54695, Larceny:155400, Motor:19801, TVC Count:26789, Assault:16748, Murder:397, Rape:2499, Robbery:7145
+State:Arizona, Year:2012, Total Crimes:260038, TPC Count:231930, Burglary:52934, Larceny:159838, Motor:19158, TVC Count:28108, Assault:18087, Murder:358, Rape:2277, Robbery:7386
+State:Arizona, Year:2013, Total Crimes:252842, TPC Count:225243, Burglary:48533, Larceny:159272, Motor:17438, TVC Count:27599, Assault:17490, Murder:357, Rape:3050, Robbery:6702
+State:Arizona, Year:2014, Total Crimes:242156, TPC Count:215240, Burglary:43562, Larceny:154091, Motor:17587, TVC Count:26916, Assault:16970, Murder:319, Rape:3378, Robbery:6249
+State:Arizona, Year:2015, Total Crimes:235119, TPC Count:207107, Burglary:37957, Larceny:152365, Motor:16785, TVC Count:28012, Assault:18235, Murder:309, Rape:3108, Robbery:6360
+State:Arizona, Year:2016, Total Crimes:239015, TPC Count:206432, Burglary:37736, Larceny:150275, Motor:18421, TVC Count:32583, Assault:21858, Murder:380, Rape:3290, Robbery:7055
+State:Arizona, Year:2017, Total Crimes:240159, TPC Count:204515, Burglary:37627, Larceny:147830, Motor:19058, TVC Count:35644, Assault:24207, Murder:416, Rape:3581, Robbery:7440
+State:Arizona, Year:2018, Total Crimes:226032, TPC Count:191974, Burglary:31532, Larceny:141303, Motor:19139, TVC Count:34058, Assault:23528, Murder:369, Rape:3638, Robbery:6523
+State:Arizona, Year:2019, Total Crimes:210779, TPC Count:177638, Burglary:28699, Larceny:130788, Motor:18151, TVC Count:33141, Assault:22704, Murder:365, Rape:3662, Robbery:6410
+State:Arkansas, Year:2000, Total Crimes:110019, TPC Count:98115, Burglary:21443, Larceny:69740, Motor:6932, TVC Count:11904, Assault:8887, Murder:168, Rape:848, Robbery:2001
+State:Arkansas, Year:2001, Total Crimes:111296, TPC Count:99106, Burglary:22196, Larceny:69590, Motor:7320, TVC Count:12190, Assault:8969, Murder:148, Rape:892, Robbery:2181
+State:Arkansas, Year:2002, Total Crimes:112672, TPC Count:101171, Burglary:23229, Larceny:71129, Motor:6813, TVC Count:11501, Assault:8081, Murder:142, Rape:754, Robbery:2524
+State:Arkansas, Year:2003, Total Crimes:111533, TPC Count:99084, Burglary:25016, Larceny:68061, Motor:6007, TVC Count:12449, Assault:9131, Murder:180, Rape:911, Robbery:2227
+State:Arkansas, Year:2004, Total Crimes:124725, TPC Count:110911, Burglary:30151, Larceny:74242, Motor:6518, TVC Count:13814, Assault:10083, Murder:176, Rape:1183, Robbery:2372
+State:Arkansas, Year:2005, Total Crimes:127584, TPC Count:112914, Burglary:30118, Larceny:75510, Motor:7286, TVC Count:14670, Assault:10747, Murder:189, Rape:1202, Robbery:2532
+State:Arkansas, Year:2006, Total Crimes:127563, TPC Count:112025, Burglary:31864, Larceny:72646, Motor:7515, TVC Count:15538, Assault:11259, Murder:205, Rape:1325, Robbery:2749
+State:Arkansas, Year:2007, Total Crimes:127356, TPC Count:112130, Burglary:32035, Larceny:73096, Motor:6999, TVC Count:15226, Assault:10629, Murder:198, Rape:1294, Robbery:3105
+State:Arkansas, Year:2008, Total Crimes:125009, TPC Count:110360, Burglary:33912, Larceny:69905, Motor:6543, TVC Count:14649, Assault:10244, Murder:165, Rape:1463, Robbery:2777
+State:Arkansas, Year:2009, Total Crimes:123983, TPC Count:109078, Burglary:34753, Larceny:68228, Motor:6097, TVC Count:14905, Assault:10772, Murder:179, Rape:1378, Robbery:2576
+State:Arkansas, Year:2010, Total Crimes:118531, TPC Count:103820, Burglary:32463, Larceny:65796, Motor:5561, TVC Count:14711, Assault:10887, Murder:134, Rape:1321, Robbery:2369
+State:Arkansas, Year:2011, Total Crimes:124603, TPC Count:110430, Burglary:34016, Larceny:70645, Motor:5769, TVC Count:14173, Assault:10426, Murder:160, Rape:1230, Robbery:2357
+State:Arkansas, Year:2012, Total Crimes:121776, TPC Count:107941, Burglary:31890, Larceny:70327, Motor:5724, TVC Count:13835, Assault:10095, Murder:173, Rape:1247, Robbery:2320
+State:Arkansas, Year:2013, Total Crimes:120234, TPC Count:106613, Burglary:30485, Larceny:70450, Motor:5678, TVC Count:13621, Assault:9781, Murder:159, Rape:1423, Robbery:2258
+State:Arkansas, Year:2014, Total Crimes:113261, TPC Count:99018, Burglary:24790, Larceny:68627, Motor:5601, TVC Count:14243, Assault:10265, Murder:165, Rape:1763, Robbery:2050
+State:Arkansas, Year:2015, Total Crimes:112362, TPC Count:96836, Burglary:22640, Larceny:68424, Motor:5772, TVC Count:15526, Assault:11316, Murder:181, Rape:1931, Robbery:2098
+State:Arkansas, Year:2016, Total Crimes:114134, TPC Count:97673, Burglary:23771, Larceny:66747, Motor:7155, TVC Count:16461, Assault:11982, Murder:216, Rape:2143, Robbery:2120
+State:Arkansas, Year:2017, Total Crimes:109160, TPC Count:92489, Burglary:21862, Larceny:63374, Motor:7253, TVC Count:16671, Assault:12425, Murder:258, Rape:2053, Robbery:1935
+State:Arkansas, Year:2018, Total Crimes:104177, TPC Count:87793, Burglary:19193, Larceny:61487, Motor:7113, TVC Count:16384, Assault:12378, Murder:216, Rape:2196, Robbery:1594
+State:Arkansas, Year:2019, Total Crimes:103893, TPC Count:86250, Burglary:18095, Larceny:60735, Motor:7420, TVC Count:17643, Assault:13513, Murder:242, Rape:2331, Robbery:1557
+State:California, Year:2000, Total Crimes:1266714, TPC Count:1056183, Burglary:222293, Larceny:651855, Motor:182035, TVC Count:210531, Assault:138418, Murder:2079, Rape:9785, Robbery:60249
+State:California, Year:2001, Total Crimes:1347056, TPC Count:1134189, Burglary:232273, Larceny:697739, Motor:204177, TVC Count:212867, Assault:136087, Murder:2206, Rape:9960, Robbery:64614
+State:California, Year:2002, Total Crimes:1384872, TPC Count:1176484, Burglary:238428, Larceny:715692, Motor:222364, TVC Count:208388, Assault:130827, Murder:2395, Rape:10198, Robbery:64968
+State:California, Year:2003, Total Crimes:1420637, TPC Count:1215086, Burglary:242274, Larceny:731486, Motor:241326, TVC Count:205551, Assault:129380, Murder:2407, Rape:9994, Robbery:63770
+State:California, Year:2004, Total Crimes:1416369, TPC Count:1227194, Burglary:245903, Larceny:728687, Motor:252604, TVC Count:189175, Assault:115400, Murder:2392, Rape:9615, Robbery:61768
+State:California, Year:2005, Total Crimes:1390709, TPC Count:1200531, Burglary:250521, Larceny:692467, Motor:257543, TVC Count:190178, Assault:114661, Murder:2503, Rape:9392, Robbery:63622
+State:California, Year:2006, Total Crimes:1354471, TPC Count:1159988, Burglary:247230, Larceny:669103, Motor:243655, TVC Count:194483, Assault:111620, Murder:2486, Rape:9235, Robbery:71142
+State:California, Year:2007, Total Crimes:1304071, TPC Count:1112510, Burglary:237850, Larceny:654526, Motor:220134, TVC Count:191561, Assault:109547, Murder:2262, Rape:9046, Robbery:70706
+State:California, Year:2008, Total Crimes:1266325, TPC Count:1080996, Burglary:237811, Larceny:650656, Motor:192529, TVC Count:185329, Assault:104896, Murder:2142, Rape:8903, Robbery:69388
+State:California, Year:2009, Total Crimes:1184367, TPC Count:1009433, Burglary:230198, Larceny:615402, Motor:163833, TVC Count:174934, Assault:100156, Murder:1972, Rape:8713, Robbery:64093
+State:California, Year:2010, Total Crimes:1146072, TPC Count:981939, Burglary:228857, Larceny:600558, Motor:152524, TVC Count:164133, Assault:95877, Murder:1809, Rape:8331, Robbery:58116
+State:California, Year:2011, Total Crimes:1128765, TPC Count:973822, Burglary:230075, Larceny:596905, Motor:146842, TVC Count:154943, Assault:91195, Murder:1792, Rape:7665, Robbery:54291
+State:California, Year:2012, Total Crimes:1210409, TPC Count:1049465, Burglary:245767, Larceny:635090, Motor:168608, TVC Count:160944, Assault:94702, Murder:1884, Rape:7837, Robbery:56521
+State:California, Year:2013, Total Crimes:1173036, TPC Count:1018907, Burglary:232058, Larceny:621557, Motor:165292, TVC Count:154129, Assault:89029, Murder:1746, Rape:9714, Robbery:53640
+State:California, Year:2014, Total Crimes:1100901, TPC Count:947192, Burglary:202670, Larceny:592670, Motor:151852, TVC Count:153709, Assault:91803, Murder:1699, Rape:11527, Robbery:48680
+State:California, Year:2015, Total Crimes:1191797, TPC Count:1024914, Burglary:197404, Larceny:656517, Motor:170993, TVC Count:166883, Assault:99349, Murder:1861, Rape:12811, Robbery:52862
+State:California, Year:2016, Total Crimes:1176866, TPC Count:1002070, Burglary:188304, Larceny:637010, Motor:176756, TVC Count:174796, Assault:104375, Murder:1930, Rape:13702, Robbery:54789
+State:California, Year:2017, Total Crimes:1164741, TPC Count:987114, Burglary:176690, Larceny:642033, Motor:168391, TVC Count:177627, Assault:104454, Murder:1830, Rape:14721, Robbery:56622
+State:California, Year:2018, Total Crimes:1118600, TPC Count:941618, Burglary:164632, Larceny:621775, Motor:155211, TVC Count:176982, Assault:105412, Murder:1739, Rape:15505, Robbery:54326
+State:California, Year:2019, Total Crimes:1095445, TPC Count:921114, Burglary:152555, Larceny:626802, Motor:141757, TVC Count:174331, Assault:105541, Murder:1690, Rape:14799, Robbery:52301
+State:Colorado, Year:2000, Total Crimes:171304, TPC Count:156937, Burglary:27133, Larceny:112843, Motor:16961, TVC Count:14367, Assault:9425, Murder:134, Rape:1774, Robbery:3034
+State:Colorado, Year:2001, Total Crimes:186379, TPC Count:170887, Burglary:28533, Larceny:121360, Motor:20994, TVC Count:15492, Assault:9849, Murder:158, Rape:1930, Robbery:3555
+State:Colorado, Year:2002, Total Crimes:195936, TPC Count:180054, Burglary:31678, Larceny:125193, Motor:23183, TVC Count:15882, Assault:10058, Murder:179, Rape:2066, Robbery:3579
+State:Colorado, Year:2003, Total Crimes:195463, TPC Count:179706, Burglary:32394, Larceny:124496, Motor:22816, TVC Count:15757, Assault:9921, Murder:185, Rape:1913, Robbery:3738
+State:Colorado, Year:2004, Total Crimes:197443, TPC Count:180322, Burglary:33010, Larceny:123308, Motor:24004, TVC Count:17121, Assault:11236, Murder:201, Rape:1945, Robbery:3739
+State:Colorado, Year:2005, Total Crimes:206947, TPC Count:188449, Burglary:34746, Larceny:127602, Motor:26101, TVC Count:18498, Assault:12351, Murder:173, Rape:2026, Robbery:3948
+State:Colorado, Year:2006, Total Crimes:182233, TPC Count:163439, Burglary:32411, Larceny:110372, Motor:20656, TVC Count:18794, Assault:12641, Murder:171, Rape:2158, Robbery:3824
+State:Colorado, Year:2007, Total Crimes:162909, TPC Count:145808, Burglary:28633, Larceny:100519, Motor:16656, TVC Count:17101, Assault:11410, Murder:155, Rape:2075, Robbery:3461
+State:Colorado, Year:2008, Total Crimes:156820, TPC Count:139340, Burglary:28054, Larceny:97937, Motor:13349, TVC Count:17480, Assault:11760, Murder:165, Rape:2151, Robbery:3404
+State:Colorado, Year:2009, Total Crimes:151218, TPC Count:134196, Burglary:26637, Larceny:95079, Motor:12480, TVC Count:17022, Assault:11223, Murder:159, Rape:2269, Robbery:3371
+State:Colorado, Year:2010, Total Crimes:151340, TPC Count:135001, Burglary:26196, Larceny:97534, Motor:11271, TVC Count:16339, Assault:10816, Murder:129, Rape:2230, Robbery:3164
+State:Colorado, Year:2011, Total Crimes:148866, TPC Count:132781, Burglary:25725, Larceny:96054, Motor:11002, TVC Count:16085, Assault:10346, Murder:155, Rape:2285, Robbery:3299
+State:Colorado, Year:2012, Total Crimes:155293, TPC Count:139270, Burglary:26157, Larceny:101021, Motor:12092, TVC Count:16023, Assault:10353, Murder:162, Rape:2113, Robbery:3395
+State:Colorado, Year:2013, Total Crimes:156283, TPC Count:140057, Burglary:25081, Larceny:102443, Motor:12533, TVC Count:16226, Assault:9963, Murder:178, Rape:2934, Robbery:3151
+State:Colorado, Year:2014, Total Crimes:152064, TPC Count:135510, Burglary:23472, Larceny:99464, Motor:12574, TVC Count:16554, Assault:10325, Murder:151, Rape:3039, Robbery:3039
+State:Colorado, Year:2015, Total Crimes:161651, TPC Count:144136, Burglary:23454, Larceny:104682, Motor:16000, TVC Count:17515, Assault:10759, Murder:176, Rape:3257, Robbery:3323
+State:Colorado, Year:2016, Total Crimes:170833, TPC Count:151850, Burglary:23903, Larceny:108336, Motor:19611, TVC Count:18983, Assault:11696, Murder:204, Rape:3555, Robbery:3528
+State:Colorado, Year:2017, Total Crimes:172121, TPC Count:151483, Burglary:22813, Larceny:106809, Motor:21861, TVC Count:20638, Assault:12721, Murder:221, Rape:3858, Robbery:3838
+State:Colorado, Year:2018, Total Crimes:174787, TPC Count:152163, Burglary:21371, Larceny:109119, Motor:21673, TVC Count:22624, Assault:14547, Murder:210, Rape:4070, Robbery:3797
+State:Colorado, Year:2019, Total Crimes:171127, TPC Count:149189, Burglary:20064, Larceny:107012, Motor:22113, TVC Count:21938, Assault:14185, Murder:218, Rape:3872, Robbery:3663
+State:Connecticut, Year:2000, Total Crimes:110091, TPC Count:99033, Burglary:17436, Larceny:68498, Motor:13099, TVC Count:11058, Assault:6450, Murder:98, Rape:678, Robbery:3832
+State:Connecticut, Year:2001, Total Crimes:106791, TPC Count:95299, Burglary:17159, Larceny:65762, Motor:12378, TVC Count:11492, Assault:6565, Murder:105, Rape:639, Robbery:4183
+State:Connecticut, Year:2002, Total Crimes:104233, TPC Count:93426, Burglary:17111, Larceny:64735, Motor:11580, TVC Count:10807, Assault:5914, Murder:84, Rape:740, Robbery:4069
+State:Connecticut, Year:2003, Total Crimes:104026, TPC Count:92981, Burglary:16043, Larceny:65568, Motor:11370, TVC Count:11045, Assault:6023, Murder:112, Rape:698, Robbery:4212
+State:Connecticut, Year:2004, Total Crimes:104055, TPC Count:93942, Burglary:15959, Larceny:66770, Motor:11213, TVC Count:10113, Assault:5070, Murder:100, Rape:755, Robbery:4188
+State:Connecticut, Year:2005, Total Crimes:99812, TPC Count:90270, Burglary:15245, Larceny:64416, Motor:10609, TVC Count:9542, Assault:4792, Murder:105, Rape:712, Robbery:3933
+State:Connecticut, Year:2006, Total Crimes:101143, TPC Count:90638, Burglary:15583, Larceny:64765, Motor:10290, TVC Count:10505, Assault:5212, Murder:137, Rape:696, Robbery:4460
+State:Connecticut, Year:2007, Total Crimes:97075, TPC Count:86528, Burglary:15640, Larceny:60937, Motor:9951, TVC Count:10547, Assault:5441, Murder:113, Rape:690, Robbery:4303
+State:Connecticut, Year:2008, Total Crimes:97947, TPC Count:87210, Burglary:15107, Larceny:63212, Motor:8891, TVC Count:10737, Assault:5882, Murder:132, Rape:680, Robbery:4043
+State:Connecticut, Year:2009, Total Crimes:93213, TPC Count:82625, Burglary:15172, Larceny:59992, Motor:7461, TVC Count:10588, Assault:5824, Murder:106, Rape:657, Robbery:4001
+State:Connecticut, Year:2010, Total Crimes:88342, TPC Count:78259, Burglary:15145, Larceny:56413, Motor:6701, TVC Count:10083, Assault:5802, Murder:133, Rape:595, Robbery:3553
+State:Connecticut, Year:2011, Total Crimes:87094, TPC Count:77205, Burglary:15468, Larceny:55067, Motor:6670, TVC Count:9889, Assault:5382, Murder:129, Rape:689, Robbery:3689
+State:Connecticut, Year:2012, Total Crimes:86994, TPC Count:76834, Burglary:14711, Larceny:55674, Motor:6449, TVC Count:10160, Assault:5408, Murder:146, Rape:919, Robbery:3687
+State:Connecticut, Year:2013, Total Crimes:80430, TPC Count:70990, Burglary:12892, Larceny:51876, Motor:6222, TVC Count:9440, Assault:4869, Murder:86, Rape:955, Robbery:3530
+State:Connecticut, Year:2014, Total Crimes:77592, TPC Count:69070, Burglary:11955, Larceny:51005, Motor:6110, TVC Count:8522, Assault:4495, Murder:86, Rape:782, Robbery:3159
+State:Connecticut, Year:2015, Total Crimes:72911, TPC Count:65066, Burglary:10053, Larceny:48675, Motor:6338, TVC Count:7845, Assault:4063, Murder:117, Rape:773, Robbery:2892
+State:Connecticut, Year:2016, Total Crimes:72787, TPC Count:64664, Burglary:10045, Larceny:47512, Motor:7107, TVC Count:8123, Assault:4579, Murder:78, Rape:763, Robbery:2703
+State:Connecticut, Year:2017, Total Crimes:71689, TPC Count:63509, Burglary:8890, Larceny:47310, Motor:7309, TVC Count:8180, Assault:4428, Murder:102, Rape:837, Robbery:2813
+State:Connecticut, Year:2018, Total Crimes:67466, TPC Count:60055, Burglary:7948, Larceny:44724, Motor:7383, TVC Count:7411, Assault:4294, Murder:83, Rape:840, Robbery:2194
+State:Connecticut, Year:2019, Total Crimes:57408, TPC Count:50862, Burglary:6441, Larceny:38457, Motor:5964, TVC Count:6546, Assault:3742, Murder:104, Rape:771, Robbery:1929
+State:Delaware, Year:2000, Total Crimes:35090, TPC Count:29727, Burglary:5216, Larceny:21360, Motor:3151, TVC Count:5363, Assault:3520, Murder:25, Rape:424, Robbery:1394
+State:Delaware, Year:2001, Total Crimes:32267, TPC Count:27399, Burglary:5144, Larceny:19476, Motor:2779, TVC Count:4868, Assault:3269, Murder:23, Rape:420, Robbery:1156
+State:Delaware, Year:2002, Total Crimes:31803, TPC Count:26967, Burglary:5355, Larceny:18555, Motor:3057, TVC Count:4836, Assault:3298, Murder:26, Rape:358, Robbery:1154
+State:Delaware, Year:2003, Total Crimes:33468, TPC Count:27943, Burglary:6066, Larceny:18933, Motor:2944, TVC Count:5525, Assault:3693, Murder:21, Rape:370, Robbery:1441
+State:Delaware, Year:2004, Total Crimes:32361, TPC Count:27256, Burglary:5669, Larceny:19285, Motor:2302, TVC Count:5105, Assault:3377, Murder:28, Rape:357, Robbery:1343
+State:Delaware, Year:2005, Total Crimes:31577, TPC Count:26245, Burglary:5811, Larceny:18085, Motor:2349, TVC Count:5332, Assault:3612, Murder:37, Rape:377, Robbery:1306
+State:Delaware, Year:2006, Total Crimes:35653, TPC Count:29670, Burglary:6337, Larceny:20449, Motor:2884, TVC Count:5983, Assault:3733, Murder:42, Rape:417, Robbery:1791
+State:Delaware, Year:2007, Total Crimes:35316, TPC Count:29216, Burglary:6420, Larceny:20454, Motor:2342, TVC Count:6100, Assault:3957, Murder:39, Rape:341, Robbery:1763
+State:Delaware, Year:2008, Total Crimes:37572, TPC Count:31385, Burglary:6783, Larceny:22045, Motor:2557, TVC Count:6187, Assault:3912, Murder:57, Rape:371, Robbery:1847
+State:Delaware, Year:2009, Total Crimes:35398, TPC Count:29685, Burglary:6943, Larceny:20836, Motor:1906, TVC Count:5713, Assault:3597, Murder:41, Rape:395, Robbery:1680
+State:Delaware, Year:2010, Total Crimes:36686, TPC Count:31078, Burglary:7550, Larceny:21593, Motor:1935, TVC Count:5608, Assault:3392, Murder:51, Rape:326, Robbery:1839
+State:Delaware, Year:2011, Total Crimes:36307, TPC Count:31163, Burglary:7617, Larceny:22001, Motor:1545, TVC Count:5144, Assault:3231, Murder:48, Rape:307, Robbery:1558
+State:Delaware, Year:2012, Total Crimes:35659, TPC Count:30639, Burglary:7371, Larceny:21832, Motor:1436, TVC Count:5020, Assault:3228, Murder:57, Rape:243, Robbery:1492
+State:Delaware, Year:2013, Total Crimes:32928, TPC Count:28379, Burglary:6131, Larceny:20916, Motor:1332, TVC Count:4549, Assault:2904, Murder:39, Rape:380, Robbery:1226
+State:Delaware, Year:2014, Total Crimes:32476, TPC Count:27900, Burglary:5768, Larceny:20865, Motor:1267, TVC Count:4576, Assault:2867, Murder:54, Rape:386, Robbery:1269
+State:Delaware, Year:2015, Total Crimes:30175, TPC Count:25455, Burglary:4773, Larceny:19501, Motor:1181, TVC Count:4720, Assault:3081, Murder:63, Rape:341, Robbery:1235
+State:Delaware, Year:2016, Total Crimes:31178, TPC Count:26334, Burglary:5023, Larceny:19791, Motor:1520, TVC Count:4844, Assault:3121, Murder:56, Rape:308, Robbery:1359
+State:Delaware, Year:2017, Total Crimes:27838, TPC Count:23477, Burglary:3970, Larceny:18138, Motor:1369, TVC Count:4361, Assault:2891, Murder:54, Rape:334, Robbery:1082
+State:Delaware, Year:2018, Total Crimes:26578, TPC Count:22481, Burglary:3158, Larceny:17847, Motor:1476, TVC Count:4097, Assault:2845, Murder:48, Rape:338, Robbery:866
+State:Delaware, Year:2019, Total Crimes:26046, TPC Count:21931, Burglary:2968, Larceny:17359, Motor:1604, TVC Count:4115, Assault:2967, Murder:48, Rape:310, Robbery:790
+State:District of Columbia, Year:2000, Total Crimes:41626, TPC Count:33000, Burglary:4745, Larceny:21655, Motor:6600, TVC Count:8626, Assault:4582, Murder:239, Rape:251, Robbery:3554
+State:District of Columbia, Year:2001, Total Crimes:44427, TPC Count:35232, Burglary:4949, Larceny:22313, Motor:7970, TVC Count:9195, Assault:5003, Murder:231, Rape:181, Robbery:3780
+State:District of Columbia, Year:2002, Total Crimes:45799, TPC Count:36477, Burglary:5170, Larceny:21708, Motor:9599, TVC Count:9322, Assault:4962, Murder:264, Rape:262, Robbery:3834
+State:District of Columbia, Year:2003, Total Crimes:41757, TPC Count:32696, Burglary:4671, Larceny:18119, Motor:9906, TVC Count:9061, Assault:4597, Murder:249, Rape:274, Robbery:3941
+State:District of Columbia, Year:2004, Total Crimes:34486, TPC Count:26896, Burglary:3946, Larceny:14542, Motor:8408, TVC Count:7590, Assault:3968, Murder:198, Rape:222, Robbery:3202
+State:District of Columbia, Year:2005, Total Crimes:34165, TPC Count:26133, Burglary:3577, Larceny:14836, Motor:7720, TVC Count:8032, Assault:3971, Murder:195, Rape:166, Robbery:3700
+State:District of Columbia, Year:2006, Total Crimes:35836, TPC Count:27064, Burglary:3835, Larceny:15908, Motor:7321, TVC Count:8772, Assault:4589, Murder:169, Rape:185, Robbery:3829
+State:District of Columbia, Year:2007, Total Crimes:37247, TPC Count:28922, Burglary:3926, Larceny:17390, Motor:7606, TVC Count:8325, Assault:3687, Murder:181, Rape:192, Robbery:4265
+State:District of Columbia, Year:2008, Total Crimes:38720, TPC Count:30211, Burglary:3788, Larceny:19958, Motor:6465, TVC Count:8509, Assault:3707, Murder:186, Rape:186, Robbery:4430
+State:District of Columbia, Year:2009, Total Crimes:36584, TPC Count:28495, Burglary:3696, Larceny:19267, Motor:5532, TVC Count:8089, Assault:3390, Murder:145, Rape:150, Robbery:4404
+State:District of Columbia, Year:2010, Total Crimes:36828, TPC Count:28802, Burglary:4233, Larceny:19514, Motor:5055, TVC Count:8026, Assault:3382, Murder:132, Rape:187, Robbery:4325
+State:District of Columbia, Year:2011, Total Crimes:37087, TPC Count:29654, Burglary:3850, Larceny:21347, Motor:4457, TVC Count:7433, Assault:3058, Murder:108, Rape:173, Robbery:4094
+State:District of Columbia, Year:2012, Total Crimes:38600, TPC Count:30736, Burglary:3519, Larceny:23556, Motor:3661, TVC Count:7864, Assault:3504, Murder:88, Rape:236, Robbery:4036
+State:District of Columbia, Year:2013, Total Crimes:39489, TPC Count:31083, Burglary:3316, Larceny:24533, Motor:3234, TVC Count:8406, Assault:3830, Murder:103, Rape:395, Robbery:4078
+State:District of Columbia, Year:2014, Total Crimes:42346, TPC Count:34147, Burglary:3466, Larceny:26898, Motor:3783, TVC Count:8199, Assault:4125, Murder:105, Rape:472, Robbery:3497
+State:District of Columbia, Year:2015, Total Crimes:39966, TPC Count:31435, Burglary:2971, Larceny:25200, Motor:3264, TVC Count:8531, Assault:4133, Murder:162, Rape:494, Robbery:3742
+State:District of Columbia, Year:2016, Total Crimes:40930, TPC Count:32716, Burglary:2361, Larceny:27382, Motor:2973, TVC Count:8214, Assault:4063, Murder:139, Rape:532, Robbery:3480
+State:District of Columbia, Year:2017, Total Crimes:36703, TPC Count:29729, Burglary:1809, Larceny:25333, Motor:2587, TVC Count:6974, Assault:3791, Murder:116, Rape:444, Robbery:2623
+State:District of Columbia, Year:2018, Total Crimes:37720, TPC Count:30724, Burglary:1788, Larceny:26343, Motor:2593, TVC Count:6996, Assault:3971, Murder:160, Rape:450, Robbery:2415
+State:District of Columbia, Year:2019, Total Crimes:38224, TPC Count:30821, Burglary:1843, Larceny:26645, Motor:2333, TVC Count:7403, Assault:4179, Murder:166, Rape:345, Robbery:2713
+State:Florida, Year:2000, Total Crimes:910154, TPC Count:780377, Burglary:172898, Larceny:518298, Motor:89181, TVC Count:129777, Assault:90008, Murder:903, Rape:7057, Robbery:31809
+State:Florida, Year:2001, Total Crimes:913230, TPC Count:782517, Burglary:176052, Larceny:516548, Motor:89917, TVC Count:130713, Assault:90331, Murder:874, Rape:6641, Robbery:32867
+State:Florida, Year:2002, Total Crimes:905957, TPC Count:777236, Burglary:177242, Larceny:511478, Motor:88516, TVC Count:128721, Assault:88476, Murder:911, Rape:6753, Robbery:32581
+State:Florida, Year:2003, Total Crimes:881976, TPC Count:757696, Burglary:170644, Larceny:505489, Motor:81563, TVC Count:124280, Assault:85106, Murder:924, Rape:6727, Robbery:31523
+State:Florida, Year:2004, Total Crimes:850895, TPC Count:727141, Burglary:166332, Larceny:482484, Motor:78325, TVC Count:123754, Assault:86199, Murder:946, Rape:6612, Robbery:29997
+State:Florida, Year:2005, Total Crimes:838955, TPC Count:712998, Burglary:164783, Larceny:472912, Motor:75303, TVC Count:125957, Assault:88341, Murder:883, Rape:6592, Robbery:30141
+State:Florida, Year:2006, Total Crimes:850703, TPC Count:721101, Burglary:170873, Larceny:473774, Motor:76454, TVC Count:129602, Assault:87851, Murder:1129, Rape:6475, Robbery:34147
+State:Florida, Year:2007, Total Crimes:878127, TPC Count:746249, Burglary:181836, Larceny:490783, Motor:73630, TVC Count:131878, Assault:86372, Murder:1202, Rape:6149, Robbery:38155
+State:Florida, Year:2008, Total Crimes:885145, TPC Count:758889, Burglary:188472, Larceny:506902, Motor:63515, TVC Count:126256, Assault:82848, Murder:1168, Rape:5972, Robbery:36268
+State:Florida, Year:2009, Total Crimes:825551, TPC Count:712010, Burglary:181884, Larceny:479867, Motor:50259, TVC Count:113541, Assault:76112, Murder:1017, Rape:5501, Robbery:30911
+State:Florida, Year:2010, Total Crimes:771004, TPC Count:669035, Burglary:169119, Larceny:458454, Motor:41462, TVC Count:101969, Assault:69523, Murder:987, Rape:5373, Robbery:26086
+State:Florida, Year:2011, Total Crimes:769398, TPC Count:671200, Burglary:170171, Larceny:461408, Motor:39621, TVC Count:98198, Assault:66319, Murder:984, Rape:5273, Robbery:25622
+State:Florida, Year:2012, Total Crimes:727075, TPC Count:632988, Burglary:153563, Larceny:442095, Motor:37330, TVC Count:94087, Assault:63929, Murder:1009, Rape:5260, Robbery:23889
+State:Florida, Year:2013, Total Crimes:699158, TPC Count:607172, Burglary:138916, Larceny:433344, Motor:34912, TVC Count:91986, Assault:61054, Murder:972, Rape:6760, Robbery:23200
+State:Florida, Year:2014, Total Crimes:786967, TPC Count:679446, Burglary:143220, Larceny:493647, Motor:42579, TVC Count:107521, Assault:72895, Murder:1149, Rape:8563, Robbery:24914
+State:Florida, Year:2015, Total Crimes:663896, TPC Count:570270, Burglary:109268, Larceny:420341, Motor:40661, TVC Count:93626, Assault:63895, Murder:1041, Rape:7553, Robbery:21137
+State:Florida, Year:2016, Total Crimes:642512, TPC Count:553812, Burglary:100325, Larceny:410352, Motor:43135, TVC Count:88700, Assault:59816, Murder:1111, Rape:7598, Robbery:20175
+State:Florida, Year:2017, Total Crimes:612845, TPC Count:527220, Burglary:88853, Larceny:395453, Motor:42914, TVC Count:85625, Assault:58031, Murder:1057, Rape:7940, Robbery:18597
+State:Florida, Year:2018, Total Crimes:567997, TPC Count:486017, Burglary:71933, Larceny:372919, Motor:41165, TVC Count:81980, Assault:55551, Murder:1107, Rape:8438, Robbery:16884
+State:Florida, Year:2019, Total Crimes:542116, TPC Count:460846, Burglary:63396, Larceny:358402, Motor:39048, TVC Count:81270, Assault:55475, Murder:1122, Rape:8456, Robbery:16217
+State:Georgia, Year:2000, Total Crimes:388949, TPC Count:347630, Burglary:68488, Larceny:240440, Motor:38702, TVC Count:41319, Assault:25450, Murder:651, Rape:1968, Robbery:13250
+State:Georgia, Year:2001, Total Crimes:389543, TPC Count:347872, Burglary:71799, Larceny:238484, Motor:37589, TVC Count:41671, Assault:24491, Murder:598, Rape:2180, Robbery:14402
+State:Georgia, Year:2002, Total Crimes:385830, TPC Count:346559, Burglary:73932, Larceny:234591, Motor:38036, TVC Count:39271, Assault:23125, Murder:606, Rape:2108, Robbery:13432
+State:Georgia, Year:2003, Total Crimes:409024, TPC Count:369589, Burglary:79001, Larceny:247196, Motor:43392, TVC Count:39435, Assault:22501, Murder:657, Rape:2234, Robbery:14043
+State:Georgia, Year:2004, Total Crimes:416873, TPC Count:376656, Burglary:82992, Larceny:249426, Motor:44238, TVC Count:40217, Assault:23561, Murder:613, Rape:2387, Robbery:13656
+State:Georgia, Year:2005, Total Crimes:419259, TPC Count:378534, Burglary:84463, Larceny:249594, Motor:44477, TVC Count:40725, Assault:23977, Murder:564, Rape:2143, Robbery:14041
+State:Georgia, Year:2006, Total Crimes:407466, TPC Count:362712, Burglary:85140, Larceny:234445, Motor:43127, TVC Count:44754, Assault:26469, Murder:605, Rape:2169, Robbery:15511
+State:Georgia, Year:2007, Total Crimes:418165, TPC Count:371248, Burglary:90294, Larceny:238436, Motor:42518, TVC Count:46917, Assault:26708, Murder:720, Rape:2198, Robbery:17291
+State:Georgia, Year:2008, Total Crimes:435270, TPC Count:387917, Burglary:100564, Larceny:247709, Motor:39644, TVC Count:47353, Assault:26571, Murder:640, Rape:2334, Robbery:17808
+State:Georgia, Year:2009, Total Crimes:403058, TPC Count:360985, Burglary:98606, Larceny:229216, Motor:33163, TVC Count:42073, Assault:24553, Murder:566, Rape:2323, Robbery:14631
+State:Georgia, Year:2010, Total Crimes:392517, TPC Count:353449, Burglary:96947, Larceny:226161, Motor:30341, TVC Count:39068, Assault:24034, Murder:555, Rape:2107, Robbery:12372
+State:Georgia, Year:2011, Total Crimes:393997, TPC Count:357235, Burglary:96014, Larceny:231543, Motor:29678, TVC Count:36762, Assault:21881, Murder:549, Rape:2066, Robbery:12266
+State:Georgia, Year:2012, Total Crimes:375920, TPC Count:338329, Burglary:86789, Larceny:223004, Motor:28536, TVC Count:37591, Assault:22423, Murder:581, Rape:2124, Robbery:12463
+State:Georgia, Year:2013, Total Crimes:370940, TPC Count:334399, Burglary:82258, Larceny:225315, Motor:26826, TVC Count:36541, Assault:20915, Murder:556, Rape:2582, Robbery:12488
+State:Georgia, Year:2014, Total Crimes:369413, TPC Count:331316, Burglary:76428, Larceny:228034, Motor:26854, TVC Count:38097, Assault:22052, Murder:580, Rape:3048, Robbery:12417
+State:Georgia, Year:2015, Total Crimes:347366, TPC Count:308723, Burglary:66374, Larceny:215867, Motor:26482, TVC Count:38643, Assault:22557, Murder:615, Rape:3224, Robbery:12247
+State:Georgia, Year:2016, Total Crimes:350760, TPC Count:309770, Burglary:63344, Larceny:219625, Motor:26801, TVC Count:40990, Assault:24595, Murder:681, Rape:3509, Robbery:12205
+State:Georgia, Year:2017, Total Crimes:335556, TPC Count:298298, Burglary:55374, Larceny:216661, Motor:26263, TVC Count:37258, Assault:23793, Murder:703, Rape:2718, Robbery:10044
+State:Georgia, Year:2018, Total Crimes:305093, TPC Count:270738, Burglary:45369, Larceny:200609, Motor:24760, TVC Count:34355, Assault:22783, Murder:642, Rape:2651, Robbery:8279
+State:Georgia, Year:2019, Total Crimes:288419, TPC Count:252249, Burglary:39506, Larceny:188967, Motor:23776, TVC Count:36170, Assault:24633, Murder:654, Rape:2922, Robbery:7961
+State:Hawaii, Year:2000, Total Crimes:62987, TPC Count:60033, Burglary:10665, Larceny:43254, Motor:6114, TVC Count:2954, Assault:1450, Murder:35, Rape:346, Robbery:1123
+State:Hawaii, Year:2001, Total Crimes:65947, TPC Count:62830, Burglary:11162, Larceny:44925, Motor:6743, TVC Count:3117, Assault:1534, Murder:32, Rape:409, Robbery:1142
+State:Hawaii, Year:2002, Total Crimes:75238, TPC Count:71976, Burglary:12722, Larceny:49344, Motor:9910, TVC Count:3262, Assault:1656, Murder:24, Rape:372, Robbery:1210
+State:Hawaii, Year:2003, Total Crimes:69267, TPC Count:65867, Burglary:11409, Larceny:44807, Motor:9651, TVC Count:3400, Assault:1843, Murder:22, Rape:367, Robbery:1168
+State:Hawaii, Year:2004, Total Crimes:63738, TPC Count:60525, Burglary:10827, Larceny:41078, Motor:8620, TVC Count:3213, Assault:1903, Murder:33, Rape:333, Robbery:944
+State:Hawaii, Year:2005, Total Crimes:64368, TPC Count:61115, Burglary:9792, Larceny:42188, Motor:9135, TVC Count:3253, Assault:1885, Murder:24, Rape:343, Robbery:1001
+State:Hawaii, Year:2006, Total Crimes:57855, TPC Count:54247, Burglary:8724, Larceny:37784, Motor:7739, TVC Count:3608, Assault:2090, Murder:21, Rape:353, Robbery:1144
+State:Hawaii, Year:2007, Total Crimes:56410, TPC Count:52866, Burglary:9089, Larceny:37494, Motor:6283, TVC Count:3544, Assault:2021, Murder:24, Rape:377, Robbery:1122
+State:Hawaii, Year:2008, Total Crimes:49454, TPC Count:45944, Burglary:9404, Larceny:31424, Motor:5116, TVC Count:3510, Assault:2036, Murder:26, Rape:363, Robbery:1085
+State:Hawaii, Year:2009, Total Crimes:51066, TPC Count:47516, Burglary:9244, Larceny:33415, Motor:4857, TVC Count:3550, Assault:2112, Murder:23, Rape:385, Robbery:1030
+State:Hawaii, Year:2010, Total Crimes:49270, TPC Count:45667, Burglary:8706, Larceny:31681, Motor:5280, TVC Count:3603, Assault:2136, Murder:25, Rape:377, Robbery:1065
+State:Hawaii, Year:2011, Total Crimes:47339, TPC Count:43874, Burglary:8165, Larceny:31240, Motor:4469, TVC Count:3465, Assault:2098, Murder:20, Rape:353, Robbery:994
+State:Hawaii, Year:2012, Total Crimes:46147, TPC Count:42817, Burglary:7979, Larceny:31233, Motor:3605, TVC Count:3330, Assault:1976, Murder:29, Rape:285, Robbery:1040
+State:Hawaii, Year:2013, Total Crimes:46408, TPC Count:42875, Burglary:7533, Larceny:31658, Motor:3684, TVC Count:3533, Assault:1996, Murder:21, Rape:385, Robbery:1131
+State:Hawaii, Year:2014, Total Crimes:46977, TPC Count:43297, Burglary:7778, Larceny:31640, Motor:3879, TVC Count:3680, Assault:2102, Murder:26, Rape:445, Robbery:1107
+State:Hawaii, Year:2015, Total Crimes:58547, TPC Count:54346, Burglary:6557, Larceny:42010, Motor:5779, TVC Count:4201, Assault:2418, Murder:19, Rape:561, Robbery:1203
+State:Hawaii, Year:2016, Total Crimes:47170, TPC Count:42753, Burglary:6017, Larceny:31082, Motor:5654, TVC Count:4417, Assault:2769, Murder:35, Rape:619, Robbery:994
+State:Hawaii, Year:2017, Total Crimes:43969, TPC Count:40392, Burglary:5549, Larceny:29574, Motor:5269, TVC Count:3577, Assault:1894, Murder:39, Rape:567, Robbery:1077
+State:Hawaii, Year:2018, Total Crimes:44304, TPC Count:40772, Burglary:5631, Larceny:29492, Motor:5649, TVC Count:3532, Assault:1925, Murder:36, Rape:625, Robbery:946
+State:Hawaii, Year:2019, Total Crimes:44270, TPC Count:40228, Burglary:5340, Larceny:29634, Motor:5254, TVC Count:4042, Assault:2098, Murder:48, Rape:765, Robbery:1131
+State:Idaho, Year:2000, Total Crimes:41228, TPC Count:37961, Burglary:7330, Larceny:28545, Motor:2086, TVC Count:3267, Assault:2644, Murder:16, Rape:384, Robbery:223
+State:Idaho, Year:2001, Total Crimes:41392, TPC Count:38181, Burglary:7507, Larceny:28285, Motor:2389, TVC Count:3211, Assault:2511, Murder:30, Rape:425, Robbery:245
+State:Idaho, Year:2002, Total Crimes:42547, TPC Count:39128, Burglary:7441, Larceny:29060, Motor:2627, TVC Count:3419, Assault:2646, Murder:36, Rape:497, Robbery:240
+State:Idaho, Year:2003, Total Crimes:43404, TPC Count:40042, Burglary:7837, Larceny:29559, Motor:2646, TVC Count:3362, Assault:2556, Murder:26, Rape:535, Robbery:245
+State:Idaho, Year:2004, Total Crimes:42251, TPC Count:38799, Burglary:7671, Larceny:28389, Motor:2739, TVC Count:3452, Assault:2586, Murder:31, Rape:594, Robbery:241
+State:Idaho, Year:2005, Total Crimes:42226, TPC Count:38556, Burglary:8066, Larceny:27606, Motor:2884, TVC Count:3670, Assault:2792, Murder:35, Rape:577, Robbery:266
+State:Idaho, Year:2006, Total Crimes:38801, TPC Count:35135, Burglary:7545, Larceny:25154, Motor:2436, TVC Count:3666, Assault:2726, Murder:35, Rape:611, Robbery:294
+State:Idaho, Year:2007, Total Crimes:37965, TPC Count:34124, Burglary:7131, Larceny:24727, Motor:2266, TVC Count:3841, Assault:2942, Murder:49, Rape:607, Robbery:243
+State:Idaho, Year:2008, Total Crimes:35620, TPC Count:31940, Burglary:6748, Larceny:23532, Motor:1660, TVC Count:3680, Assault:2839, Murder:23, Rape:579, Robbery:239
+State:Idaho, Year:2009, Total Crimes:35025, TPC Count:31220, Burglary:6682, Larceny:23066, Motor:1472, TVC Count:3805, Assault:2952, Murder:24, Rape:575, Robbery:254
+State:Idaho, Year:2010, Total Crimes:34900, TPC Count:31436, Burglary:6513, Larceny:23594, Motor:1329, TVC Count:3464, Assault:2696, Murder:22, Rape:533, Robbery:213
+State:Idaho, Year:2011, Total Crimes:36077, TPC Count:32875, Burglary:6915, Larceny:24629, Motor:1331, TVC Count:3202, Assault:2535, Murder:35, Rape:444, Robbery:188
+State:Idaho, Year:2012, Total Crimes:34969, TPC Count:31651, Burglary:7186, Larceny:23101, Motor:1364, TVC Count:3318, Assault:2567, Murder:29, Rape:479, Robbery:243
+State:Idaho, Year:2013, Total Crimes:33553, TPC Count:30055, Burglary:6640, Larceny:21879, Motor:1536, TVC Count:3498, Assault:2596, Murder:27, Rape:655, Robbery:220
+State:Idaho, Year:2014, Total Crimes:33784, TPC Count:30316, Burglary:6428, Larceny:22227, Motor:1661, TVC Count:3468, Assault:2623, Murder:32, Rape:609, Robbery:204
+State:Idaho, Year:2015, Total Crimes:32426, TPC Count:28858, Burglary:6124, Larceny:20863, Motor:1871, TVC Count:3568, Assault:2650, Murder:32, Rape:694, Robbery:192
+State:Idaho, Year:2016, Total Crimes:33233, TPC Count:29357, Burglary:6318, Larceny:20962, Motor:2077, TVC Count:3876, Assault:2895, Murder:49, Rape:719, Robbery:213
+State:Idaho, Year:2017, Total Crimes:31967, TPC Count:28079, Burglary:5655, Larceny:20278, Motor:2146, TVC Count:3888, Assault:2953, Murder:32, Rape:707, Robbery:196
+State:Idaho, Year:2018, Total Crimes:29619, TPC Count:25636, Burglary:4940, Larceny:18732, Motor:1964, TVC Count:3983, Assault:2957, Murder:35, Rape:791, Robbery:200
+State:Idaho, Year:2019, Total Crimes:25793, TPC Count:21793, Burglary:3927, Larceny:16295, Motor:1571, TVC Count:4000, Assault:3001, Murder:35, Rape:809, Robbery:155
+State:Illinois, Year:2000, Total Crimes:526474, TPC Count:445278, Burglary:81850, Larceny:313161, Motor:50267, TVC Count:81196, Assault:50731, Murder:898, Rape:3926, Robbery:25641
+State:Illinois, Year:2001, Total Crimes:513918, TPC Count:434648, Burglary:79158, Larceny:306757, Motor:48733, TVC Count:79270, Assault:49347, Murder:982, Rape:4010, Robbery:24931
+State:Illinois, Year:2002, Total Crimes:506238, TPC Count:430479, Burglary:81440, Larceny:304227, Motor:44812, TVC Count:75759, Assault:45114, Murder:961, Rape:4370, Robbery:25314
+State:Illinois, Year:2003, Total Crimes:486261, TPC Count:415885, Burglary:78345, Larceny:295907, Motor:41633, TVC Count:70376, Assault:41506, Murder:895, Rape:4189, Robbery:23786
+State:Illinois, Year:2004, Total Crimes:472851, TPC Count:403486, Burglary:76088, Larceny:287025, Motor:40373, TVC Count:69365, Assault:41783, Murder:780, Rape:4220, Robbery:22582
+State:Illinois, Year:2005, Total Crimes:465166, TPC Count:394670, Burglary:77635, Larceny:277662, Motor:39373, TVC Count:70496, Assault:42158, Murder:770, Rape:4313, Robbery:23255
+State:Illinois, Year:2006, Total Crimes:456976, TPC Count:387478, Burglary:77259, Larceny:272578, Motor:37641, TVC Count:69498, Assault:40858, Murder:780, Rape:4078, Robbery:23782
+State:Illinois, Year:2007, Total Crimes:445850, TPC Count:377322, Burglary:75524, Larceny:267911, Motor:33887, TVC Count:68528, Assault:40573, Murder:752, Rape:4103, Robbery:23100
+State:Illinois, Year:2008, Total Crimes:446135, TPC Count:378355, Burglary:78968, Larceny:266815, Motor:32572, TVC Count:67780, Assault:38818, Murder:790, Rape:4118, Robbery:24054
+State:Illinois, Year:2009, Total Crimes:417532, TPC Count:353347, Burglary:77850, Larceny:248821, Motor:26676, TVC Count:64185, Assault:36588, Murder:773, Rape:3901, Robbery:22923
+State:Illinois, Year:2010, Total Crimes:406196, TPC Count:349064, Burglary:77472, Larceny:242681, Motor:28911, TVC Count:57132, Assault:32976, Murder:704, Rape:3066, Robbery:20386
+State:Illinois, Year:2011, Total Crimes:398991, TPC Count:344468, Burglary:77719, Larceny:237362, Motor:29387, TVC Count:54523, Assault:30495, Murder:781, Rape:3030, Robbery:20217
+State:Illinois, Year:2012, Total Crimes:385416, TPC Count:332013, Burglary:71101, Larceny:235222, Motor:25690, TVC Count:53403, Assault:29618, Murder:744, Rape:3570, Robbery:19471
+State:Illinois, Year:2013, Total Crimes:341957, TPC Count:292983, Burglary:58237, Larceny:213813, Motor:20933, TVC Count:48974, Assault:26283, Murder:706, Rape:4263, Robbery:17722
+State:Illinois, Year:2014, Total Crimes:315048, TPC Count:267385, Burglary:50008, Larceny:199926, Motor:17451, TVC Count:47663, Assault:27520, Murder:685, Rape:4159, Robbery:15299
+State:Illinois, Year:2015, Total Crimes:305083, TPC Count:255729, Burglary:46443, Larceny:191634, Motor:17652, TVC Count:49354, Assault:28879, Murder:744, Rape:4821, Robbery:14910
+State:Illinois, Year:2016, Total Crimes:318160, TPC Count:262306, Burglary:47989, Larceny:194407, Motor:19910, TVC Count:55854, Assault:32065, Murder:1054, Rape:4908, Robbery:17827
+State:Illinois, Year:2017, Total Crimes:313677, TPC Count:257497, Burglary:43459, Larceny:193157, Motor:20881, TVC Count:56180, Assault:32060, Murder:997, Rape:5556, Robbery:17567
+State:Illinois, Year:2018, Total Crimes:297754, TPC Count:246264, Burglary:39080, Larceny:187591, Motor:19593, TVC Count:51490, Assault:30539, Murder:884, Rape:5859, Robbery:14208
+State:Illinois, Year:2019, Total Crimes:285545, TPC Count:233984, Burglary:34433, Larceny:180776, Motor:18775, TVC Count:51561, Assault:32187, Murder:832, Rape:6078, Robbery:12464
+State:Indiana, Year:2000, Total Crimes:228135, TPC Count:206905, Burglary:41108, Larceny:144707, Motor:21090, TVC Count:21230, Assault:12837, Murder:352, Rape:1759, Robbery:6282
+State:Indiana, Year:2001, Total Crimes:234282, TPC Count:211548, Burglary:42758, Larceny:147291, Motor:21499, TVC Count:22734, Assault:13434, Murder:413, Rape:1716, Robbery:7171
+State:Indiana, Year:2002, Total Crimes:230966, TPC Count:208965, Burglary:42605, Larceny:146073, Motor:20287, TVC Count:22001, Assault:13184, Murder:362, Rape:1843, Robbery:6612
+State:Indiana, Year:2003, Total Crimes:229881, TPC Count:208039, Burglary:41582, Larceny:145686, Motor:20771, TVC Count:21842, Assault:13383, Murder:338, Rape:1720, Robbery:6401
+State:Indiana, Year:2004, Total Crimes:232223, TPC Count:211929, Burglary:42168, Larceny:148670, Motor:21091, TVC Count:20294, Assault:11802, Murder:316, Rape:1803, Robbery:6373
+State:Indiana, Year:2005, Total Crimes:237080, TPC Count:216778, Burglary:43756, Larceny:151278, Motor:21744, TVC Count:20302, Assault:11281, Murder:356, Rape:1856, Robbery:6809
+State:Indiana, Year:2006, Total Crimes:238086, TPC Count:217783, Burglary:45538, Larceny:150655, Motor:21590, TVC Count:20303, Assault:10956, Murder:361, Rape:1811, Robbery:7175
+State:Indiana, Year:2007, Total Crimes:235197, TPC Count:213887, Burglary:46485, Larceny:147999, Motor:19403, TVC Count:21310, Assault:11377, Murder:350, Rape:1738, Robbery:7845
+State:Indiana, Year:2008, Total Crimes:235164, TPC Count:213639, Burglary:48805, Larceny:147334, Motor:17500, TVC Count:21525, Assault:11912, Murder:322, Rape:1711, Robbery:7580
+State:Indiana, Year:2009, Total Crimes:221362, TPC Count:199907, Burglary:48880, Larceny:137190, Motor:13837, TVC Count:21455, Assault:12175, Murder:312, Rape:1621, Robbery:7347
+State:Indiana, Year:2010, Total Crimes:220257, TPC Count:199274, Burglary:48570, Larceny:137204, Motor:13500, TVC Count:20983, Assault:12396, Murder:268, Rape:1760, Robbery:6559
+State:Indiana, Year:2011, Total Crimes:227635, TPC Count:206016, Burglary:50571, Larceny:140630, Motor:14815, TVC Count:21619, Assault:12578, Murder:306, Rape:1758, Robbery:6977
+State:Indiana, Year:2012, Total Crimes:220634, TPC Count:198032, Burglary:47612, Larceny:136759, Motor:13661, TVC Count:22602, Assault:14027, Murder:310, Rape:1667, Robbery:6598
+State:Indiana, Year:2013, Total Crimes:211023, TPC Count:187536, Burglary:42909, Larceny:130423, Motor:14204, TVC Count:23487, Assault:13882, Murder:355, Rape:2142, Robbery:7108
+State:Indiana, Year:2014, Total Crimes:198875, TPC Count:174776, Burglary:36893, Larceny:124022, Motor:13861, TVC Count:24099, Assault:14686, Murder:330, Rape:2186, Robbery:6897
+State:Indiana, Year:2015, Total Crimes:197500, TPC Count:171847, Burglary:34410, Larceny:123918, Motor:13519, TVC Count:25653, Assault:15765, Murder:373, Rape:2404, Robbery:7111
+State:Indiana, Year:2016, Total Crimes:198604, TPC Count:171759, Burglary:34097, Larceny:122931, Motor:14731, TVC Count:26845, Assault:16575, Murder:439, Rape:2501, Robbery:7330
+State:Indiana, Year:2017, Total Crimes:187730, TPC Count:161132, Burglary:30140, Larceny:115591, Motor:15401, TVC Count:26598, Assault:16976, Murder:397, Rape:2625, Robbery:6600
+State:Indiana, Year:2018, Total Crimes:171419, TPC Count:145838, Burglary:25268, Larceny:105242, Motor:15328, TVC Count:25581, Assault:16834, Murder:438, Rape:2370, Robbery:5939
+State:Indiana, Year:2019, Total Crimes:157660, TPC Count:132694, Burglary:21795, Larceny:97176, Motor:13723, TVC Count:24966, Assault:16783, Murder:377, Rape:2475, Robbery:5331
+State:Iowa, Year:2000, Total Crimes:94630, TPC Count:86834, Burglary:16342, Larceny:65118, Motor:5374, TVC Count:7796, Assault:6003, Murder:46, Rape:676, Robbery:1071
+State:Iowa, Year:2001, Total Crimes:96499, TPC Count:88634, Burglary:16885, Larceny:66244, Motor:5505, TVC Count:7865, Assault:6012, Murder:50, Rape:649, Robbery:1154
+State:Iowa, Year:2002, Total Crimes:101265, TPC Count:92877, Burglary:18643, Larceny:68411, Motor:5823, TVC Count:8388, Assault:6378, Murder:44, Rape:797, Robbery:1169
+State:Iowa, Year:2003, Total Crimes:95729, TPC Count:87554, Burglary:17515, Larceny:64400, Motor:5639, TVC Count:8175, Assault:6198, Murder:50, Rape:796, Robbery:1131
+State:Iowa, Year:2004, Total Crimes:94274, TPC Count:85775, Burglary:17928, Larceny:62214, Motor:5633, TVC Count:8499, Assault:6513, Murder:44, Rape:782, Robbery:1160
+State:Iowa, Year:2005, Total Crimes:93067, TPC Count:84370, Burglary:18147, Larceny:60723, Motor:5500, TVC Count:8697, Assault:6657, Murder:40, Rape:847, Robbery:1153
+State:Iowa, Year:2006, Total Crimes:92723, TPC Count:84202, Burglary:18160, Larceny:60998, Motor:5044, TVC Count:8521, Assault:6286, Murder:55, Rape:871, Robbery:1309
+State:Iowa, Year:2007, Total Crimes:88103, TPC Count:79133, Burglary:17176, Larceny:57018, Motor:4939, TVC Count:8970, Assault:6633, Murder:39, Rape:970, Robbery:1328
+State:Iowa, Year:2008, Total Crimes:81924, TPC Count:73273, Burglary:16598, Larceny:52299, Motor:4376, TVC Count:8651, Assault:6388, Murder:77, Rape:937, Robbery:1249
+State:Iowa, Year:2009, Total Crimes:78565, TPC Count:70080, Burglary:16419, Larceny:49757, Motor:3904, TVC Count:8485, Assault:6356, Murder:38, Rape:890, Robbery:1201
+State:Iowa, Year:2010, Total Crimes:76931, TPC Count:68740, Burglary:16746, Larceny:48194, Motor:3800, TVC Count:8191, Assault:6258, Murder:38, Rape:883, Robbery:1012
+State:Iowa, Year:2011, Total Crimes:79926, TPC Count:72043, Burglary:17573, Larceny:50472, Motor:3998, TVC Count:7883, Assault:6149, Murder:44, Rape:866, Robbery:824
+State:Iowa, Year:2012, Total Crimes:77951, TPC Count:69839, Burglary:17096, Larceny:48720, Motor:4023, TVC Count:8112, Assault:6234, Murder:45, Rape:871, Robbery:962
+State:Iowa, Year:2013, Total Crimes:76188, TPC Count:67800, Burglary:15868, Larceny:47686, Motor:4246, TVC Count:8388, Assault:6323, Murder:43, Rape:1083, Robbery:939
+State:Iowa, Year:2014, Total Crimes:73553, TPC Count:65056, Burglary:14428, Larceny:46477, Motor:4151, TVC Count:8497, Assault:6264, Murder:60, Rape:1128, Robbery:1045
+State:Iowa, Year:2015, Total Crimes:72893, TPC Count:63957, Burglary:14892, Larceny:44723, Motor:4342, TVC Count:8936, Assault:6661, Murder:72, Rape:1156, Robbery:1047
+State:Iowa, Year:2016, Total Crimes:74501, TPC Count:65391, Burglary:15030, Larceny:45378, Motor:4983, TVC Count:9110, Assault:6644, Murder:71, Rape:1247, Robbery:1148
+State:Iowa, Year:2017, Total Crimes:76085, TPC Count:66855, Burglary:15078, Larceny:46198, Motor:5579, TVC Count:9230, Assault:6639, Murder:104, Rape:1234, Robbery:1253
+State:Iowa, Year:2018, Total Crimes:61278, TPC Count:53385, Burglary:11127, Larceny:37571, Motor:4687, TVC Count:7893, Assault:5931, Murder:54, Rape:976, Robbery:932
+State:Iowa, Year:2019, Total Crimes:63109, TPC Count:54699, Burglary:11710, Larceny:37847, Motor:5142, TVC Count:8410, Assault:6323, Murder:60, Rape:1164, Robbery:863
+State:Kansas, Year:2000, Total Crimes:118527, TPC Count:108057, Burglary:21484, Larceny:80077, Motor:6496, TVC Count:10470, Assault:7231, Murder:169, Rape:1022, Robbery:2048
+State:Kansas, Year:2001, Total Crimes:116446, TPC Count:105537, Burglary:20514, Larceny:77038, Motor:7985, TVC Count:10909, Assault:7449, Murder:92, Rape:945, Robbery:2423
+State:Kansas, Year:2002, Total Crimes:110997, TPC Count:100768, Burglary:19679, Larceny:73877, Motor:7212, TVC Count:10229, Assault:6951, Murder:78, Rape:1035, Robbery:2165
+State:Kansas, Year:2003, Total Crimes:120107, TPC Count:109276, Burglary:21973, Larceny:79471, Motor:7832, TVC Count:10831, Assault:7374, Murder:125, Rape:1085, Robbery:2247
+State:Kansas, Year:2004, Total Crimes:120101, TPC Count:109771, Burglary:20146, Larceny:81115, Motor:8510, TVC Count:10330, Assault:7254, Murder:122, Rape:1142, Robbery:1812
+State:Kansas, Year:2005, Total Crimes:115289, TPC Count:104588, Burglary:19028, Larceny:76222, Motor:9338, TVC Count:10701, Assault:7707, Murder:101, Rape:1098, Robbery:1795
+State:Kansas, Year:2006, Total Crimes:116220, TPC Count:104260, Burglary:20086, Larceny:75450, Motor:8724, TVC Count:11960, Assault:8678, Murder:125, Rape:1279, Robbery:1878
+State:Kansas, Year:2007, Total Crimes:115691, TPC Count:102961, Burglary:20461, Larceny:73900, Motor:8600, TVC Count:12730, Assault:9315, Murder:106, Rape:1287, Robbery:2022
+State:Kansas, Year:2008, Total Crimes:106436, TPC Count:94882, Burglary:19651, Larceny:67826, Motor:7405, TVC Count:11554, Assault:8534, Murder:113, Rape:1226, Robbery:1681
+State:Kansas, Year:2009, Total Crimes:102390, TPC Count:90930, Burglary:19473, Larceny:65499, Motor:5958, TVC Count:11460, Assault:8370, Murder:125, Rape:1179, Robbery:1786
+State:Kansas, Year:2010, Total Crimes:99711, TPC Count:89109, Burglary:19315, Larceny:63774, Motor:6020, TVC Count:10602, Assault:7821, Murder:97, Rape:1146, Robbery:1538
+State:Kansas, Year:2011, Total Crimes:98864, TPC Count:88655, Burglary:18712, Larceny:63259, Motor:6684, TVC Count:10209, Assault:7528, Murder:111, Rape:1122, Robbery:1448
+State:Kansas, Year:2012, Total Crimes:100942, TPC Count:90710, Burglary:18767, Larceny:65165, Motor:6778, TVC Count:10232, Assault:7595, Murder:84, Rape:1053, Robbery:1500
+State:Kansas, Year:2013, Total Crimes:95118, TPC Count:85280, Burglary:17375, Larceny:61264, Motor:6641, TVC Count:9838, Assault:7181, Murder:112, Rape:1195, Robbery:1350
+State:Kansas, Year:2014, Total Crimes:89554, TPC Count:79431, Burglary:15828, Larceny:56697, Motor:6906, TVC Count:10123, Assault:7259, Murder:91, Rape:1411, Robbery:1362
+State:Kansas, Year:2015, Total Crimes:90552, TPC Count:79199, Burglary:15362, Larceny:56880, Motor:6957, TVC Count:11353, Assault:7792, Murder:128, Rape:1615, Robbery:1818
+State:Kansas, Year:2016, Total Crimes:89427, TPC Count:78367, Burglary:14364, Larceny:57066, Motor:6937, TVC Count:11060, Assault:7966, Murder:111, Rape:1312, Robbery:1671
+State:Kansas, Year:2017, Total Crimes:93623, TPC Count:81593, Burglary:13931, Larceny:59816, Motor:7846, TVC Count:12030, Assault:8458, Murder:160, Rape:1627, Robbery:1785
+State:Kansas, Year:2018, Total Crimes:89468, TPC Count:76686, Burglary:12537, Larceny:56305, Motor:7844, TVC Count:12782, Assault:9559, Murder:113, Rape:1567, Robbery:1543
+State:Kansas, Year:2019, Total Crimes:79396, TPC Count:67428, Burglary:9984, Larceny:50165, Motor:7279, TVC Count:11968, Assault:9154, Murder:105, Rape:1416, Robbery:1293
+State:Kentucky, Year:2000, Total Crimes:119626, TPC Count:107723, Burglary:25308, Larceny:73141, Motor:9274, TVC Count:11903, Assault:7363, Murder:193, Rape:1091, Robbery:3256
+State:Kentucky, Year:2001, Total Crimes:117866, TPC Count:107356, Burglary:26964, Larceny:71448, Motor:8944, TVC Count:10510, Assault:6009, Murder:181, Rape:1051, Robbery:3269
+State:Kentucky, Year:2002, Total Crimes:119691, TPC Count:108590, Burglary:26891, Larceny:72378, Motor:9321, TVC Count:11101, Assault:6692, Murder:191, Rape:1087, Robbery:3131
+State:Kentucky, Year:2003, Total Crimes:113602, TPC Count:103370, Burglary:26034, Larceny:69083, Motor:8253, TVC Count:10232, Assault:5703, Murder:181, Rape:1124, Robbery:3224
+State:Kentucky, Year:2004, Total Crimes:115361, TPC Count:105209, Burglary:25902, Larceny:70535, Motor:8772, TVC Count:10152, Assault:5410, Murder:236, Rape:1238, Robbery:3268
+State:Kentucky, Year:2005, Total Crimes:116742, TPC Count:105608, Burglary:26458, Larceny:70354, Motor:8796, TVC Count:11134, Assault:5833, Murder:190, Rape:1421, Robbery:3690
+State:Kentucky, Year:2006, Total Crimes:120789, TPC Count:109428, Burglary:27867, Larceny:72197, Motor:9364, TVC Count:11361, Assault:6026, Murder:173, Rape:1312, Robbery:3850
+State:Kentucky, Year:2007, Total Crimes:120316, TPC Count:107987, Burglary:27820, Larceny:71489, Motor:8678, TVC Count:12329, Assault:6690, Murder:206, Rape:1365, Robbery:4068
+State:Kentucky, Year:2008, Total Crimes:127182, TPC Count:114492, Burglary:29556, Larceny:77279, Motor:7657, TVC Count:12690, Assault:6952, Murder:201, Rape:1457, Robbery:4080
+State:Kentucky, Year:2009, Total Crimes:119914, TPC Count:108914, Burglary:29880, Larceny:72938, Motor:6096, TVC Count:11000, Assault:5643, Murder:184, Rape:1531, Robbery:3642
+State:Kentucky, Year:2010, Total Crimes:121774, TPC Count:111170, Burglary:30443, Larceny:74488, Motor:6239, TVC Count:10604, Assault:5230, Murder:188, Rape:1438, Robbery:3748
+State:Kentucky, Year:2011, Total Crimes:129502, TPC Count:119037, Burglary:32750, Larceny:79586, Motor:6701, TVC Count:10465, Assault:5110, Murder:151, Rape:1499, Robbery:3705
+State:Kentucky, Year:2012, Total Crimes:121578, TPC Count:111826, Burglary:29587, Larceny:75571, Motor:6668, TVC Count:9752, Assault:4750, Murder:195, Rape:1272, Robbery:3535
+State:Kentucky, Year:2013, Total Crimes:113079, TPC Count:103857, Burglary:26213, Larceny:71612, Motor:6032, TVC Count:9222, Assault:4198, Murder:167, Rape:1611, Robbery:3246
+State:Kentucky, Year:2014, Total Crimes:108506, TPC Count:99166, Burglary:23244, Larceny:69604, Motor:6318, TVC Count:9340, Assault:4404, Murder:160, Rape:1440, Robbery:3336
+State:Kentucky, Year:2015, Total Crimes:106038, TPC Count:96362, Burglary:22260, Larceny:66320, Motor:7782, TVC Count:9676, Assault:4668, Murder:209, Rape:1492, Robbery:3307
+State:Kentucky, Year:2016, Total Crimes:107466, TPC Count:97158, Burglary:20834, Larceny:66438, Motor:9886, TVC Count:10308, Assault:5038, Murder:260, Rape:1641, Robbery:3369
+State:Kentucky, Year:2017, Total Crimes:104889, TPC Count:94833, Burglary:20195, Larceny:64394, Motor:10244, TVC Count:10056, Assault:5174, Murder:263, Rape:1661, Robbery:2958
+State:Kentucky, Year:2018, Total Crimes:97162, TPC Count:87695, Burglary:17190, Larceny:60244, Motor:10261, TVC Count:9467, Assault:5059, Murder:244, Rape:1707, Robbery:2457
+State:Kentucky, Year:2019, Total Crimes:94470, TPC Count:84769, Burglary:15443, Larceny:59130, Motor:10196, TVC Count:9701, Assault:5747, Murder:221, Rape:1572, Robbery:2161
+State:Louisiana, Year:2000, Total Crimes:242344, TPC Count:211904, Burglary:46289, Larceny:144345, Motor:21270, TVC Count:30440, Assault:20851, Murder:560, Rape:1497, Robbery:7532
+State:Louisiana, Year:2001, Total Crimes:238371, TPC Count:207693, Burglary:46451, Larceny:139555, Motor:21687, TVC Count:30678, Assault:20910, Murder:501, Rape:1403, Robbery:7864
+State:Louisiana, Year:2002, Total Crimes:228528, TPC Count:198838, Burglary:45350, Larceny:133302, Motor:20186, TVC Count:29690, Assault:20445, Murder:593, Rape:1529, Robbery:7123
+State:Louisiana, Year:2003, Total Crimes:222320, TPC Count:193698, Burglary:44572, Larceny:129471, Motor:19655, TVC Count:28622, Assault:19429, Murder:584, Rape:1601, Robbery:7008
+State:Louisiana, Year:2004, Total Crimes:227997, TPC Count:199153, Burglary:45359, Larceny:134080, Motor:19714, TVC Count:28844, Assault:20090, Murder:574, Rape:1616, Robbery:6564
+State:Louisiana, Year:2005, Total Crimes:193500, TPC Count:166611, Burglary:39382, Larceny:112840, Motor:14389, TVC Count:26889, Assault:19681, Murder:450, Rape:1421, Robbery:5337
+State:Louisiana, Year:2006, Total Crimes:205898, TPC Count:174975, Burglary:46703, Larceny:112605, Motor:15667, TVC Count:30923, Assault:22853, Murder:555, Rape:1587, Robbery:5928
+State:Louisiana, Year:2007, Total Crimes:212305, TPC Count:180516, Burglary:46932, Larceny:118291, Motor:15293, TVC Count:31789, Assault:23421, Murder:625, Rape:1427, Robbery:6316
+State:Louisiana, Year:2008, Total Crimes:200792, TPC Count:171179, Burglary:45524, Larceny:112091, Motor:13564, TVC Count:29613, Assault:21578, Murder:544, Rape:1250, Robbery:6241
+State:Louisiana, Year:2009, Total Crimes:201497, TPC Count:172619, Burglary:46928, Larceny:114102, Motor:11589, TVC Count:28878, Assault:20848, Murder:529, Rape:1351, Robbery:6150
+State:Louisiana, Year:2010, Total Crimes:190908, TPC Count:165667, Burglary:45437, Larceny:110260, Motor:9970, TVC Count:25241, Assault:18214, Murder:500, Rape:1230, Robbery:5297
+State:Louisiana, Year:2011, Total Crimes:193902, TPC Count:168529, Burglary:46242, Larceny:113174, Motor:9113, TVC Count:25373, Assault:18370, Murder:506, Rape:1262, Robbery:5235
+State:Louisiana, Year:2012, Total Crimes:185804, TPC Count:162936, Burglary:42140, Larceny:112915, Motor:7881, TVC Count:22868, Assault:15740, Murder:495, Rape:1158, Robbery:5475
+State:Louisiana, Year:2013, Total Crimes:189670, TPC Count:165686, Burglary:41184, Larceny:115342, Motor:9160, TVC Count:23984, Assault:16319, Murder:498, Rape:1619, Robbery:5548
+State:Louisiana, Year:2014, Total Crimes:184758, TPC Count:160824, Burglary:38337, Larceny:112596, Motor:9891, TVC Count:23934, Assault:16387, Murder:477, Rape:1375, Robbery:5695
+State:Louisiana, Year:2015, Total Crimes:181837, TPC Count:156629, Burglary:35453, Larceny:111435, Motor:9741, TVC Count:25208, Assault:17454, Murder:481, Rape:1723, Robbery:5550
+State:Louisiana, Year:2016, Total Crimes:180888, TPC Count:154386, Burglary:34667, Larceny:109380, Motor:10339, TVC Count:26502, Assault:18556, Murder:554, Rape:1816, Robbery:5576
+State:Louisiana, Year:2017, Total Crimes:183804, TPC Count:157712, Burglary:34265, Larceny:112485, Motor:10962, TVC Count:26092, Assault:18285, Murder:582, Rape:1867, Robbery:5358
+State:Louisiana, Year:2018, Total Crimes:177710, TPC Count:152661, Burglary:31132, Larceny:109993, Motor:11536, TVC Count:25049, Assault:17866, Murder:530, Rape:2085, Robbery:4568
+State:Louisiana, Year:2019, Total Crimes:172530, TPC Count:146993, Burglary:26918, Larceny:109359, Motor:10716, TVC Count:25537, Assault:18695, Murder:544, Rape:2273, Robbery:4025
+State:Maine, Year:2000, Total Crimes:33400, TPC Count:32003, Burglary:6775, Larceny:23906, Motor:1322, TVC Count:1397, Assault:815, Murder:15, Rape:320, Robbery:247
+State:Maine, Year:2001, Total Crimes:34589, TPC Count:33154, Burglary:6898, Larceny:24585, Motor:1671, TVC Count:1435, Assault:826, Murder:19, Rape:326, Robbery:264
+State:Maine, Year:2002, Total Crimes:34381, TPC Count:32985, Burglary:6965, Larceny:24591, Motor:1429, TVC Count:1396, Assault:735, Murder:14, Rape:377, Robbery:270
+State:Maine, Year:2003, Total Crimes:33500, TPC Count:32078, Burglary:6579, Larceny:24043, Motor:1456, TVC Count:1422, Assault:763, Murder:16, Rape:354, Robbery:289
+State:Maine, Year:2004, Total Crimes:33104, TPC Count:31740, Burglary:6341, Larceny:24096, Motor:1303, TVC Count:1364, Assault:742, Murder:18, Rape:315, Robbery:289
+State:Maine, Year:2005, Total Crimes:33372, TPC Count:31889, Burglary:6323, Larceny:24218, Motor:1348, TVC Count:1483, Assault:815, Murder:19, Rape:326, Robbery:323
+State:Maine, Year:2006, Total Crimes:35191, TPC Count:33658, Burglary:6846, Larceny:25465, Motor:1347, TVC Count:1533, Assault:786, Murder:23, Rape:341, Robbery:383
+State:Maine, Year:2007, Total Crimes:33814, TPC Count:32249, Burglary:6745, Larceny:24228, Motor:1276, TVC Count:1565, Assault:804, Murder:20, Rape:392, Robbery:349
+State:Maine, Year:2008, Total Crimes:34005, TPC Count:32433, Burglary:6559, Larceny:24695, Motor:1179, TVC Count:1572, Assault:829, Murder:31, Rape:379, Robbery:333
+State:Maine, Year:2009, Total Crimes:33286, TPC Count:31706, Burglary:6729, Larceny:23955, Motor:1022, TVC Count:1580, Assault:780, Murder:26, Rape:375, Robbery:399
+State:Maine, Year:2010, Total Crimes:34521, TPC Count:32900, Burglary:7364, Larceny:24547, Motor:989, TVC Count:1621, Assault:796, Murder:24, Rape:389, Robbery:412
+State:Maine, Year:2011, Total Crimes:35467, TPC Count:33829, Burglary:7865, Larceny:24886, Motor:1078, TVC Count:1638, Assault:848, Murder:26, Rape:394, Robbery:370
+State:Maine, Year:2012, Total Crimes:34992, TPC Count:33361, Burglary:7461, Larceny:24905, Motor:995, TVC Count:1631, Assault:811, Murder:25, Rape:372, Robbery:423
+State:Maine, Year:2013, Total Crimes:32165, TPC Count:30447, Burglary:6483, Larceny:23050, Motor:914, TVC Count:1718, Assault:912, Murder:24, Rape:447, Robbery:335
+State:Maine, Year:2014, Total Crimes:28121, TPC Count:26421, Burglary:5030, Larceny:20592, Motor:799, TVC Count:1700, Assault:890, Murder:21, Rape:485, Robbery:304
+State:Maine, Year:2015, Total Crimes:26056, TPC Count:24327, Burglary:4684, Larceny:18829, Motor:814, TVC Count:1729, Assault:921, Murder:23, Rape:474, Robbery:311
+State:Maine, Year:2016, Total Crimes:23560, TPC Count:21912, Burglary:4003, Larceny:17134, Motor:775, TVC Count:1648, Assault:950, Murder:20, Rape:412, Robbery:266
+State:Maine, Year:2017, Total Crimes:21750, TPC Count:20133, Burglary:3334, Larceny:16006, Motor:793, TVC Count:1617, Assault:872, Murder:23, Rape:473, Robbery:249
+State:Maine, Year:2018, Total Crimes:19674, TPC Count:18173, Burglary:2713, Larceny:14683, Motor:777, TVC Count:1501, Assault:803, Murder:24, Rape:446, Robbery:228
+State:Maine, Year:2019, Total Crimes:18291, TPC Count:16743, Burglary:2350, Larceny:13667, Motor:726, TVC Count:1548, Assault:824, Murder:20, Rape:516, Robbery:188
+State:Maryland, Year:2000, Total Crimes:255085, TPC Count:213422, Burglary:39426, Larceny:145423, Motor:28573, TVC Count:41663, Assault:26130, Murder:430, Rape:1543, Robbery:13560
+State:Maryland, Year:2001, Total Crimes:261600, TPC Count:219512, Burglary:41553, Larceny:145934, Motor:32025, TVC Count:42088, Assault:26668, Murder:446, Rape:1449, Robbery:13525
+State:Maryland, Year:2002, Total Crimes:259120, TPC Count:217105, Burglary:39765, Larceny:143320, Motor:34020, TVC Count:42015, Assault:26715, Murder:513, Rape:1370, Robbery:13417
+State:Maryland, Year:2003, Total Crimes:248196, TPC Count:209418, Burglary:38641, Larceny:134372, Motor:36405, TVC Count:38778, Assault:23593, Murder:525, Rape:1358, Robbery:13302
+State:Maryland, Year:2004, Total Crimes:241435, TPC Count:202474, Burglary:36704, Larceny:129888, Motor:35882, TVC Count:38961, Assault:24351, Murder:521, Rape:1317, Robbery:12772
+State:Maryland, Year:2005, Total Crimes:237852, TPC Count:198483, Burglary:35922, Larceny:128491, Motor:34070, TVC Count:39369, Assault:23173, Murder:552, Rape:1266, Robbery:14378
+State:Maryland, Year:2006, Total Crimes:233595, TPC Count:195484, Burglary:37459, Larceny:127502, Motor:30523, TVC Count:38111, Assault:22011, Murder:546, Rape:1178, Robbery:14376
+State:Maryland, Year:2007, Total Crimes:228859, TPC Count:192796, Burglary:37095, Larceny:127308, Motor:28393, TVC Count:36063, Assault:21072, Murder:554, Rape:1179, Robbery:13258
+State:Maryland, Year:2008, Total Crimes:233558, TPC Count:198165, Burglary:38849, Larceny:133983, Motor:25333, TVC Count:35393, Assault:20570, Murder:493, Rape:1127, Robbery:13203
+State:Maryland, Year:2009, Total Crimes:215920, TPC Count:182295, Burglary:36905, Larceny:125771, Motor:19619, TVC Count:33625, Assault:20022, Murder:440, Rape:1156, Robbery:12007
+State:Maryland, Year:2010, Total Crimes:204916, TPC Count:173309, Burglary:36704, Larceny:118578, Motor:18027, TVC Count:31607, Assault:18899, Murder:426, Rape:1228, Robbery:11054
+State:Maryland, Year:2011, Total Crimes:195663, TPC Count:166846, Burglary:35823, Larceny:114951, Motor:16072, TVC Count:28817, Assault:16876, Murder:399, Rape:1200, Robbery:10342
+State:Maryland, Year:2012, Total Crimes:190086, TPC Count:162031, Burglary:33732, Larceny:113274, Motor:15025, TVC Count:28055, Assault:16310, Murder:369, Rape:1235, Robbery:10141
+State:Maryland, Year:2013, Total Crimes:186002, TPC Count:157913, Burglary:31949, Larceny:112546, Motor:13418, TVC Count:28089, Assault:16128, Murder:381, Rape:1532, Robbery:10048
+State:Maryland, Year:2014, Total Crimes:176520, TPC Count:149859, Burglary:28012, Larceny:108745, Motor:13102, TVC Count:26661, Assault:15133, Murder:365, Rape:1619, Robbery:9544
+State:Maryland, Year:2015, Total Crimes:166510, TPC Count:139048, Burglary:25678, Larceny:100219, Motor:13151, TVC Count:27462, Assault:15417, Murder:516, Rape:1666, Robbery:9863
+State:Maryland, Year:2016, Total Crimes:165845, TPC Count:137445, Burglary:24692, Larceny:100919, Motor:11834, TVC Count:28400, Assault:15874, Murder:481, Rape:1756, Robbery:10289
+State:Maryland, Year:2017, Total Crimes:164769, TPC Count:134496, Burglary:23508, Larceny:97420, Motor:13568, TVC Count:30273, Assault:16836, Murder:546, Rape:1691, Robbery:11200
+State:Maryland, Year:2018, Total Crimes:151184, TPC Count:122864, Burglary:18892, Larceny:91835, Motor:12137, TVC Count:28320, Assault:16135, Murder:490, Rape:1979, Robbery:9716
+State:Maryland, Year:2019, Total Crimes:145357, TPC Count:117901, Burglary:16862, Larceny:89780, Motor:11259, TVC Count:27456, Assault:15798, Murder:542, Rape:1913, Robbery:9203
+State:Massachusetts, Year:2000, Total Crimes:192131, TPC Count:161901, Burglary:30600, Larceny:105425, Motor:25876, TVC Count:30230, Assault:22594, Murder:125, Rape:1696, Robbery:5815
+State:Massachusetts, Year:2001, Total Crimes:197664, TPC Count:167079, Burglary:32430, Larceny:106821, Motor:27828, TVC Count:30585, Assault:22110, Murder:143, Rape:1856, Robbery:6476
+State:Massachusetts, Year:2002, Total Crimes:198890, TPC Count:167753, Burglary:33243, Larceny:107922, Motor:26588, TVC Count:31137, Assault:22018, Murder:173, Rape:1777, Robbery:7169
+State:Massachusetts, Year:2003, Total Crimes:194920, TPC Count:164543, Burglary:34963, Larceny:104069, Motor:25511, TVC Count:30377, Assault:20378, Murder:140, Rape:1848, Robbery:8011
+State:Massachusetts, Year:2004, Total Crimes:187639, TPC Count:158150, Burglary:34497, Larceny:101605, Motor:22048, TVC Count:29489, Assault:20040, Murder:171, Rape:1794, Robbery:7484
+State:Massachusetts, Year:2005, Total Crimes:181371, TPC Count:151727, Burglary:34728, Larceny:98079, Motor:18920, TVC Count:29644, Assault:19878, Murder:178, Rape:1751, Robbery:7837
+State:Massachusetts, Year:2006, Total Crimes:186160, TPC Count:153943, Burglary:35243, Larceny:100725, Motor:17975, TVC Count:32217, Assault:22178, Murder:188, Rape:1771, Robbery:8080
+State:Massachusetts, Year:2007, Total Crimes:183230, TPC Count:154743, Burglary:35767, Larceny:103925, Motor:15051, TVC Count:28487, Assault:19636, Murder:187, Rape:1643, Robbery:7021
+State:Massachusetts, Year:2008, Total Crimes:186056, TPC Count:155919, Burglary:36251, Larceny:106913, Motor:12755, TVC Count:30137, Assault:21143, Murder:166, Rape:1751, Robbery:7077
+State:Massachusetts, Year:2009, Total Crimes:183681, TPC Count:153178, Burglary:34515, Larceny:106799, Motor:11864, TVC Count:30503, Assault:21129, Murder:173, Rape:1734, Robbery:7467
+State:Massachusetts, Year:2010, Total Crimes:185233, TPC Count:154496, Burglary:37903, Larceny:105124, Motor:11469, TVC Count:30737, Assault:21842, Murder:214, Rape:1784, Robbery:6897
+State:Massachusetts, Year:2011, Total Crimes:177061, TPC Count:148829, Burglary:36403, Larceny:101644, Motor:10782, TVC Count:28232, Assault:19626, Murder:184, Rape:1654, Robbery:6768
+State:Massachusetts, Year:2012, Total Crimes:170042, TPC Count:143089, Burglary:34540, Larceny:99317, Motor:9232, TVC Count:26953, Assault:18638, Murder:121, Rape:1642, Robbery:6552
+State:Massachusetts, Year:2013, Total Crimes:164952, TPC Count:137285, Burglary:30735, Larceny:97428, Motor:9122, TVC Count:27667, Assault:18106, Murder:137, Rape:2718, Robbery:6706
+State:Massachusetts, Year:2014, Total Crimes:151666, TPC Count:125267, Burglary:24964, Larceny:92043, Motor:8260, TVC Count:26399, Assault:18051, Murder:132, Rape:2180, Robbery:6036
+State:Massachusetts, Year:2015, Total Crimes:141433, TPC Count:114871, Burglary:21890, Larceny:84912, Motor:8069, TVC Count:26562, Assault:19071, Murder:128, Rape:2075, Robbery:5288
+State:Massachusetts, Year:2016, Total Crimes:132016, TPC Count:106339, Burglary:19193, Larceny:79088, Motor:8058, TVC Count:25677, Assault:18050, Murder:134, Rape:2128, Robbery:5365
+State:Massachusetts, Year:2017, Total Crimes:123135, TPC Count:98575, Burglary:17089, Larceny:73946, Motor:7540, TVC Count:24560, Assault:17319, Murder:173, Rape:2197, Robbery:4871
+State:Massachusetts, Year:2018, Total Crimes:110533, TPC Count:87196, Burglary:13862, Larceny:66728, Motor:6606, TVC Count:23337, Assault:16648, Murder:136, Rape:2410, Robbery:4143
+State:Massachusetts, Year:2019, Total Crimes:103895, TPC Count:81317, Burglary:12341, Larceny:62844, Motor:6132, TVC Count:22578, Assault:16609, Murder:152, Rape:2204, Robbery:3613
+State:Michigan, Year:2000, Total Crimes:408456, TPC Count:353297, Burglary:69790, Larceny:227783, Motor:55724, TVC Count:55159, Assault:35753, Murder:669, Rape:5025, Robbery:13712
+State:Michigan, Year:2001, Total Crimes:407777, TPC Count:352353, Burglary:72038, Larceny:226708, Motor:53607, TVC Count:55424, Assault:36551, Murder:672, Rape:5264, Robbery:12937
+State:Michigan, Year:2002, Total Crimes:389366, TPC Count:335060, Burglary:70970, Larceny:214367, Motor:49723, TVC Count:54306, Assault:36417, Murder:678, Rape:5364, Robbery:11847
+State:Michigan, Year:2003, Total Crimes:382115, TPC Count:330565, Burglary:68316, Larceny:208538, Motor:53711, TVC Count:51550, Assault:34214, Murder:612, Rape:5470, Robbery:11254
+State:Michigan, Year:2004, Total Crimes:359542, TPC Count:309805, Burglary:64233, Larceny:194988, Motor:50584, TVC Count:49737, Assault:32276, Murder:643, Rape:5482, Robbery:11336
+State:Michigan, Year:2005, Total Crimes:368828, TPC Count:312892, Burglary:70527, Larceny:194090, Motor:48275, TVC Count:55936, Assault:36760, Murder:629, Rape:5199, Robbery:13348
+State:Michigan, Year:2006, Total Crimes:382575, TPC Count:325594, Burglary:76313, Larceny:199183, Motor:50098, TVC Count:56981, Assault:36684, Murder:721, Rape:5347, Robbery:14229
+State:Michigan, Year:2007, Total Crimes:362315, TPC Count:308550, Burglary:75273, Larceny:191289, Motor:41988, TVC Count:53765, Assault:35147, Murder:661, Rape:4592, Robbery:13365
+State:Michigan, Year:2008, Total Crimes:346612, TPC Count:295100, Burglary:74787, Larceny:184558, Motor:35755, TVC Count:51512, Assault:33205, Murder:554, Rape:4507, Robbery:13246
+State:Michigan, Year:2009, Total Crimes:333844, TPC Count:284019, Burglary:76046, Larceny:178628, Motor:29345, TVC Count:49825, Assault:32251, Murder:623, Rape:4524, Robbery:12427
+State:Michigan, Year:2010, Total Crimes:320194, TPC Count:271501, Burglary:74345, Larceny:169748, Motor:27408, TVC Count:48693, Assault:31858, Murder:580, Rape:4733, Robbery:11522
+State:Michigan, Year:2011, Total Crimes:295060, TPC Count:251329, Burglary:69755, Larceny:156666, Motor:24908, TVC Count:43731, Assault:28507, Murder:617, Rape:4344, Robbery:10263
+State:Michigan, Year:2012, Total Crimes:295023, TPC Count:250101, Burglary:65665, Larceny:159321, Motor:25115, TVC Count:44922, Assault:29210, Murder:689, Rape:4589, Robbery:10434
+State:Michigan, Year:2013, Total Crimes:274857, TPC Count:230334, Burglary:56344, Larceny:149423, Motor:24567, TVC Count:44523, Assault:27194, Murder:631, Rape:6593, Robbery:10105
+State:Michigan, Year:2014, Total Crimes:244895, TPC Count:202547, Burglary:44184, Larceny:137206, Motor:21157, TVC Count:42348, Assault:27519, Murder:535, Rape:6273, Robbery:8021
+State:Michigan, Year:2015, Total Crimes:228332, TPC Count:187101, Burglary:40041, Larceny:131296, Motor:15764, TVC Count:41231, Assault:26414, Murder:571, Rape:6450, Robbery:7796
+State:Michigan, Year:2016, Total Crimes:235192, TPC Count:189620, Burglary:39568, Larceny:129876, Motor:20176, TVC Count:45572, Assault:30729, Murder:598, Rape:7125, Robbery:7120
+State:Michigan, Year:2017, Total Crimes:224144, TPC Count:179318, Burglary:35641, Larceny:124104, Motor:19573, TVC Count:44826, Assault:30738, Murder:569, Rape:7031, Robbery:6488
+State:Michigan, Year:2018, Total Crimes:210198, TPC Count:165280, Burglary:31651, Larceny:116178, Motor:17451, TVC Count:44918, Assault:31021, Murder:551, Rape:7690, Robbery:5656
+State:Michigan, Year:2019, Total Crimes:201982, TPC Count:158296, Burglary:28572, Larceny:111980, Motor:17744, TVC Count:43686, Assault:30545, Murder:556, Rape:7235, Robbery:5350
+State:Minnesota, Year:2000, Total Crimes:171611, TPC Count:157798, Burglary:26116, Larceny:118250, Motor:13432, TVC Count:13813, Assault:7709, Murder:151, Rape:2240, Robbery:3713
+State:Minnesota, Year:2001, Total Crimes:178191, TPC Count:165046, Burglary:25496, Larceny:124519, Motor:15031, TVC Count:13145, Assault:7032, Murder:119, Rape:2236, Robbery:3758
+State:Minnesota, Year:2002, Total Crimes:177454, TPC Count:164026, Burglary:28034, Larceny:122150, Motor:13842, TVC Count:13428, Assault:7106, Murder:112, Rape:2273, Robbery:3937
+State:Minnesota, Year:2003, Total Crimes:170979, TPC Count:157663, Burglary:27698, Larceny:116216, Motor:13749, TVC Count:13316, Assault:7191, Murder:127, Rape:2092, Robbery:3906
+State:Minnesota, Year:2004, Total Crimes:168770, TPC Count:155019, Burglary:28048, Larceny:113453, Motor:13518, TVC Count:13751, Assault:7445, Murder:113, Rape:2123, Robbery:4070
+State:Minnesota, Year:2005, Total Crimes:173544, TPC Count:158301, Burglary:29716, Larceny:114304, Motor:14281, TVC Count:15243, Assault:8146, Murder:115, Rape:2258, Robbery:4724
+State:Minnesota, Year:2006, Total Crimes:175318, TPC Count:159276, Burglary:30306, Larceny:115693, Motor:13277, TVC Count:16042, Assault:8830, Murder:126, Rape:1645, Robbery:5441
+State:Minnesota, Year:2007, Total Crimes:173311, TPC Count:158257, Burglary:29717, Larceny:115892, Motor:12648, TVC Count:15054, Assault:8295, Murder:116, Rape:1873, Robbery:4770
+State:Minnesota, Year:2008, Total Crimes:163370, TPC Count:149517, Burglary:26558, Larceny:112764, Motor:10195, TVC Count:13853, Assault:7759, Murder:110, Rape:1805, Robbery:4179
+State:Minnesota, Year:2009, Total Crimes:152160, TPC Count:139286, Burglary:25580, Larceny:105160, Motor:8546, TVC Count:12874, Assault:7392, Murder:74, Rape:1789, Robbery:3619
+State:Minnesota, Year:2010, Total Crimes:148946, TPC Count:136431, Burglary:24415, Larceny:103429, Motor:8587, TVC Count:12515, Assault:7233, Murder:96, Rape:1798, Robbery:3388
+State:Minnesota, Year:2011, Total Crimes:148506, TPC Count:136183, Burglary:25681, Larceny:102354, Motor:8148, TVC Count:12323, Assault:6750, Murder:75, Rape:2113, Robbery:3385
+State:Minnesota, Year:2012, Total Crimes:150571, TPC Count:138152, Burglary:25378, Larceny:104316, Motor:8458, TVC Count:12419, Assault:7207, Murder:99, Rape:1638, Robbery:3475
+State:Minnesota, Year:2013, Total Crimes:143900, TPC Count:131195, Burglary:22713, Larceny:100516, Motor:7966, TVC Count:12705, Assault:6909, Murder:114, Rape:2008, Robbery:3674
+State:Minnesota, Year:2014, Total Crimes:137882, TPC Count:125377, Burglary:20773, Larceny:96237, Motor:8367, TVC Count:12505, Assault:6729, Murder:88, Rape:2001, Robbery:3687
+State:Minnesota, Year:2015, Total Crimes:135303, TPC Count:121984, Burglary:19299, Larceny:94704, Motor:7981, TVC Count:13319, Assault:7094, Murder:133, Rape:2321, Robbery:3771
+State:Minnesota, Year:2016, Total Crimes:131150, TPC Count:117756, Burglary:18606, Larceny:90422, Motor:8728, TVC Count:13394, Assault:7217, Murder:101, Rape:2348, Robbery:3728
+State:Minnesota, Year:2017, Total Crimes:135503, TPC Count:122212, Burglary:18787, Larceny:93446, Motor:9979, TVC Count:13291, Assault:7172, Murder:113, Rape:2385, Robbery:3621
+State:Minnesota, Year:2018, Total Crimes:124243, TPC Count:111874, Burglary:16185, Larceny:85561, Motor:10128, TVC Count:12369, Assault:6857, Murder:106, Rape:2462, Robbery:2944
+State:Minnesota, Year:2019, Total Crimes:130568, TPC Count:117236, Burglary:15927, Larceny:90092, Motor:11217, TVC Count:13332, Assault:7618, Murder:117, Rape:2448, Robbery:3149
+State:Mississippi, Year:2000, Total Crimes:113911, TPC Count:103644, Burglary:26918, Larceny:69758, Motor:6968, TVC Count:10267, Assault:6290, Murder:255, Rape:1019, Robbery:2703
+State:Mississippi, Year:2001, Total Crimes:119615, TPC Count:109609, Burglary:29821, Larceny:70315, Motor:9473, TVC Count:10006, Assault:5283, Murder:282, Rape:1147, Robbery:3294
+State:Mississippi, Year:2002, Total Crimes:119442, TPC Count:109584, Burglary:29593, Larceny:70468, Motor:9523, TVC Count:9858, Assault:5111, Murder:264, Rape:1127, Robbery:3356
+State:Mississippi, Year:2003, Total Crimes:116203, TPC Count:106867, Burglary:29564, Larceny:68307, Motor:8996, TVC Count:9336, Assault:4974, Murder:267, Rape:1079, Robbery:3016
+State:Mississippi, Year:2004, Total Crimes:109548, TPC Count:100980, Burglary:27661, Larceny:65440, Motor:7879, TVC Count:8568, Assault:4677, Murder:227, Rape:1161, Robbery:2503
+State:Mississippi, Year:2005, Total Crimes:103362, TPC Count:95231, Burglary:26866, Larceny:60873, Motor:7492, TVC Count:8131, Assault:4365, Murder:214, Rape:1147, Robbery:2405
+State:Mississippi, Year:2006, Total Crimes:101929, TPC Count:92853, Burglary:27117, Larceny:57406, Motor:8330, TVC Count:9076, Assault:4547, Murder:231, Rape:1039, Robbery:3259
+State:Mississippi, Year:2007, Total Crimes:99389, TPC Count:90887, Burglary:27223, Larceny:56473, Motor:7191, TVC Count:8502, Assault:4371, Murder:202, Rape:1033, Robbery:2896
+State:Mississippi, Year:2008, Total Crimes:94430, TPC Count:85488, Burglary:25506, Larceny:53730, Motor:6252, TVC Count:8942, Assault:4669, Murder:236, Rape:958, Robbery:3079
+State:Mississippi, Year:2009, Total Crimes:95778, TPC Count:87327, Burglary:29559, Larceny:52329, Motor:5439, TVC Count:8451, Assault:4297, Murder:194, Rape:991, Robbery:2969
+State:Mississippi, Year:2010, Total Crimes:96595, TPC Count:88596, Burglary:30453, Larceny:52784, Motor:5359, TVC Count:7999, Assault:4087, Murder:204, Rape:931, Robbery:2777
+State:Mississippi, Year:2011, Total Crimes:97818, TPC Count:89809, Burglary:30722, Larceny:54179, Motor:4908, TVC Count:8009, Assault:4418, Murder:232, Rape:863, Robbery:2496
+State:Mississippi, Year:2012, Total Crimes:91692, TPC Count:83906, Burglary:28076, Larceny:51508, Motor:4322, TVC Count:7786, Assault:4460, Murder:220, Rape:822, Robbery:2284
+State:Mississippi, Year:2013, Total Crimes:89714, TPC Count:81500, Burglary:24995, Larceny:52117, Motor:4388, TVC Count:8214, Assault:4680, Murder:195, Rape:930, Robbery:2409
+State:Mississippi, Year:2014, Total Crimes:95800, TPC Count:87462, Burglary:24352, Larceny:58591, Motor:4519, TVC Count:8338, Assault:4592, Murder:258, Rape:1058, Robbery:2430
+State:Mississippi, Year:2015, Total Crimes:93044, TPC Count:84790, Burglary:24799, Larceny:55748, Motor:4243, TVC Count:8254, Assault:4498, Murder:259, Rape:1203, Robbery:2294
+State:Mississippi, Year:2016, Total Crimes:91115, TPC Count:82732, Burglary:23354, Larceny:55054, Motor:4324, TVC Count:8383, Assault:4471, Murder:238, Rape:1277, Robbery:2397
+State:Mississippi, Year:2017, Total Crimes:90107, TPC Count:81581, Burglary:24710, Larceny:52240, Motor:4631, TVC Count:8526, Assault:5119, Murder:245, Rape:1091, Robbery:2071
+State:Mississippi, Year:2018, Total Crimes:78765, TPC Count:71766, Burglary:20839, Larceny:46627, Motor:4300, TVC Count:6999, Assault:4696, Murder:171, Rape:537, Robbery:1595
+State:Mississippi, Year:2019, Total Crimes:78979, TPC Count:70707, Burglary:18660, Larceny:46300, Motor:5747, TVC Count:8272, Assault:5493, Murder:332, Rape:747, Robbery:1700
+State:Missouri, Year:2000, Total Crimes:253338, TPC Count:225919, Burglary:41685, Larceny:159539, Motor:24695, TVC Count:27419, Assault:18123, Murder:347, Rape:1351, Robbery:7598
+State:Missouri, Year:2001, Total Crimes:268883, TPC Count:238411, Burglary:42977, Larceny:167420, Motor:28014, TVC Count:30472, Assault:20946, Murder:372, Rape:1383, Robbery:7771
+State:Missouri, Year:2002, Total Crimes:261077, TPC Count:230520, Burglary:42721, Larceny:159921, Motor:27878, TVC Count:30557, Assault:21737, Murder:331, Rape:1465, Robbery:7024
+State:Missouri, Year:2003, Total Crimes:261631, TPC Count:233564, Burglary:41997, Larceny:161616, Motor:29951, TVC Count:28067, Assault:19692, Murder:289, Rape:1400, Robbery:6686
+State:Missouri, Year:2004, Total Crimes:252855, TPC Count:224629, Burglary:40472, Larceny:158264, Motor:25893, TVC Count:28226, Assault:19763, Murder:354, Rape:1479, Robbery:6630
+State:Missouri, Year:2005, Total Crimes:258286, TPC Count:227809, Burglary:42822, Larceny:159288, Motor:25699, TVC Count:30477, Assault:21254, Murder:402, Rape:1625, Robbery:7196
+State:Missouri, Year:2006, Total Crimes:255904, TPC Count:224007, Burglary:44734, Larceny:153874, Motor:25399, TVC Count:31897, Assault:22167, Murder:369, Rape:1764, Robbery:7597
+State:Missouri, Year:2007, Total Crimes:258075, TPC Count:225113, Burglary:44897, Larceny:156319, Motor:23897, TVC Count:32962, Assault:23082, Murder:367, Rape:1785, Robbery:7728
+State:Missouri, Year:2008, Total Crimes:246223, TPC Count:216522, Burglary:45763, Larceny:150002, Motor:20757, TVC Count:29701, Assault:20238, Murder:456, Rape:1612, Robbery:7395
+State:Missouri, Year:2009, Total Crimes:231296, TPC Count:201783, Burglary:43591, Larceny:140764, Motor:17428, TVC Count:29513, Assault:20083, Murder:387, Rape:1606, Robbery:7437
+State:Missouri, Year:2010, Total Crimes:228298, TPC Count:200858, Burglary:44197, Larceny:140526, Motor:16135, TVC Count:27440, Assault:19390, Murder:420, Rape:1445, Robbery:6185
+State:Missouri, Year:2011, Total Crimes:225973, TPC Count:199085, Burglary:44875, Larceny:138879, Motor:15331, TVC Count:26888, Assault:18778, Murder:366, Rape:1469, Robbery:6275
+State:Missouri, Year:2012, Total Crimes:226745, TPC Count:199590, Burglary:42466, Larceny:140816, Motor:16308, TVC Count:27155, Assault:19473, Murder:389, Rape:1511, Robbery:5782
+State:Missouri, Year:2013, Total Crimes:215803, TPC Count:189606, Burglary:38865, Larceny:134416, Motor:16325, TVC Count:26197, Assault:18055, Murder:371, Rape:2287, Robbery:5484
+State:Missouri, Year:2014, Total Crimes:203093, TPC Count:176237, Burglary:35258, Larceny:124622, Motor:16357, TVC Count:26856, Assault:18482, Murder:403, Rape:2379, Robbery:5592
+State:Missouri, Year:2015, Total Crimes:203903, TPC Count:173642, Burglary:34006, Larceny:122637, Motor:16999, TVC Count:30261, Assault:20830, Murder:502, Rape:2553, Robbery:6376
+State:Missouri, Year:2016, Total Crimes:202193, TPC Count:170549, Burglary:31710, Larceny:120544, Motor:18295, TVC Count:31644, Assault:21983, Murder:537, Rape:2554, Robbery:6570
+State:Missouri, Year:2017, Total Crimes:205673, TPC Count:173253, Burglary:30081, Larceny:123251, Motor:19921, TVC Count:32420, Assault:22740, Murder:600, Rape:2729, Robbery:6351
+State:Missouri, Year:2018, Total Crimes:192931, TPC Count:162173, Burglary:27257, Larceny:115101, Motor:19815, TVC Count:30758, Assault:22042, Murder:607, Rape:2912, Robbery:5197
+State:Missouri, Year:2019, Total Crimes:192326, TPC Count:161946, Burglary:26414, Larceny:114460, Motor:21072, TVC Count:30380, Assault:21936, Murder:568, Rape:2917, Robbery:4959
+State:Montana, Year:2000, Total Crimes:35005, TPC Count:32198, Burglary:3624, Larceny:26678, Motor:1896, TVC Count:2807, Assault:2276, Murder:20, Rape:308, Robbery:203
+State:Montana, Year:2001, Total Crimes:33362, TPC Count:30175, Burglary:3670, Larceny:24684, Motor:1821, TVC Count:3187, Assault:2735, Murder:34, Rape:188, Robbery:230
+State:Montana, Year:2002, Total Crimes:31948, TPC Count:28751, Burglary:3289, Larceny:23679, Motor:1783, TVC Count:3197, Assault:2661, Murder:16, Rape:237, Robbery:283
+State:Montana, Year:2003, Total Crimes:31779, TPC Count:28428, Burglary:3722, Larceny:22800, Motor:1906, TVC Count:3351, Assault:2777, Murder:30, Rape:246, Robbery:298
+State:Montana, Year:2004, Total Crimes:29938, TPC Count:27215, Burglary:3515, Larceny:22082, Motor:1618, TVC Count:2723, Assault:2187, Murder:30, Rape:273, Robbery:233
+State:Montana, Year:2005, Total Crimes:32041, TPC Count:29407, Burglary:3642, Larceny:23794, Motor:1971, TVC Count:2634, Assault:2138, Murder:18, Rape:301, Robbery:177
+State:Montana, Year:2006, Total Crimes:30550, TPC Count:26986, Burglary:3380, Larceny:21659, Motor:1947, TVC Count:3564, Assault:2950, Murder:33, Rape:348, Robbery:233
+State:Montana, Year:2007, Total Crimes:31475, TPC Count:27837, Burglary:3476, Larceny:22315, Motor:2046, TVC Count:3638, Assault:3015, Murder:27, Rape:363, Robbery:233
+State:Montana, Year:2008, Total Crimes:29313, TPC Count:26300, Burglary:3689, Larceny:20834, Motor:1777, TVC Count:3013, Assault:2411, Murder:40, Rape:358, Robbery:204
+State:Montana, Year:2009, Total Crimes:27624, TPC Count:24826, Burglary:3686, Larceny:19528, Motor:1612, TVC Count:2798, Assault:2181, Murder:32, Rape:357, Robbery:228
+State:Montana, Year:2010, Total Crimes:28142, TPC Count:25409, Burglary:3692, Larceny:20166, Motor:1551, TVC Count:2733, Assault:2222, Murder:25, Rape:332, Robbery:154
+State:Montana, Year:2011, Total Crimes:26640, TPC Count:23885, Burglary:3347, Larceny:19089, Motor:1449, TVC Count:2755, Assault:2189, Murder:29, Rape:366, Robbery:171
+State:Montana, Year:2012, Total Crimes:28706, TPC Count:25970, Burglary:3894, Larceny:20387, Motor:1689, TVC Count:2736, Assault:2139, Murder:27, Rape:379, Robbery:191
+State:Montana, Year:2013, Total Crimes:28520, TPC Count:25953, Burglary:4064, Larceny:20039, Motor:1850, TVC Count:2567, Assault:1931, Murder:22, Rape:410, Robbery:204
+State:Montana, Year:2014, Total Crimes:28625, TPC Count:25312, Burglary:3595, Larceny:19674, Motor:2043, TVC Count:3313, Assault:2532, Murder:37, Rape:541, Robbery:203
+State:Montana, Year:2015, Total Crimes:30711, TPC Count:27100, Burglary:3838, Larceny:20844, Motor:2418, TVC Count:3611, Assault:2818, Murder:36, Rape:547, Robbery:210
+State:Montana, Year:2016, Total Crimes:31816, TPC Count:27976, Burglary:3934, Larceny:21299, Motor:2743, TVC Count:3840, Assault:2960, Murder:36, Rape:578, Robbery:266
+State:Montana, Year:2017, Total Crimes:31186, TPC Count:27225, Burglary:3615, Larceny:21018, Motor:2592, TVC Count:3961, Assault:3012, Murder:41, Rape:613, Robbery:295
+State:Montana, Year:2018, Total Crimes:30492, TPC Count:26518, Burglary:3257, Larceny:20465, Motor:2796, TVC Count:3974, Assault:3120, Murder:34, Rape:551, Robbery:269
+State:Montana, Year:2019, Total Crimes:27768, TPC Count:23440, Burglary:2887, Larceny:18176, Motor:2377, TVC Count:4328, Assault:3472, Murder:27, Rape:624, Robbery:205
+State:Nebraska, Year:2000, Total Crimes:70085, TPC Count:64479, Burglary:10131, Larceny:49118, Motor:5230, TVC Count:5606, Assault:3960, Murder:63, Rape:436, Robbery:1147
+State:Nebraska, Year:2001, Total Crimes:74177, TPC Count:68963, Burglary:9760, Larceny:52713, Motor:6490, TVC Count:5214, Assault:3612, Murder:43, Rape:431, Robbery:1128
+State:Nebraska, Year:2002, Total Crimes:73606, TPC Count:68178, Burglary:10329, Larceny:51440, Motor:6409, TVC Count:5428, Assault:3557, Murder:48, Rape:464, Robbery:1359
+State:Nebraska, Year:2003, Total Crimes:70294, TPC Count:65189, Burglary:10133, Larceny:48924, Motor:6132, TVC Count:5105, Assault:3380, Murder:56, Rape:504, Robbery:1165
+State:Nebraska, Year:2004, Total Crimes:66905, TPC Count:61512, Burglary:9826, Larceny:46399, Motor:5287, TVC Count:5393, Assault:3595, Murder:40, Rape:620, Robbery:1138
+State:Nebraska, Year:2005, Total Crimes:65400, TPC Count:60348, Burglary:9408, Larceny:45359, Motor:5581, TVC Count:5052, Assault:3387, Murder:44, Rape:581, Robbery:1040
+State:Nebraska, Year:2006, Total Crimes:64608, TPC Count:59411, Burglary:9535, Larceny:44710, Motor:5166, TVC Count:5197, Assault:3433, Murder:51, Rape:577, Robbery:1136
+State:Nebraska, Year:2007, Total Crimes:61289, TPC Count:55765, Burglary:9035, Larceny:41484, Motor:5246, TVC Count:5524, Assault:3788, Murder:71, Rape:550, Robbery:1115
+State:Nebraska, Year:2008, Total Crimes:56920, TPC Count:51350, Burglary:8731, Larceny:38394, Motor:4225, TVC Count:5570, Assault:3603, Murder:69, Rape:601, Robbery:1297
+State:Nebraska, Year:2009, Total Crimes:54930, TPC Count:49731, Burglary:8726, Larceny:37496, Motor:3509, TVC Count:5199, Assault:3321, Murder:41, Rape:617, Robbery:1220
+State:Nebraska, Year:2010, Total Crimes:53920, TPC Count:48827, Burglary:8318, Larceny:36896, Motor:3613, TVC Count:5093, Assault:3345, Murder:54, Rape:674, Robbery:1020
+State:Nebraska, Year:2011, Total Crimes:55566, TPC Count:50894, Burglary:8725, Larceny:38060, Motor:4109, TVC Count:4672, Assault:2912, Murder:68, Rape:699, Robbery:993
+State:Nebraska, Year:2012, Total Crimes:55932, TPC Count:51118, Burglary:8735, Larceny:38236, Motor:4147, TVC Count:4814, Assault:2920, Murder:53, Rape:711, Robbery:1130
+State:Nebraska, Year:2013, Total Crimes:53915, TPC Count:49018, Burglary:8900, Larceny:35655, Motor:4463, TVC Count:4897, Assault:2999, Murder:57, Rape:801, Robbery:1040
+State:Nebraska, Year:2014, Total Crimes:52754, TPC Count:47479, Burglary:7950, Larceny:35074, Motor:4455, TVC Count:5275, Assault:3316, Murder:54, Rape:862, Robbery:1043
+State:Nebraska, Year:2015, Total Crimes:47707, TPC Count:42495, Burglary:6422, Larceny:32072, Motor:4001, TVC Count:5212, Assault:3283, Murder:62, Rape:873, Robbery:994
+State:Nebraska, Year:2016, Total Crimes:48713, TPC Count:43163, Burglary:6444, Larceny:31994, Motor:4725, TVC Count:5550, Assault:3561, Murder:49, Rape:994, Robbery:946
+State:Nebraska, Year:2017, Total Crimes:49536, TPC Count:43663, Burglary:6472, Larceny:31988, Motor:5203, TVC Count:5873, Assault:3671, Murder:43, Rape:1191, Robbery:968
+State:Nebraska, Year:2018, Total Crimes:45620, TPC Count:40126, Burglary:5246, Larceny:30006, Motor:4874, TVC Count:5494, Assault:3461, Murder:44, Rape:1233, Robbery:756
+State:Nebraska, Year:2019, Total Crimes:45270, TPC Count:39449, Burglary:4745, Larceny:29719, Motor:4985, TVC Count:5821, Assault:3731, Murder:45, Rape:1253, Robbery:792
+State:Nevada, Year:2000, Total Crimes:85297, TPC Count:74823, Burglary:17526, Larceny:44125, Motor:13172, TVC Count:10474, Assault:4942, Murder:129, Rape:860, Robbery:4543
+State:Nevada, Year:2001, Total Crimes:89845, TPC Count:77486, Burglary:17711, Larceny:45073, Motor:14702, TVC Count:12359, Assault:6364, Murder:180, Rape:883, Robbery:4932
+State:Nevada, Year:2002, Total Crimes:97752, TPC Count:83896, Burglary:18951, Larceny:47459, Motor:17486, TVC Count:13856, Assault:7629, Murder:181, Rape:928, Robbery:5118
+State:Nevada, Year:2003, Total Crimes:109941, TPC Count:96128, Burglary:21958, Larceny:53321, Motor:20849, TVC Count:13813, Assault:7520, Murder:197, Rape:871, Robbery:5225
+State:Nevada, Year:2004, Total Crimes:112594, TPC Count:98215, Burglary:23142, Larceny:52438, Motor:22635, TVC Count:14379, Assault:8348, Murder:172, Rape:954, Robbery:4905
+State:Nevada, Year:2005, Total Crimes:117078, TPC Count:102424, Burglary:23481, Larceny:52012, Motor:26931, TVC Count:14654, Assault:8730, Murder:206, Rape:1016, Robbery:4702
+State:Nevada, Year:2006, Total Crimes:121025, TPC Count:102338, Burglary:24902, Larceny:50429, Motor:27007, TVC Count:18687, Assault:10331, Murder:226, Rape:1092, Robbery:7038
+State:Nevada, Year:2007, Total Crimes:116483, TPC Count:97118, Burglary:24911, Larceny:49844, Motor:22363, TVC Count:19365, Assault:11138, Murder:193, Rape:1096, Robbery:6938
+State:Nevada, Year:2008, Total Crimes:108979, TPC Count:90006, Burglary:24254, Larceny:49814, Motor:15938, TVC Count:18973, Assault:11216, Murder:165, Rape:1106, Robbery:6486
+State:Nevada, Year:2009, Total Crimes:99615, TPC Count:80976, Burglary:22115, Larceny:46463, Motor:12398, TVC Count:18639, Assault:11431, Murder:156, Rape:1024, Robbery:6028
+State:Nevada, Year:2010, Total Crimes:92933, TPC Count:75004, Burglary:22286, Larceny:42533, Motor:10185, TVC Count:17929, Assault:11508, Murder:158, Rape:965, Robbery:5298
+State:Nevada, Year:2011, Total Crimes:85527, TPC Count:70075, Burglary:20342, Larceny:40156, Motor:9577, TVC Count:15452, Assault:10092, Murder:139, Rape:913, Robbery:4308
+State:Nevada, Year:2012, Total Crimes:94273, TPC Count:77510, Burglary:22120, Larceny:45372, Motor:10018, TVC Count:16763, Assault:10790, Murder:124, Rape:931, Robbery:4918
+State:Nevada, Year:2013, Total Crimes:96001, TPC Count:79177, Burglary:23047, Larceny:46132, Motor:9998, TVC Count:16824, Assault:10060, Murder:163, Rape:1418, Robbery:5183
+State:Nevada, Year:2014, Total Crimes:92583, TPC Count:74538, Burglary:21927, Larceny:42426, Motor:10185, TVC Count:18045, Assault:10564, Murder:170, Rape:1357, Robbery:5954
+State:Nevada, Year:2015, Total Crimes:97255, TPC Count:77137, Burglary:22360, Larceny:43426, Motor:11351, TVC Count:20118, Assault:11965, Murder:178, Rape:1688, Robbery:6287
+State:Nevada, Year:2016, Total Crimes:95983, TPC Count:76047, Burglary:18850, Larceny:44017, Motor:13180, TVC Count:19936, Assault:11639, Murder:224, Rape:1733, Robbery:6340
+State:Nevada, Year:2017, Total Crimes:94989, TPC Count:78322, Burglary:20049, Larceny:45461, Motor:12812, TVC Count:16667, Assault:9662, Murder:274, Rape:1890, Robbery:4841
+State:Nevada, Year:2018, Total Crimes:90405, TPC Count:73985, Burglary:17743, Larceny:44338, Motor:11904, TVC Count:16420, Assault:10027, Murder:202, Rape:2329, Robbery:3862
+State:Nevada, Year:2019, Total Crimes:86735, TPC Count:71525, Burglary:15510, Larceny:44755, Motor:11260, TVC Count:15210, Assault:9620, Murder:143, Rape:2161, Robbery:3286
+State:New Hampshire, Year:2000, Total Crimes:30068, TPC Count:27901, Burglary:4992, Larceny:20761, Motor:2148, TVC Count:2167, Assault:1170, Murder:22, Rape:522, Robbery:453
+State:New Hampshire, Year:2001, Total Crimes:29233, TPC Count:27089, Burglary:4889, Larceny:20060, Motor:2140, TVC Count:2144, Assault:1224, Murder:17, Rape:458, Robbery:445
+State:New Hampshire, Year:2002, Total Crimes:28306, TPC Count:26250, Burglary:4838, Larceny:19468, Motor:1944, TVC Count:2056, Assault:1185, Murder:12, Rape:446, Robbery:413
+State:New Hampshire, Year:2003, Total Crimes:28393, TPC Count:26456, Burglary:4589, Larceny:19934, Motor:1933, TVC Count:1937, Assault:1002, Murder:17, Rape:438, Robbery:480
+State:New Hampshire, Year:2004, Total Crimes:28860, TPC Count:26658, Burglary:4979, Larceny:19723, Motor:1956, TVC Count:2202, Assault:1219, Murder:17, Rape:466, Robbery:500
+State:New Hampshire, Year:2005, Total Crimes:25792, TPC Count:24031, Burglary:4192, Larceny:18493, Motor:1346, TVC Count:1761, Assault:971, Murder:19, Rape:406, Robbery:365
+State:New Hampshire, Year:2006, Total Crimes:27845, TPC Count:26060, Burglary:4395, Larceny:20179, Motor:1486, TVC Count:1785, Assault:1042, Murder:13, Rape:295, Robbery:435
+State:New Hampshire, Year:2007, Total Crimes:28290, TPC Count:26394, Burglary:5074, Larceny:19909, Motor:1411, TVC Count:1896, Assault:1076, Murder:12, Rape:357, Robbery:451
+State:New Hampshire, Year:2008, Total Crimes:30441, TPC Count:28387, Burglary:4266, Larceny:22714, Motor:1407, TVC Count:2054, Assault:1234, Murder:14, Rape:385, Robbery:421
+State:New Hampshire, Year:2009, Total Crimes:30915, TPC Count:28790, Burglary:4915, Larceny:22748, Motor:1127, TVC Count:2125, Assault:1261, Murder:11, Rape:399, Robbery:454
+State:New Hampshire, Year:2010, Total Crimes:31434, TPC Count:29230, Burglary:5444, Larceny:22789, Motor:997, TVC Count:2204, Assault:1330, Murder:13, Rape:411, Robbery:450
+State:New Hampshire, Year:2011, Total Crimes:35620, TPC Count:32756, Burglary:6244, Larceny:25398, Motor:1114, TVC Count:2864, Assault:1758, Murder:16, Rape:581, Robbery:509
+State:New Hampshire, Year:2012, Total Crimes:33174, TPC Count:30693, Burglary:5444, Larceny:24226, Motor:1023, TVC Count:2481, Assault:1545, Murder:15, Rape:449, Robbery:472
+State:New Hampshire, Year:2013, Total Crimes:31889, TPC Count:29040, Burglary:4936, Larceny:23164, Motor:940, TVC Count:2849, Assault:1492, Murder:22, Rape:686, Robbery:649
+State:New Hampshire, Year:2014, Total Crimes:28643, TPC Count:26041, Burglary:4162, Larceny:21022, Motor:857, TVC Count:2602, Assault:1459, Murder:12, Rape:594, Robbery:537
+State:New Hampshire, Year:2015, Total Crimes:25881, TPC Count:23229, Burglary:3467, Larceny:18871, Motor:891, TVC Count:2652, Assault:1543, Murder:14, Rape:627, Robbery:468
+State:New Hampshire, Year:2016, Total Crimes:22831, TPC Count:20194, Burglary:2963, Larceny:16360, Motor:871, TVC Count:2637, Assault:1611, Murder:17, Rape:582, Robbery:427
+State:New Hampshire, Year:2017, Total Crimes:21223, TPC Count:18555, Burglary:2574, Larceny:15066, Motor:915, TVC Count:2668, Assault:1572, Murder:14, Rape:663, Robbery:419
+State:New Hampshire, Year:2018, Total Crimes:19284, TPC Count:16935, Burglary:1847, Larceny:14219, Motor:869, TVC Count:2349, Assault:1435, Murder:21, Rape:534, Robbery:359
+State:New Hampshire, Year:2019, Total Crimes:18516, TPC Count:16442, Burglary:1717, Larceny:13832, Motor:893, TVC Count:2074, Assault:1138, Murder:33, Rape:590, Robbery:313
+State:New Jersey, Year:2000, Total Crimes:265935, TPC Count:233637, Burglary:43924, Larceny:155562, Motor:34151, TVC Count:32298, Assault:17099, Murder:289, Rape:1357, Robbery:13553
+State:New Jersey, Year:2001, Total Crimes:273645, TPC Count:240551, Burglary:46812, Larceny:156031, Motor:37708, TVC Count:33094, Assault:17370, Murder:336, Rape:1278, Robbery:14110
+State:New Jersey, Year:2002, Total Crimes:259967, TPC Count:227715, Burglary:43899, Larceny:148061, Motor:35755, TVC Count:32252, Assault:16593, Murder:339, Rape:1365, Robbery:13955
+State:New Jersey, Year:2003, Total Crimes:251838, TPC Count:220350, Burglary:43457, Larceny:142287, Motor:34606, TVC Count:31488, Assault:16452, Murder:406, Rape:1288, Robbery:13342
+State:New Jersey, Year:2004, Total Crimes:242256, TPC Count:211313, Burglary:41030, Larceny:139977, Motor:30306, TVC Count:30943, Assault:16144, Murder:392, Rape:1331, Robbery:13076
+State:New Jersey, Year:2005, Total Crimes:234310, TPC Count:203391, Burglary:38980, Larceny:136728, Motor:27683, TVC Count:30919, Assault:16079, Murder:417, Rape:1208, Robbery:13215
+State:New Jersey, Year:2006, Total Crimes:229370, TPC Count:198820, Burglary:39384, Larceny:134687, Motor:24749, TVC Count:30550, Assault:15562, Murder:427, Rape:1201, Robbery:13360
+State:New Jersey, Year:2007, Total Crimes:220882, TPC Count:192338, Burglary:37234, Larceny:133145, Motor:21959, TVC Count:28544, Assault:14564, Murder:381, Rape:1032, Robbery:12567
+State:New Jersey, Year:2008, Total Crimes:227478, TPC Count:199127, Burglary:40402, Larceny:138545, Motor:20180, TVC Count:28351, Assault:14152, Murder:376, Rape:1122, Robbery:12701
+State:New Jersey, Year:2009, Total Crimes:207865, TPC Count:180752, Burglary:36945, Larceny:128303, Motor:15504, TVC Count:27113, Assault:14114, Murder:319, Rape:1041, Robbery:11639
+State:New Jersey, Year:2010, Total Crimes:210097, TPC Count:183042, Burglary:38732, Larceny:128754, Motor:15556, TVC Count:27055, Assault:13885, Murder:371, Rape:981, Robbery:11818
+State:New Jersey, Year:2011, Total Crimes:216922, TPC Count:189719, Burglary:43238, Larceny:129066, Motor:17415, TVC Count:27203, Assault:13608, Murder:380, Rape:1006, Robbery:12209
+State:New Jersey, Year:2012, Total Crimes:207208, TPC Count:181481, Burglary:42338, Larceny:122662, Motor:16481, TVC Count:25727, Assault:12919, Murder:388, Rape:1035, Robbery:11385
+State:New Jersey, Year:2013, Total Crimes:193230, TPC Count:167556, Burglary:35873, Larceny:117936, Motor:13747, TVC Count:25674, Assault:12071, Murder:401, Rape:1120, Robbery:12082
+State:New Jersey, Year:2014, Total Crimes:178339, TPC Count:154993, Burglary:31710, Larceny:111578, Motor:11705, TVC Count:23346, Assault:11225, Murder:349, Rape:1274, Robbery:10498
+State:New Jersey, Year:2015, Total Crimes:168580, TPC Count:145701, Burglary:27960, Larceny:105963, Motor:11778, TVC Count:22879, Assault:11414, Murder:363, Rape:1373, Robbery:9729
+State:New Jersey, Year:2016, Total Crimes:160066, TPC Count:138152, Burglary:25284, Larceny:101540, Motor:11328, TVC Count:21914, Assault:11105, Murder:372, Rape:1453, Robbery:8984
+State:New Jersey, Year:2017, Total Crimes:160690, TPC Count:140086, Burglary:23891, Larceny:104025, Motor:12170, TVC Count:20604, Assault:10880, Murder:324, Rape:1505, Robbery:7895
+State:New Jersey, Year:2018, Total Crimes:143693, TPC Count:125156, Burglary:19232, Larceny:94887, Motor:11037, TVC Count:18537, Assault:10463, Murder:286, Rape:1424, Robbery:6364
+State:New Jersey, Year:2019, Total Crimes:137012, TPC Count:118637, Burglary:16399, Larceny:91902, Motor:10336, TVC Count:18375, Assault:10852, Murder:262, Rape:1531, Robbery:5730
+State:New Mexico, Year:2000, Total Crimes:100391, TPC Count:86605, Burglary:21339, Larceny:57925, Motor:7341, TVC Count:13786, Assault:10230, Murder:135, Rape:922, Robbery:2499
+State:New Mexico, Year:2001, Total Crimes:97383, TPC Count:83095, Burglary:19552, Larceny:56406, Motor:7137, TVC Count:14288, Assault:10644, Murder:99, Rape:850, Robbery:2695
+State:New Mexico, Year:2002, Total Crimes:94196, TPC Count:80477, Burglary:19634, Larceny:53406, Motor:7437, TVC Count:13719, Assault:10334, Murder:152, Rape:1027, Robbery:2206
+State:New Mexico, Year:2003, Total Crimes:89351, TPC Count:76816, Burglary:18997, Larceny:50595, Motor:7224, TVC Count:12535, Assault:9542, Murder:116, Rape:940, Robbery:1937
+State:New Mexico, Year:2004, Total Crimes:92976, TPC Count:79895, Burglary:19924, Larceny:52069, Motor:7902, TVC Count:13081, Assault:9811, Murder:169, Rape:1039, Robbery:2062
+State:New Mexico, Year:2005, Total Crimes:92023, TPC Count:79575, Burglary:20939, Larceny:50707, Motor:7929, TVC Count:12448, Assault:9370, Murder:144, Rape:1041, Robbery:1893
+State:New Mexico, Year:2006, Total Crimes:88797, TPC Count:76000, Burglary:20906, Larceny:45864, Motor:9230, TVC Count:12797, Assault:9495, Murder:134, Rape:1073, Robbery:2095
+State:New Mexico, Year:2007, Total Crimes:88479, TPC Count:75168, Burglary:20823, Larceny:45442, Motor:8903, TVC Count:13311, Assault:9777, Murder:183, Rape:1028, Robbery:2323
+State:New Mexico, Year:2008, Total Crimes:88685, TPC Count:75718, Burglary:20706, Larceny:46995, Motor:8017, TVC Count:12967, Assault:9537, Murder:161, Rape:1118, Robbery:2151
+State:New Mexico, Year:2009, Total Crimes:87348, TPC Count:74639, Burglary:21955, Larceny:46182, Motor:6502, TVC Count:12709, Assault:9510, Murder:198, Rape:1069, Robbery:1932
+State:New Mexico, Year:2010, Total Crimes:82923, TPC Count:70776, Burglary:21023, Larceny:44503, Motor:5250, TVC Count:12147, Assault:9432, Murder:140, Rape:959, Robbery:1616
+State:New Mexico, Year:2011, Total Crimes:85453, TPC Count:73549, Burglary:21419, Larceny:46730, Motor:5400, TVC Count:11904, Assault:9170, Murder:158, Rape:856, Robbery:1720
+State:New Mexico, Year:2012, Total Crimes:86754, TPC Count:75094, Burglary:21384, Larceny:48247, Motor:5463, TVC Count:11660, Assault:8740, Murder:116, Rape:957, Robbery:1847
+State:New Mexico, Year:2013, Total Crimes:90038, TPC Count:77256, Burglary:21476, Larceny:49875, Motor:5905, TVC Count:12782, Assault:9382, Murder:125, Rape:1465, Robbery:1810
+State:New Mexico, Year:2014, Total Crimes:86336, TPC Count:73877, Burglary:18505, Larceny:49082, Motor:6290, TVC Count:12459, Assault:8797, Murder:101, Rape:1475, Robbery:2086
+State:New Mexico, Year:2015, Total Crimes:90775, TPC Count:77094, Burglary:17085, Larceny:51483, Motor:8526, TVC Count:13681, Assault:9407, Murder:117, Rape:1672, Robbery:2485
+State:New Mexico, Year:2016, Total Crimes:96550, TPC Count:81931, Burglary:17281, Larceny:52907, Motor:11743, TVC Count:14619, Assault:10217, Murder:139, Rape:1526, Robbery:2737
+State:New Mexico, Year:2017, Total Crimes:98665, TPC Count:82306, Burglary:17917, Larceny:52617, Motor:11772, TVC Count:16359, Assault:11230, Murder:148, Rape:1259, Robbery:3722
+State:New Mexico, Year:2018, Total Crimes:89606, TPC Count:71657, Burglary:16088, Larceny:45390, Motor:10179, TVC Count:17949, Assault:13598, Murder:167, Rape:1354, Robbery:2830
+State:New Mexico, Year:2019, Total Crimes:82719, TPC Count:65269, Burglary:14610, Larceny:41702, Motor:8957, TVC Count:17450, Assault:13640, Murder:181, Rape:1288, Robbery:2341
+State:New York, Year:2000, Total Crimes:588189, TPC Count:483078, Burglary:87946, Larceny:340901, Motor:54231, TVC Count:105111, Assault:60090, Murder:952, Rape:3530, Robbery:40539
+State:New York, Year:2001, Total Crimes:556025, TPC Count:458003, Burglary:80400, Larceny:329316, Motor:48287, TVC Count:98022, Assault:56961, Murder:960, Rape:3546, Robbery:36555
+State:New York, Year:2002, Total Crimes:537121, TPC Count:442091, Burglary:76700, Larceny:318025, Motor:47366, TVC Count:95030, Assault:53583, Murder:909, Rape:3885, Robbery:36653
+State:New York, Year:2003, Total Crimes:521565, TPC Count:432079, Burglary:75453, Larceny:311422, Motor:45204, TVC Count:89486, Assault:48987, Murder:934, Rape:3775, Robbery:35790
+State:New York, Year:2004, Total Crimes:507648, TPC Count:422734, Burglary:70696, Larceny:311036, Motor:41002, TVC Count:84914, Assault:46911, Murder:889, Rape:3608, Robbery:33506
+State:New York, Year:2005, Total Crimes:491829, TPC Count:405990, Burglary:68034, Larceny:302220, Motor:35736, TVC Count:85839, Assault:46150, Murder:874, Rape:3636, Robbery:35179
+State:New York, Year:2006, Total Crimes:482593, TPC Count:398577, Burglary:68617, Larceny:297827, Motor:32133, TVC Count:84016, Assault:45467, Murder:922, Rape:3168, Robbery:34459
+State:New York, Year:2007, Total Crimes:463586, TPC Count:383624, Burglary:64914, Larceny:290681, Motor:28029, TVC Count:79962, Assault:45144, Murder:805, Rape:2928, Robbery:31085
+State:New York, Year:2008, Total Crimes:466145, TPC Count:388599, Burglary:65544, Larceny:297962, Motor:25093, TVC Count:77546, Assault:42125, Murder:836, Rape:2798, Robbery:31787
+State:New York, Year:2009, Total Crimes:452647, TPC Count:377537, Burglary:62769, Larceny:292897, Motor:21871, TVC Count:75110, Assault:43606, Murder:781, Rape:2582, Robbery:28141
+State:New York, Year:2010, Total Crimes:456202, TPC Count:379710, Burglary:65839, Larceny:293232, Motor:20639, TVC Count:76492, Assault:44197, Murder:868, Rape:2797, Robbery:28630
+State:New York, Year:2011, Total Crimes:449300, TPC Count:371837, Burglary:65227, Larceny:287361, Motor:19249, TVC Count:77463, Assault:45538, Murder:769, Rape:2751, Robbery:28405
+State:New York, Year:2012, Total Crimes:455750, TPC Count:376140, Burglary:64553, Larceny:294239, Motor:17348, TVC Count:79610, Assault:47423, Murder:684, Rape:2848, Robbery:28655
+State:New York, Year:2013, Total Crimes:435970, TPC Count:358598, Burglary:56442, Larceny:286674, Motor:15482, TVC Count:77372, Assault:46130, Murder:648, Rape:3353, Robbery:27241
+State:New York, Year:2014, Total Crimes:414680, TPC Count:339282, Burglary:50781, Larceny:272765, Motor:15736, TVC Count:75398, Assault:45303, Murder:617, Rape:5433, Robbery:24045
+State:New York, Year:2015, Total Crimes:392694, TPC Count:317529, Burglary:44276, Larceny:257940, Motor:15313, TVC Count:75165, Assault:44546, Murder:609, Rape:6074, Robbery:23936
+State:New York, Year:2016, Total Crimes:379466, TPC Count:305181, Burglary:39821, Larceny:250968, Motor:14392, TVC Count:74285, Assault:45079, Murder:630, Rape:6260, Robbery:22316
+State:New York, Year:2017, Total Crimes:371354, TPC Count:300555, Burglary:35002, Larceny:252143, Motor:13410, TVC Count:70799, Assault:43819, Murder:548, Rape:6324, Robbery:20108
+State:New York, Year:2018, Total Crimes:350002, TPC Count:281507, Burglary:31137, Larceny:237233, Motor:13137, TVC Count:68495, Assault:43171, Murder:562, Rape:6575, Robbery:18187
+State:New York, Year:2019, Total Crimes:336919, TPC Count:267155, Burglary:27600, Larceny:226851, Motor:12704, TVC Count:69764, Assault:44555, Murder:558, Rape:6583, Robbery:18068
+State:North Carolina, Year:2000, Total Crimes:395972, TPC Count:355921, Burglary:97888, Larceny:232767, Motor:25266, TVC Count:40051, Assault:24715, Murder:560, Rape:2181, Robbery:12595
+State:North Carolina, Year:2001, Total Crimes:404242, TPC Count:363777, Burglary:101889, Larceny:237241, Motor:24647, TVC Count:40465, Assault:24573, Murder:505, Rape:2083, Robbery:13304
+State:North Carolina, Year:2002, Total Crimes:392826, TPC Count:353708, Burglary:99535, Larceny:229307, Motor:24866, TVC Count:39118, Assault:24169, Murder:548, Rape:2196, Robbery:12205
+State:North Carolina, Year:2003, Total Crimes:397903, TPC Count:359660, Burglary:100687, Larceny:232081, Motor:26892, TVC Count:38243, Assault:23369, Murder:506, Rape:2139, Robbery:12229
+State:North Carolina, Year:2004, Total Crimes:393572, TPC Count:355328, Burglary:101193, Larceny:227147, Motor:26988, TVC Count:38244, Assault:23591, Murder:532, Rape:2339, Robbery:11782
+State:North Carolina, Year:2005, Total Crimes:394505, TPC Count:353855, Burglary:104298, Larceny:221091, Motor:28466, TVC Count:40650, Assault:25128, Murder:585, Rape:2302, Robbery:12635
+State:North Carolina, Year:2006, Total Crimes:406637, TPC Count:364549, Burglary:107333, Larceny:227114, Motor:30102, TVC Count:42088, Assault:25586, Murder:539, Rape:2495, Robbery:13468
+State:North Carolina, Year:2007, Total Crimes:412124, TPC Count:369893, Burglary:108700, Larceny:233241, Motor:27952, TVC Count:42231, Assault:25727, Murder:584, Rape:2386, Robbery:13534
+State:North Carolina, Year:2008, Total Crimes:415888, TPC Count:372763, Burglary:111556, Larceny:234480, Motor:26727, TVC Count:43125, Assault:25907, Murder:599, Rape:2296, Robbery:14323
+State:North Carolina, Year:2009, Total Crimes:381653, TPC Count:343707, Burglary:107830, Larceny:215923, Motor:19954, TVC Count:37946, Assault:23326, Murder:489, Rape:2306, Robbery:11825
+State:North Carolina, Year:2010, Total Crimes:363881, TPC Count:329202, Burglary:102826, Larceny:208057, Motor:18319, TVC Count:34679, Assault:22583, Murder:474, Rape:2002, Robbery:9620
+State:North Carolina, Year:2011, Total Crimes:371227, TPC Count:337806, Burglary:105534, Larceny:215453, Motor:16819, TVC Count:33421, Assault:21516, Murder:498, Rape:1959, Robbery:9448
+State:North Carolina, Year:2012, Total Crimes:363058, TPC Count:328594, Burglary:99323, Larceny:213151, Motor:16120, TVC Count:34464, Assault:22609, Murder:479, Rape:1984, Robbery:9392
+State:North Carolina, Year:2013, Total Crimes:341749, TPC Count:308049, Burglary:90702, Larceny:202741, Motor:14606, TVC Count:33700, Assault:21513, Murder:469, Rape:2369, Robbery:9349
+State:North Carolina, Year:2014, Total Crimes:318464, TPC Count:285697, Burglary:79373, Larceny:192694, Motor:13630, TVC Count:32767, Assault:21421, Murder:510, Rape:2420, Robbery:8416
+State:North Carolina, Year:2015, Total Crimes:311035, TPC Count:276183, Burglary:74841, Larceny:187907, Motor:13435, TVC Count:34852, Assault:22826, Murder:517, Rape:2684, Robbery:8825
+State:North Carolina, Year:2016, Total Crimes:315534, TPC Count:277765, Burglary:72082, Larceny:190377, Motor:15306, TVC Count:37769, Assault:24906, Murder:678, Rape:2849, Robbery:9336
+State:North Carolina, Year:2017, Total Crimes:298850, TPC Count:261486, Burglary:64786, Larceny:180902, Motor:15798, TVC Count:37364, Assault:24708, Murder:591, Rape:2715, Robbery:9350
+State:North Carolina, Year:2018, Total Crimes:298189, TPC Count:258979, Burglary:62290, Larceny:179057, Motor:17632, TVC Count:39210, Assault:27526, Murder:628, Rape:2633, Robbery:8423
+State:North Carolina, Year:2019, Total Crimes:286231, TPC Count:247236, Burglary:54447, Larceny:174728, Motor:18061, TVC Count:38995, Assault:27517, Murder:632, Rape:3247, Robbery:7599
+State:North Dakota, Year:2000, Total Crimes:14694, TPC Count:14171, Burglary:2093, Larceny:11092, Motor:986, TVC Count:523, Assault:294, Murder:4, Rape:169, Robbery:56
+State:North Dakota, Year:2001, Total Crimes:15339, TPC Count:14834, Burglary:2165, Larceny:11583, Motor:1086, TVC Count:505, Assault:274, Murder:7, Rape:164, Robbery:60
+State:North Dakota, Year:2002, Total Crimes:15258, TPC Count:14762, Burglary:2243, Larceny:11501, Motor:1018, TVC Count:496, Assault:270, Murder:5, Rape:163, Robbery:58
+State:North Dakota, Year:2003, Total Crimes:13872, TPC Count:13364, Burglary:1959, Larceny:10327, Motor:1078, TVC Count:508, Assault:286, Murder:9, Rape:160, Robbery:53
+State:North Dakota, Year:2004, Total Crimes:13051, TPC Count:12493, Burglary:2040, Larceny:9516, Motor:937, TVC Count:558, Assault:330, Murder:8, Rape:177, Robbery:43
+State:North Dakota, Year:2005, Total Crimes:13554, TPC Count:12848, Burglary:2043, Larceny:9732, Motor:1073, TVC Count:706, Assault:460, Murder:12, Rape:180, Robbery:54
+State:North Dakota, Year:2006, Total Crimes:14614, TPC Count:13359, Burglary:2601, Larceny:9672, Motor:1086, TVC Count:1255, Assault:925, Murder:14, Rape:241, Robbery:75
+State:North Dakota, Year:2007, Total Crimes:14139, TPC Count:12796, Burglary:2314, Larceny:9500, Motor:982, TVC Count:1343, Assault:999, Murder:17, Rape:252, Robbery:75
+State:North Dakota, Year:2008, Total Crimes:14470, TPC Count:13029, Burglary:2336, Larceny:9782, Motor:911, TVC Count:1441, Assault:1026, Murder:11, Rape:331, Robbery:73
+State:North Dakota, Year:2009, Total Crimes:14536, TPC Count:12813, Burglary:2426, Larceny:9474, Motor:913, TVC Count:1723, Assault:1308, Murder:12, Rape:296, Robbery:107
+State:North Dakota, Year:2010, Total Crimes:13558, TPC Count:12010, Burglary:2000, Larceny:9137, Motor:873, TVC Count:1548, Assault:1203, Murder:10, Rape:245, Robbery:90
+State:North Dakota, Year:2011, Total Crimes:15033, TPC Count:13334, Burglary:2458, Larceny:9891, Motor:985, TVC Count:1699, Assault:1318, Murder:24, Rape:266, Robbery:91
+State:North Dakota, Year:2012, Total Crimes:15775, TPC Count:14063, Burglary:2377, Larceny:10535, Motor:1151, TVC Count:1712, Assault:1281, Murder:28, Rape:272, Robbery:131
+State:North Dakota, Year:2013, Total Crimes:17102, TPC Count:15148, Burglary:2934, Larceny:10798, Motor:1416, TVC Count:1954, Assault:1446, Murder:16, Rape:330, Robbery:162
+State:North Dakota, Year:2014, Total Crimes:17565, TPC Count:15605, Burglary:2707, Larceny:11384, Motor:1514, TVC Count:1960, Assault:1407, Murder:22, Rape:358, Robbery:173
+State:North Dakota, Year:2015, Total Crimes:17832, TPC Count:16020, Burglary:2997, Larceny:11440, Motor:1583, TVC Count:1812, Assault:1298, Murder:21, Rape:345, Robbery:148
+State:North Dakota, Year:2016, Total Crimes:19305, TPC Count:17402, Burglary:3243, Larceny:12195, Motor:1964, TVC Count:1903, Assault:1365, Murder:15, Rape:342, Robbery:181
+State:North Dakota, Year:2017, Total Crimes:18727, TPC Count:16602, Burglary:2942, Larceny:11887, Motor:1773, TVC Count:2125, Assault:1533, Murder:10, Rape:399, Robbery:183
+State:North Dakota, Year:2018, Total Crimes:17640, TPC Count:15507, Burglary:2724, Larceny:11008, Motor:1775, TVC Count:2133, Assault:1560, Murder:18, Rape:397, Robbery:158
+State:North Dakota, Year:2019, Total Crimes:17235, TPC Count:15066, Burglary:2608, Larceny:10666, Motor:1792, TVC Count:2169, Assault:1529, Murder:24, Rape:437, Robbery:179
+State:Ohio, Year:2000, Total Crimes:458874, TPC Count:420939, Burglary:88636, Larceny:293277, Motor:39026, TVC Count:37935, Assault:17636, Murder:418, Rape:4271, Robbery:15610
+State:Ohio, Year:2001, Total Crimes:475138, TPC Count:435115, Burglary:96910, Larceny:295976, Motor:42229, TVC Count:40023, Assault:17906, Murder:452, Rape:4466, Robbery:17199
+State:Ohio, Year:2002, Total Crimes:469104, TPC Count:428976, Burglary:99164, Larceny:287045, Motor:42767, TVC Count:40128, Assault:16922, Murder:526, Rape:4809, Robbery:17871
+State:Ohio, Year:2003, Total Crimes:455668, TPC Count:417483, Burglary:95083, Larceny:281383, Motor:41017, TVC Count:38185, Assault:16104, Murder:526, Rape:4660, Robbery:16895
+State:Ohio, Year:2004, Total Crimes:458124, TPC Count:419337, Burglary:96518, Larceny:282168, Motor:40651, TVC Count:38787, Assault:16108, Murder:506, Rape:4744, Robbery:17429
+State:Ohio, Year:2005, Total Crimes:460867, TPC Count:420705, Burglary:100183, Larceny:279051, Motor:41471, TVC Count:40162, Assault:16228, Murder:590, Rape:4671, Robbery:18673
+State:Ohio, Year:2006, Total Crimes:464825, TPC Count:423334, Burglary:105639, Larceny:279718, Motor:37977, TVC Count:41491, Assault:16743, Murder:560, Rape:4770, Robbery:19418
+State:Ohio, Year:2007, Total Crimes:438440, TPC Count:397681, Burglary:99049, Larceny:264677, Motor:33955, TVC Count:40759, Assault:17218, Murder:529, Rape:4661, Robbery:18351
+State:Ohio, Year:2008, Total Crimes:432103, TPC Count:391667, Burglary:102428, Larceny:260788, Motor:28451, TVC Count:40436, Assault:16652, Murder:547, Rape:4531, Robbery:18706
+State:Ohio, Year:2009, Total Crimes:414751, TPC Count:376446, Burglary:104009, Larceny:249777, Motor:22660, TVC Count:38305, Assault:15989, Murder:527, Rape:4119, Robbery:17670
+State:Ohio, Year:2010, Total Crimes:413142, TPC Count:376836, Burglary:107125, Larceny:248581, Motor:21130, TVC Count:36306, Assault:15611, Murder:479, Rape:3730, Robbery:16486
+State:Ohio, Year:2011, Total Crimes:415790, TPC Count:380572, Burglary:112901, Larceny:246744, Motor:20927, TVC Count:35218, Assault:15048, Murder:500, Rape:3679, Robbery:15991
+State:Ohio, Year:2012, Total Crimes:394478, TPC Count:359883, Burglary:103421, Larceny:236950, Motor:19512, TVC Count:34595, Assault:15207, Murder:495, Rape:3658, Robbery:15235
+State:Ohio, Year:2013, Total Crimes:371852, TPC Count:338731, Burglary:91433, Larceny:227766, Motor:19532, TVC Count:33121, Assault:14257, Murder:455, Rape:4041, Robbery:14368
+State:Ohio, Year:2014, Total Crimes:357558, TPC Count:324528, Burglary:78845, Larceny:227668, Motor:18015, TVC Count:33030, Assault:14771, Murder:464, Rape:5042, Robbery:12753
+State:Ohio, Year:2015, Total Crimes:334423, TPC Count:300525, Burglary:69303, Larceny:213993, Motor:17229, TVC Count:33898, Assault:15695, Murder:500, Rape:5149, Robbery:12554
+State:Ohio, Year:2016, Total Crimes:334234, TPC Count:299357, Burglary:66883, Larceny:212807, Motor:19667, TVC Count:34877, Assault:16111, Murder:654, Rape:5589, Robbery:12523
+State:Ohio, Year:2017, Total Crimes:316717, TPC Count:282034, Burglary:58573, Larceny:203208, Motor:20253, TVC Count:34683, Assault:16509, Murder:710, Rape:5859, Robbery:11605
+State:Ohio, Year:2018, Total Crimes:287219, TPC Count:254496, Burglary:48186, Larceny:186401, Motor:19909, TVC Count:32723, Assault:17674, Murder:564, Rape:5300, Robbery:9185
+State:Ohio, Year:2019, Total Crimes:274560, TPC Count:240291, Burglary:43894, Larceny:177725, Motor:18672, TVC Count:34269, Assault:19154, Murder:538, Rape:5731, Robbery:8846
+State:Oklahoma, Year:2000, Total Crimes:157302, TPC Count:140125, Burglary:31661, Larceny:96116, Motor:12348, TVC Count:17177, Assault:12958, Murder:182, Rape:1422, Robbery:2615
+State:Oklahoma, Year:2001, Total Crimes:159405, TPC Count:141679, Burglary:34573, Larceny:94537, Motor:12569, TVC Count:17726, Assault:13309, Murder:185, Rape:1486, Robbery:2746
+State:Oklahoma, Year:2002, Total Crimes:165715, TPC Count:148128, Burglary:35171, Larceny:100185, Motor:12772, TVC Count:17587, Assault:12885, Murder:163, Rape:1573, Robbery:2966
+State:Oklahoma, Year:2003, Total Crimes:168966, TPC Count:151208, Burglary:34846, Larceny:103404, Motor:12958, TVC Count:17758, Assault:12827, Murder:206, Rape:1501, Robbery:3224
+State:Oklahoma, Year:2004, Total Crimes:167107, TPC Count:149472, Burglary:35244, Larceny:101271, Motor:12957, TVC Count:17635, Assault:12802, Murder:186, Rape:1557, Robbery:3090
+State:Oklahoma, Year:2005, Total Crimes:161450, TPC Count:143406, Burglary:35692, Larceny:93814, Motor:13900, TVC Count:18044, Assault:13146, Murder:187, Rape:1481, Robbery:3230
+State:Oklahoma, Year:2006, Total Crimes:147633, TPC Count:129728, Burglary:34437, Larceny:81853, Motor:13438, TVC Count:17905, Assault:13062, Murder:210, Rape:1488, Robbery:3145
+State:Oklahoma, Year:2007, Total Crimes:146948, TPC Count:128714, Burglary:34367, Larceny:80747, Motor:13600, TVC Count:18234, Assault:13053, Murder:224, Rape:1565, Robbery:3392
+State:Oklahoma, Year:2008, Total Crimes:145894, TPC Count:126535, Burglary:35247, Larceny:80265, Motor:11023, TVC Count:19359, Assault:13975, Murder:215, Rape:1471, Robbery:3698
+State:Oklahoma, Year:2009, Total Crimes:150910, TPC Count:132350, Burglary:38071, Larceny:83813, Motor:10466, TVC Count:18560, Assault:13433, Murder:234, Rape:1535, Robbery:3358
+State:Oklahoma, Year:2010, Total Crimes:147564, TPC Count:129464, Burglary:37848, Larceny:81303, Motor:10313, TVC Count:18100, Assault:13091, Murder:195, Rape:1469, Robbery:3345
+State:Oklahoma, Year:2011, Total Crimes:144929, TPC Count:127618, Burglary:36462, Larceny:80064, Motor:11092, TVC Count:17311, Assault:12401, Murder:212, Rape:1410, Robbery:3288
+State:Oklahoma, Year:2012, Total Crimes:147645, TPC Count:129743, Burglary:35731, Larceny:82448, Motor:11564, TVC Count:17902, Assault:12867, Murder:216, Rape:1588, Robbery:3231
+State:Oklahoma, Year:2013, Total Crimes:143046, TPC Count:126057, Burglary:33348, Larceny:81495, Motor:11214, TVC Count:16989, Assault:11583, Murder:195, Rape:2180, Robbery:3031
+State:Oklahoma, Year:2014, Total Crimes:131726, TPC Count:115982, Burglary:29508, Larceny:75891, Motor:10583, TVC Count:15744, Assault:10744, Murder:175, Rape:1777, Robbery:3048
+State:Oklahoma, Year:2015, Total Crimes:129384, TPC Count:112878, Burglary:28406, Larceny:74022, Motor:10450, TVC Count:16506, Assault:11418, Murder:234, Rape:1849, Robbery:3005
+State:Oklahoma, Year:2016, Total Crimes:134685, TPC Count:117037, Burglary:29103, Larceny:75779, Motor:12155, TVC Count:17648, Assault:12202, Murder:245, Rape:2039, Robbery:3162
+State:Oklahoma, Year:2017, Total Crimes:131000, TPC Count:113066, Burglary:28608, Larceny:72207, Motor:12251, TVC Count:17934, Assault:12550, Murder:242, Rape:2142, Robbery:3000
+State:Oklahoma, Year:2018, Total Crimes:131744, TPC Count:113364, Burglary:26858, Larceny:73217, Motor:13289, TVC Count:18380, Assault:13084, Murder:206, Rape:2299, Robbery:2791
+State:Oklahoma, Year:2019, Total Crimes:129673, TPC Count:112587, Burglary:26577, Larceny:72632, Motor:13378, TVC Count:17086, Assault:12183, Murder:266, Rape:2268, Robbery:2369
+State:Oregon, Year:2000, Total Crimes:165780, TPC Count:153780, Burglary:25618, Larceny:114230, Motor:13932, TVC Count:12000, Assault:7756, Murder:70, Rape:1286, Robbery:2888
+State:Oregon, Year:2001, Total Crimes:175174, TPC Count:164524, Burglary:26648, Larceny:123034, Motor:14842, TVC Count:10650, Assault:6643, Murder:84, Rape:1174, Robbery:2749
+State:Oregon, Year:2002, Total Crimes:171443, TPC Count:161145, Burglary:25696, Larceny:118925, Motor:16524, TVC Count:10298, Assault:6246, Murder:72, Rape:1238, Robbery:2742
+State:Oregon, Year:2003, Total Crimes:180369, TPC Count:169863, Burglary:28562, Larceny:122327, Motor:18974, TVC Count:10506, Assault:6373, Murder:68, Rape:1218, Robbery:2847
+State:Oregon, Year:2004, Total Crimes:177199, TPC Count:166475, Burglary:30072, Larceny:117868, Motor:18535, TVC Count:10724, Assault:6600, Murder:90, Rape:1283, Robbery:2751
+State:Oregon, Year:2005, Total Crimes:170643, TPC Count:160199, Burglary:27621, Larceny:113316, Motor:19262, TVC Count:10444, Assault:6620, Murder:80, Rape:1266, Robbery:2478
+State:Oregon, Year:2006, Total Crimes:148392, TPC Count:137858, Burglary:24324, Larceny:98897, Motor:14637, TVC Count:10534, Assault:6516, Murder:88, Rape:1219, Robbery:2711
+State:Oregon, Year:2007, Total Crimes:143788, TPC Count:132773, Burglary:22979, Larceny:95157, Motor:14637, TVC Count:11015, Assault:6799, Murder:76, Rape:1276, Robbery:2864
+State:Oregon, Year:2008, Total Crimes:135078, TPC Count:125169, Burglary:21115, Larceny:92677, Motor:11377, TVC Count:9909, Assault:5983, Murder:87, Rape:1183, Robbery:2656
+State:Oregon, Year:2009, Total Crimes:124748, TPC Count:114780, Burglary:19739, Larceny:85064, Motor:9977, TVC Count:9968, Assault:6179, Murder:88, Rape:1202, Robbery:2499
+State:Oregon, Year:2010, Total Crimes:126305, TPC Count:116657, Burglary:20035, Larceny:87494, Motor:9128, TVC Count:9648, Assault:5892, Murder:96, Rape:1239, Robbery:2421
+State:Oregon, Year:2011, Total Crimes:131512, TPC Count:121869, Burglary:20704, Larceny:92059, Motor:9106, TVC Count:9643, Assault:6083, Murder:84, Rape:1239, Robbery:2237
+State:Oregon, Year:2012, Total Crimes:135376, TPC Count:125723, Burglary:21901, Larceny:93619, Motor:10203, TVC Count:9653, Assault:6008, Murder:92, Rape:1140, Robbery:2413
+State:Oregon, Year:2013, Total Crimes:134721, TPC Count:124737, Burglary:20769, Larceny:94106, Motor:9862, TVC Count:9984, Assault:5610, Murder:80, Rape:1897, Robbery:2397
+State:Oregon, Year:2014, Total Crimes:123529, TPC Count:114305, Burglary:17230, Larceny:87526, Motor:9549, TVC Count:9224, Assault:5592, Murder:81, Rape:1458, Robbery:2093
+State:Oregon, Year:2015, Total Crimes:129187, TPC Count:118719, Burglary:18336, Larceny:89836, Motor:10547, TVC Count:10468, Assault:6630, Murder:99, Rape:1593, Robbery:2146
+State:Oregon, Year:2016, Total Crimes:132175, TPC Count:121345, Burglary:16866, Larceny:91286, Motor:13193, TVC Count:10830, Assault:6718, Murder:113, Rape:1721, Robbery:2278
+State:Oregon, Year:2017, Total Crimes:135396, TPC Count:123722, Burglary:17705, Larceny:88877, Motor:17140, TVC Count:11674, Assault:7139, Murder:104, Rape:1999, Robbery:2432
+State:Oregon, Year:2018, Total Crimes:133244, TPC Count:121278, Burglary:16304, Larceny:88418, Motor:16556, TVC Count:11966, Assault:7360, Murder:82, Rape:1975, Robbery:2549
+State:Oregon, Year:2019, Total Crimes:127165, TPC Count:115170, Burglary:14724, Larceny:85261, Motor:15185, TVC Count:11995, Assault:7825, Murder:116, Rape:1778, Robbery:2276
+State:Pennsylvania, Year:2000, Total Crimes:367858, TPC Count:316274, Burglary:54080, Larceny:225869, Motor:36325, TVC Count:51584, Assault:29580, Murder:602, Rape:3247, Robbery:18155
+State:Pennsylvania, Year:2001, Total Crimes:363840, TPC Count:313408, Burglary:54345, Larceny:223350, Motor:35713, TVC Count:50432, Assault:28814, Murder:651, Rape:3467, Robbery:17500
+State:Pennsylvania, Year:2002, Total Crimes:350446, TPC Count:300868, Burglary:55610, Larceny:212441, Motor:32817, TVC Count:49578, Assault:28060, Murder:624, Rape:3731, Robbery:17163
+State:Pennsylvania, Year:2003, Total Crimes:349849, TPC Count:300639, Burglary:53918, Larceny:213279, Motor:33442, TVC Count:49210, Assault:27027, Murder:647, Rape:3556, Robbery:17980
+State:Pennsylvania, Year:2004, Total Crimes:350609, TPC Count:299611, Burglary:54443, Larceny:214199, Motor:30969, TVC Count:50998, Assault:28339, Murder:650, Rape:3535, Robbery:18474
+State:Pennsylvania, Year:2005, Total Crimes:353205, TPC Count:300444, Burglary:56134, Larceny:214916, Motor:29394, TVC Count:52761, Assault:29205, Murder:756, Rape:3586, Robbery:19214
+State:Pennsylvania, Year:2006, Total Crimes:359617, TPC Count:304589, Burglary:57739, Larceny:217142, Motor:29708, TVC Count:55028, Assault:29581, Murder:741, Rape:3611, Robbery:21095
+State:Pennsylvania, Year:2007, Total Crimes:345656, TPC Count:293850, Burglary:56091, Larceny:211248, Motor:26511, TVC Count:51806, Assault:28198, Murder:725, Rape:3443, Robbery:19440
+State:Pennsylvania, Year:2008, Total Crimes:351338, TPC Count:300294, Burglary:58687, Larceny:219115, Motor:22492, TVC Count:51044, Assault:27981, Murder:705, Rape:3485, Robbery:18873
+State:Pennsylvania, Year:2009, Total Crimes:325370, TPC Count:277182, Burglary:54772, Larceny:204588, Motor:17822, TVC Count:48188, Assault:26394, Murder:664, Rape:3626, Robbery:17504
+State:Pennsylvania, Year:2010, Total Crimes:322978, TPC Count:276366, Burglary:55206, Larceny:204440, Motor:16720, TVC Count:46612, Assault:26112, Murder:653, Rape:3472, Robbery:16375
+State:Pennsylvania, Year:2011, Total Crimes:329631, TPC Count:283442, Burglary:57966, Larceny:208604, Motor:16872, TVC Count:46189, Assault:26046, Murder:639, Rape:3339, Robbery:16165
+State:Pennsylvania, Year:2012, Total Crimes:320999, TPC Count:276496, Burglary:56859, Larceny:204609, Motor:15028, TVC Count:44503, Assault:24818, Murder:685, Rape:3327, Robbery:15673
+State:Pennsylvania, Year:2013, Total Crimes:306089, TPC Count:263240, Burglary:52034, Larceny:197436, Motor:13770, TVC Count:42849, Assault:23719, Murder:594, Rape:3774, Robbery:14762
+State:Pennsylvania, Year:2014, Total Crimes:287180, TPC Count:247016, Burglary:45720, Larceny:188256, Motor:13040, TVC Count:40164, Assault:22189, Murder:614, Rape:3827, Robbery:13534
+State:Pennsylvania, Year:2015, Total Crimes:272424, TPC Count:232085, Burglary:39664, Larceny:180287, Motor:12134, TVC Count:40339, Assault:22373, Murder:658, Rape:4305, Robbery:13003
+State:Pennsylvania, Year:2016, Total Crimes:263242, TPC Count:222795, Burglary:35520, Larceny:174228, Motor:13047, TVC Count:40447, Assault:23027, Murder:661, Rape:4433, Robbery:12326
+State:Pennsylvania, Year:2017, Total Crimes:251340, TPC Count:211220, Burglary:32057, Larceny:166178, Motor:12985, TVC Count:40120, Assault:23387, Murder:739, Rape:4201, Robbery:11793
+State:Pennsylvania, Year:2018, Total Crimes:230008, TPC Count:190816, Burglary:27104, Larceny:150596, Motor:13116, TVC Count:39192, Assault:24077, Murder:784, Rape:4483, Robbery:9848
+State:Pennsylvania, Year:2019, Total Crimes:218893, TPC Count:179665, Burglary:23354, Larceny:143921, Motor:12390, TVC Count:39228, Assault:24465, Murder:669, Rape:4351, Robbery:9743
+State:Rhode Island, Year:2000, Total Crimes:36444, TPC Count:33323, Burglary:6620, Larceny:22038, Motor:4665, TVC Count:3121, Assault:1742, Murder:45, Rape:412, Robbery:922
+State:Rhode Island, Year:2001, Total Crimes:39020, TPC Count:35742, Burglary:6824, Larceny:23875, Motor:5043, TVC Count:3278, Assault:1837, Murder:39, Rape:416, Robbery:986
+State:Rhode Island, Year:2002, Total Crimes:38393, TPC Count:35342, Burglary:6415, Larceny:24051, Motor:4876, TVC Count:3051, Assault:1699, Murder:41, Rape:395, Robbery:916
+State:Rhode Island, Year:2003, Total Crimes:35305, TPC Count:32231, Burglary:5524, Larceny:22320, Motor:4387, TVC Count:3074, Assault:1714, Murder:25, Rape:505, Robbery:830
+State:Rhode Island, Year:2004, Total Crimes:33839, TPC Count:31166, Burglary:5465, Larceny:21623, Motor:4078, TVC Count:2673, Assault:1596, Murder:26, Rape:320, Robbery:731
+State:Rhode Island, Year:2005, Total Crimes:31997, TPC Count:29287, Burglary:5319, Larceny:19567, Motor:4401, TVC Count:2710, Assault:1577, Murder:34, Rape:323, Robbery:776
+State:Rhode Island, Year:2006, Total Crimes:30374, TPC Count:27914, Burglary:5453, Larceny:18852, Motor:3609, TVC Count:2460, Assault:1404, Murder:27, Rape:289, Robbery:740
+State:Rhode Island, Year:2007, Total Crimes:30000, TPC Count:27576, Burglary:5206, Larceny:19175, Motor:3195, TVC Count:2424, Assault:1387, Murder:19, Rape:258, Robbery:760
+State:Rhode Island, Year:2008, Total Crimes:32551, TPC Count:29895, Burglary:5766, Larceny:20926, Motor:3203, TVC Count:2656, Assault:1463, Murder:31, Rape:282, Robbery:880
+State:Rhode Island, Year:2009, Total Crimes:30236, TPC Count:27558, Burglary:5753, Larceny:19403, Motor:2402, TVC Count:2678, Assault:1565, Murder:32, Rape:296, Robbery:785
+State:Rhode Island, Year:2010, Total Crimes:29668, TPC Count:26959, Burglary:6124, Larceny:18432, Motor:2403, TVC Count:2709, Assault:1600, Murder:29, Rape:298, Robbery:782
+State:Rhode Island, Year:2011, Total Crimes:30562, TPC Count:27976, Burglary:6836, Larceny:18765, Motor:2375, TVC Count:2586, Assault:1503, Murder:20, Rape:319, Robbery:744
+State:Rhode Island, Year:2012, Total Crimes:29668, TPC Count:27017, Burglary:5949, Larceny:18440, Motor:2628, TVC Count:2651, Assault:1616, Murder:34, Rape:288, Robbery:713
+State:Rhode Island, Year:2013, Total Crimes:28383, TPC Count:25678, Burglary:5607, Larceny:17838, Motor:2233, TVC Count:2705, Assault:1550, Murder:31, Rape:440, Robbery:684
+State:Rhode Island, Year:2014, Total Crimes:25248, TPC Count:22935, Burglary:4823, Larceny:16279, Motor:1833, TVC Count:2313, Assault:1398, Murder:25, Rape:361, Robbery:529
+State:Rhode Island, Year:2015, Total Crimes:22605, TPC Count:20043, Burglary:3947, Larceny:14707, Motor:1389, TVC Count:2562, Assault:1518, Murder:29, Rape:459, Robbery:556
+State:Rhode Island, Year:2016, Total Crimes:22582, TPC Count:20058, Burglary:3788, Larceny:14674, Motor:1596, TVC Count:2524, Assault:1513, Murder:29, Rape:442, Robbery:540
+State:Rhode Island, Year:2017, Total Crimes:21021, TPC Count:18561, Burglary:3217, Larceny:13861, Motor:1483, TVC Count:2460, Assault:1521, Murder:20, Rape:445, Robbery:474
+State:Rhode Island, Year:2018, Total Crimes:19878, TPC Count:17561, Burglary:2810, Larceny:13220, Motor:1531, TVC Count:2317, Assault:1366, Murder:16, Rape:481, Robbery:454
+State:Rhode Island, Year:2019, Total Crimes:18601, TPC Count:16259, Burglary:2321, Larceny:12580, Motor:1358, TVC Count:2342, Assault:1408, Murder:25, Rape:491, Robbery:418
+State:South Carolina, Year:2000, Total Crimes:214515, TPC Count:181290, Burglary:40319, Larceny:125385, Motor:15586, TVC Count:33225, Assault:25054, Murder:291, Rape:1660, Robbery:6220
+State:South Carolina, Year:2001, Total Crimes:219168, TPC Count:186054, Burglary:42611, Larceny:126742, Motor:16701, TVC Count:33114, Assault:25028, Murder:330, Rape:1769, Robbery:5987
+State:South Carolina, Year:2002, Total Crimes:217569, TPC Count:183808, Burglary:43745, Larceny:123196, Motor:16867, TVC Count:33761, Assault:25730, Murder:298, Rape:1959, Robbery:5774
+State:South Carolina, Year:2003, Total Crimes:221047, TPC Count:187592, Burglary:43993, Larceny:127809, Motor:15790, TVC Count:33455, Assault:25399, Murder:303, Rape:1952, Robbery:5801
+State:South Carolina, Year:2004, Total Crimes:223616, TPC Count:190456, Burglary:43739, Larceny:130991, Motor:15726, TVC Count:33160, Assault:25634, Murder:286, Rape:1772, Robbery:5468
+State:South Carolina, Year:2005, Total Crimes:218196, TPC Count:185606, Burglary:42741, Larceny:126489, Motor:16376, TVC Count:32590, Assault:24757, Murder:314, Rape:1862, Robbery:5657
+State:South Carolina, Year:2006, Total Crimes:218034, TPC Count:184712, Burglary:42952, Larceny:125075, Motor:16685, TVC Count:33322, Assault:25224, Murder:362, Rape:1834, Robbery:5902
+State:South Carolina, Year:2007, Total Crimes:223934, TPC Count:189304, Burglary:45398, Larceny:126802, Motor:17104, TVC Count:34630, Assault:26139, Murder:364, Rape:1773, Robbery:6354
+State:South Carolina, Year:2008, Total Crimes:222696, TPC Count:189950, Burglary:45964, Larceny:126316, Motor:17670, TVC Count:32746, Assault:24158, Murder:307, Rape:1686, Robbery:6595
+State:South Carolina, Year:2009, Total Crimes:209109, TPC Count:178310, Burglary:45443, Larceny:119250, Motor:13617, TVC Count:30799, Assault:23078, Murder:305, Rape:1663, Robbery:5753
+State:South Carolina, Year:2010, Total Crimes:209021, TPC Count:181098, Burglary:46261, Larceny:121544, Motor:13293, TVC Count:27923, Assault:21090, Murder:265, Rape:1551, Robbery:5017
+State:South Carolina, Year:2011, Total Crimes:211137, TPC Count:183243, Burglary:47351, Larceny:122255, Motor:13637, TVC Count:27894, Assault:21265, Murder:320, Rape:1678, Robbery:4631
+State:South Carolina, Year:2012, Total Crimes:206947, TPC Count:180550, Burglary:45086, Larceny:122263, Motor:13201, TVC Count:26397, Assault:19905, Murder:324, Rape:1679, Robbery:4489
+State:South Carolina, Year:2013, Total Crimes:197327, TPC Count:173049, Burglary:40958, Larceny:119511, Motor:12580, TVC Count:24278, Assault:17838, Murder:297, Rape:2171, Robbery:3972
+State:South Carolina, Year:2014, Total Crimes:191269, TPC Count:167217, Burglary:36721, Larceny:117594, Motor:12902, TVC Count:24052, Assault:17676, Murder:311, Rape:2068, Robbery:3997
+State:South Carolina, Year:2015, Total Crimes:185945, TPC Count:161245, Burglary:34551, Larceny:113724, Motor:12970, TVC Count:24700, Assault:18073, Murder:399, Rape:2297, Robbery:3931
+State:South Carolina, Year:2016, Total Crimes:185824, TPC Count:160928, Burglary:32976, Larceny:114032, Motor:13920, TVC Count:24896, Assault:18108, Murder:366, Rape:2387, Robbery:4035
+State:South Carolina, Year:2017, Total Crimes:186007, TPC Count:160575, Burglary:31306, Larceny:115012, Motor:14257, TVC Count:25432, Assault:18668, Murder:390, Rape:2504, Robbery:3870
+State:South Carolina, Year:2018, Total Crimes:178246, TPC Count:153421, Burglary:29473, Larceny:109616, Motor:14332, TVC Count:24825, Assault:18446, Murder:392, Rape:2434, Robbery:3553
+State:South Carolina, Year:2019, Total Crimes:177712, TPC Count:151389, Burglary:27461, Larceny:108953, Motor:14975, TVC Count:26323, Assault:20105, Murder:464, Rape:2460, Robbery:3294
+State:South Dakota, Year:2000, Total Crimes:17511, TPC Count:16252, Burglary:2896, Larceny:12558, Motor:798, TVC Count:1259, Assault:816, Murder:7, Rape:305, Robbery:131
+State:South Dakota, Year:2001, Total Crimes:17644, TPC Count:16473, Burglary:3087, Larceny:12571, Motor:815, TVC Count:1171, Assault:710, Murder:7, Rape:351, Robbery:103
+State:South Dakota, Year:2002, Total Crimes:17342, TPC Count:15992, Burglary:3034, Larceny:12139, Motor:819, TVC Count:1350, Assault:861, Murder:11, Rape:361, Robbery:117
+State:South Dakota, Year:2003, Total Crimes:16653, TPC Count:15324, Burglary:2878, Larceny:11572, Motor:874, TVC Count:1329, Assault:859, Murder:10, Rape:356, Robbery:104
+State:South Dakota, Year:2004, Total Crimes:16204, TPC Count:14885, Burglary:3148, Larceny:10890, Motor:847, TVC Count:1319, Assault:854, Murder:17, Rape:336, Robbery:112
+State:South Dakota, Year:2005, Total Crimes:15081, TPC Count:13694, Burglary:2505, Larceny:10350, Motor:839, TVC Count:1387, Assault:847, Murder:18, Rape:377, Robbery:145
+State:South Dakota, Year:2006, Total Crimes:15883, TPC Count:13812, Burglary:3024, Larceny:9954, Motor:834, TVC Count:2071, Assault:1418, Murder:30, Rape:465, Robbery:158
+State:South Dakota, Year:2007, Total Crimes:15755, TPC Count:13829, Burglary:2647, Larceny:10398, Motor:784, TVC Count:1926, Assault:1344, Murder:31, Rape:433, Robbery:118
+State:South Dakota, Year:2008, Total Crimes:16094, TPC Count:13867, Burglary:2683, Larceny:10266, Motor:918, TVC Count:2227, Assault:1494, Murder:37, Rape:562, Robbery:134
+State:South Dakota, Year:2009, Total Crimes:16155, TPC Count:14378, Burglary:2621, Larceny:10891, Motor:866, TVC Count:1777, Assault:1129, Murder:30, Rape:501, Robbery:117
+State:South Dakota, Year:2010, Total Crimes:17384, TPC Count:15188, Burglary:3192, Larceny:11196, Motor:800, TVC Count:2196, Assault:1634, Murder:23, Rape:385, Robbery:154
+State:South Dakota, Year:2011, Total Crimes:17404, TPC Count:15299, Burglary:2927, Larceny:11423, Motor:949, TVC Count:2105, Assault:1415, Murder:20, Rape:503, Robbery:167
+State:South Dakota, Year:2012, Total Crimes:19850, TPC Count:17168, Burglary:3258, Larceny:12845, Motor:1065, TVC Count:2682, Assault:1914, Murder:25, Rape:585, Robbery:158
+State:South Dakota, Year:2013, Total Crimes:18851, TPC Count:16177, Burglary:3372, Larceny:11867, Motor:938, TVC Count:2674, Assault:1996, Murder:20, Rape:499, Robbery:159
+State:South Dakota, Year:2014, Total Crimes:18688, TPC Count:15902, Burglary:2818, Larceny:12077, Motor:1007, TVC Count:2786, Assault:2096, Murder:20, Rape:470, Robbery:200
+State:South Dakota, Year:2015, Total Crimes:19969, TPC Count:16680, Burglary:2960, Larceny:12532, Motor:1188, TVC Count:3289, Assault:2546, Murder:32, Rape:495, Robbery:216
+State:South Dakota, Year:2016, Total Crimes:20762, TPC Count:17141, Burglary:3000, Larceny:12639, Motor:1502, TVC Count:3621, Assault:2813, Murder:27, Rape:509, Robbery:272
+State:South Dakota, Year:2017, Total Crimes:20088, TPC Count:16317, Burglary:2707, Larceny:12227, Motor:1383, TVC Count:3771, Assault:2913, Murder:25, Rape:595, Robbery:238
+State:South Dakota, Year:2018, Total Crimes:18821, TPC Count:15251, Burglary:2571, Larceny:11156, Motor:1524, TVC Count:3570, Assault:2682, Murder:12, Rape:614, Robbery:262
+State:South Dakota, Year:2019, Total Crimes:19197, TPC Count:15667, Burglary:2646, Larceny:11265, Motor:1756, TVC Count:3530, Assault:2676, Murder:17, Rape:642, Robbery:195
+State:Tennessee, Year:2000, Total Crimes:278218, TPC Count:237985, Burglary:56344, Larceny:154111, Motor:27530, TVC Count:40233, Assault:28172, Murder:410, Rape:2186, Robbery:9465
+State:Tennessee, Year:2001, Total Crimes:295768, TPC Count:252992, Burglary:59705, Larceny:165015, Motor:28272, TVC Count:42776, Assault:29938, Murder:423, Rape:2196, Robbery:10219
+State:Tennessee, Year:2002, Total Crimes:290961, TPC Count:249399, Burglary:61248, Larceny:161610, Motor:26541, TVC Count:41562, Assault:29439, Murder:420, Rape:2290, Robbery:9413
+State:Tennessee, Year:2003, Total Crimes:296974, TPC Count:256565, Burglary:63323, Larceny:166769, Motor:26473, TVC Count:40409, Assault:28471, Murder:396, Rape:2129, Robbery:9413
+State:Tennessee, Year:2004, Total Crimes:296104, TPC Count:254991, Burglary:60386, Larceny:169828, Motor:24777, TVC Count:41113, Assault:29611, Murder:357, Rape:2282, Robbery:8863
+State:Tennessee, Year:2005, Total Crimes:301197, TPC Count:256093, Burglary:61508, Larceny:169357, Motor:25228, TVC Count:45104, Assault:32470, Murder:431, Rape:2194, Robbery:10009
+State:Tennessee, Year:2006, Total Crimes:295903, TPC Count:249860, Burglary:63024, Larceny:164183, Motor:22653, TVC Count:46043, Assault:32287, Murder:419, Rape:2194, Robbery:11143
+State:Tennessee, Year:2007, Total Crimes:298824, TPC Count:252342, Burglary:61817, Larceny:168807, Motor:21718, TVC Count:46482, Assault:32843, Murder:405, Rape:2201, Robbery:11033
+State:Tennessee, Year:2008, Total Crimes:296002, TPC Count:251089, Burglary:65093, Larceny:166793, Motor:19203, TVC Count:44913, Assault:31619, Murder:412, Rape:2078, Robbery:10804
+State:Tennessee, Year:2009, Total Crimes:279090, TPC Count:237157, Burglary:63832, Larceny:158309, Motor:15016, TVC Count:41933, Assault:29793, Murder:468, Rape:2019, Robbery:9653
+State:Tennessee, Year:2010, Total Crimes:271764, TPC Count:232855, Burglary:64293, Larceny:153729, Motor:14833, TVC Count:38909, Assault:28016, Murder:359, Rape:2173, Robbery:8361
+State:Tennessee, Year:2011, Total Crimes:269795, TPC Count:230900, Burglary:62830, Larceny:153928, Motor:14142, TVC Count:38895, Assault:28338, Murder:380, Rape:2095, Robbery:8082
+State:Tennessee, Year:2012, Total Crimes:259214, TPC Count:217664, Burglary:56181, Larceny:148503, Motor:12980, TVC Count:41550, Assault:30961, Murder:388, Rape:2032, Robbery:8169
+State:Tennessee, Year:2013, Total Crimes:244993, TPC Count:206629, Burglary:50999, Larceny:143802, Motor:11828, TVC Count:38364, Assault:28378, Murder:328, Rape:2351, Robbery:7307
+State:Tennessee, Year:2014, Total Crimes:240295, TPC Count:200447, Burglary:46642, Larceny:141206, Motor:12599, TVC Count:39848, Assault:29681, Murder:371, Rape:2531, Robbery:7265
+State:Tennessee, Year:2015, Total Crimes:234196, TPC Count:193796, Burglary:43247, Larceny:137679, Motor:12870, TVC Count:40400, Assault:29844, Murder:406, Rape:2676, Robbery:7474
+State:Tennessee, Year:2016, Total Crimes:231932, TPC Count:189835, Burglary:40312, Larceny:134404, Motor:15119, TVC Count:42097, Assault:31084, Murder:486, Rape:2714, Robbery:7813
+State:Tennessee, Year:2017, Total Crimes:241243, TPC Count:197488, Burglary:38716, Larceny:140248, Motor:18524, TVC Count:43755, Assault:32432, Murder:527, Rape:2934, Robbery:7862
+State:Tennessee, Year:2018, Total Crimes:233505, TPC Count:191279, Burglary:33132, Larceny:137708, Motor:20439, TVC Count:42226, Assault:31717, Murder:498, Rape:2821, Robbery:7190
+State:Tennessee, Year:2019, Total Crimes:221800, TPC Count:181153, Burglary:29869, Larceny:132104, Motor:19180, TVC Count:40647, Assault:31186, Murder:498, Rape:2813, Robbery:6150
+State:Texas, Year:2000, Total Crimes:1033311, TPC Count:919658, Burglary:188975, Larceny:637522, Motor:93161, TVC Count:113653, Assault:74302, Murder:1238, Rape:7856, Robbery:30257
+State:Texas, Year:2001, Total Crimes:1098809, TPC Count:976654, Burglary:204362, Larceny:669625, Motor:102667, TVC Count:122155, Assault:77306, Murder:1332, Rape:8169, Robbery:35348
+State:Texas, Year:2002, Total Crimes:1130292, TPC Count:1004274, Burglary:212602, Larceny:688992, Motor:102680, TVC Count:126018, Assault:78628, Murder:1302, Rape:8508, Robbery:37580
+State:Texas, Year:2003, Total Crimes:1138981, TPC Count:1016735, Burglary:219877, Larceny:698644, Motor:98214, TVC Count:122246, Assault:75782, Murder:1422, Rape:8025, Robbery:37017
+State:Texas, Year:2004, Total Crimes:1132256, TPC Count:1010702, Burglary:220118, Larceny:696507, Motor:94077, TVC Count:121554, Assault:75985, Murder:1364, Rape:8388, Robbery:35817
+State:Texas, Year:2005, Total Crimes:1111384, TPC Count:990293, Burglary:219828, Larceny:677042, Motor:93423, TVC Count:121091, Assault:75383, Murder:1407, Rape:8511, Robbery:35790
+State:Texas, Year:2006, Total Crimes:1081448, TPC Count:959846, Burglary:215710, Larceny:648711, Motor:95425, TVC Count:121602, Assault:74531, Murder:1386, Rape:8429, Robbery:37256
+State:Texas, Year:2007, Total Crimes:1107435, TPC Count:985421, Burglary:228320, Larceny:663101, Motor:94000, TVC Count:122014, Assault:73357, Murder:1419, Rape:8460, Robbery:38778
+State:Texas, Year:2008, Total Crimes:1093450, TPC Count:969865, Burglary:230046, Larceny:654435, Motor:85384, TVC Count:123585, Assault:76421, Murder:1370, Rape:8055, Robbery:37739
+State:Texas, Year:2009, Total Crimes:1116766, TPC Count:995082, Burglary:240058, Larceny:678455, Motor:76569, TVC Count:121684, Assault:74021, Murder:1330, Rape:8311, Robbery:38022
+State:Texas, Year:2010, Total Crimes:1064477, TPC Count:951246, Burglary:228597, Larceny:654626, Motor:68023, TVC Count:113231, Assault:71517, Murder:1249, Rape:7622, Robbery:32843
+State:Texas, Year:2011, Total Crimes:997544, TPC Count:892810, Burglary:215755, Larceny:613131, Motor:63924, TVC Count:104734, Assault:67498, Murder:1130, Rape:7486, Robbery:28620
+State:Texas, Year:2012, Total Crimes:982535, TPC Count:876059, Burglary:204810, Larceny:606253, Motor:64996, TVC Count:106476, Assault:67239, Murder:1144, Rape:7711, Robbery:30382
+State:Texas, Year:2013, Total Crimes:969732, TPC Count:861734, Burglary:190898, Larceny:605091, Motor:65745, TVC Count:107998, Assault:65292, Murder:1139, Rape:9766, Robbery:31801
+State:Texas, Year:2014, Total Crimes:923348, TPC Count:813934, Burglary:169234, Larceny:576154, Motor:68546, TVC Count:109414, Assault:65656, Murder:1184, Rape:11393, Robbery:31181
+State:Texas, Year:2015, Total Crimes:890966, TPC Count:777739, Burglary:153054, Larceny:557200, Motor:67485, TVC Count:113227, Assault:67727, Murder:1316, Rape:12250, Robbery:31934
+State:Texas, Year:2016, Total Crimes:889989, TPC Count:768947, Burglary:148740, Larceny:551151, Motor:69056, TVC Count:121042, Assault:72880, Murder:1478, Rape:13367, Robbery:33317
+State:Texas, Year:2017, Total Crimes:849566, TPC Count:725328, Burglary:134066, Larceny:523221, Motor:68041, TVC Count:124238, Assault:76089, Murder:1412, Rape:14470, Robbery:32267
+State:Texas, Year:2018, Total Crimes:797357, TPC Count:679430, Burglary:117911, Larceny:491702, Motor:69817, TVC Count:117927, Assault:73656, Murder:1322, Rape:14693, Robbery:28256
+State:Texas, Year:2019, Total Crimes:814678, TPC Count:693204, Burglary:113902, Larceny:501813, Motor:77489, TVC Count:121474, Assault:76253, Murder:1409, Rape:14824, Robbery:28988
+State:United States, Year:2000, Total Crimes:11608070, TPC Count:10182584, Burglary:2050992, Larceny:6971590, Motor:1160002, TVC Count:1425486, Assault:911706, Murder:15586, Rape:90178, Robbery:408016
+State:United States, Year:2001, Total Crimes:11876669, TPC Count:10437189, Burglary:2116531, Larceny:7092267, Motor:1228391, TVC Count:1439480, Assault:909023, Murder:16037, Rape:90863, Robbery:423557
+State:United States, Year:2002, Total Crimes:11878954, TPC Count:10455277, Burglary:2151252, Larceny:7057379, Motor:1246646, TVC Count:1423677, Assault:891407, Murder:16229, Rape:95235, Robbery:420806
+State:United States, Year:2003, Total Crimes:11826538, TPC Count:10442862, Burglary:2154834, Larceny:7026802, Motor:1261226, TVC Count:1383676, Assault:859030, Murder:16528, Rape:93883, Robbery:414235
+State:United States, Year:2004, Total Crimes:11679474, TPC Count:10319386, Burglary:2144446, Larceny:6937089, Motor:1237851, TVC Count:1360088, Assault:847381, Murder:16148, Rape:95089, Robbery:401470
+State:United States, Year:2005, Total Crimes:11565499, TPC Count:10174754, Burglary:2155448, Larceny:6783447, Motor:1235859, TVC Count:1390745, Assault:862220, Murder:16740, Rape:94347, Robbery:417438
+State:United States, Year:2006, Total Crimes:11454724, TPC Count:10019601, Burglary:2194993, Larceny:6626363, Motor:1198245, TVC Count:1435123, Assault:874096, Murder:17309, Rape:94472, Robbery:449246
+State:United States, Year:2007, Total Crimes:11305182, TPC Count:9882212, Burglary:2190198, Larceny:6591542, Motor:1100472, TVC Count:1422970, Assault:866358, Murder:17128, Rape:92160, Robbery:447324
+State:United States, Year:2008, Total Crimes:11168613, TPC Count:9774152, Burglary:2228887, Larceny:6586206, Motor:959059, TVC Count:1394461, Assault:843683, Murder:16465, Rape:90750, Robbery:443563
+State:United States, Year:2009, Total Crimes:10662956, TPC Count:9337060, Burglary:2203313, Larceny:6338095, Motor:795652, TVC Count:1325896, Assault:812514, Murder:15399, Rape:89241, Robbery:408742
+State:United States, Year:2010, Total Crimes:10363873, TPC Count:9112625, Burglary:2168459, Larceny:6204601, Motor:739565, TVC Count:1251248, Assault:781844, Murder:14722, Rape:85593, Robbery:369089
+State:United States, Year:2011, Total Crimes:10258774, TPC Count:9052743, Burglary:2185140, Larceny:6151095, Motor:716508, TVC Count:1206031, Assault:752423, Murder:14661, Rape:84175, Robbery:354772
+State:United States, Year:2012, Total Crimes:10189902, TPC Count:8975438, Burglary:2103787, Larceny:6150598, Motor:721053, TVC Count:1214464, Assault:760739, Murder:14827, Rape:84376, Robbery:354522
+State:United States, Year:2013, Total Crimes:9824500, TPC Count:8632512, Burglary:1928465, Larceny:6004453, Motor:699594, TVC Count:1191988, Assault:724149, Murder:14196, Rape:108612, Robbery:345031
+State:United States, Year:2014, Total Crimes:9475816, TPC Count:8277829, Burglary:1729806, Larceny:5858496, Motor:689527, TVC Count:1197987, Assault:741291, Murder:14249, Rape:116645, Robbery:325802
+State:United States, Year:2015, Total Crimes:9225197, TPC Count:7993631, Burglary:1579527, Larceny:5706346, Motor:707758, TVC Count:1231566, Assault:764449, Murder:15696, Rape:124047, Robbery:327374
+State:United States, Year:2016, Total Crimes:9202093, TPC Count:7919035, Burglary:1515096, Larceny:5638455, Motor:765484, TVC Count:1283058, Assault:803007, Murder:17250, Rape:130603, Robbery:332198
+State:United States, Year:2017, Total Crimes:8977306, TPC Count:7694086, Burglary:1401840, Larceny:5519107, Motor:773139, TVC Count:1283220, Assault:810825, Murder:17284, Rape:135755, Robbery:319356
+State:United States, Year:2018, Total Crimes:8441110, TPC Count:7196045, Burglary:1230149, Larceny:5217055, Motor:748841, TVC Count:1245065, Assault:807410, Murder:16214, Rape:139380, Robbery:282061
+State:United States, Year:2019, Total Crimes:8171087, TPC Count:6925677, Burglary:1117696, Larceny:5086096, Motor:721885, TVC Count:1245410, Assault:821182, Murder:16425, Rape:139815, Robbery:267988
+State:Utah, Year:2000, Total Crimes:99958, TPC Count:94247, Burglary:14348, Larceny:73438, Motor:6461, TVC Count:5711, Assault:3563, Murder:43, Rape:863, Robbery:1242
+State:Utah, Year:2001, Total Crimes:96307, TPC Count:90993, Burglary:13804, Larceny:70676, Motor:6513, TVC Count:5314, Assault:3154, Murder:67, Rape:896, Robbery:1197
+State:Utah, Year:2002, Total Crimes:103129, TPC Count:97641, Burglary:15124, Larceny:74795, Motor:7722, TVC Count:5488, Assault:3358, Murder:47, Rape:943, Robbery:1140
+State:Utah, Year:2003, Total Crimes:105973, TPC Count:100084, Burglary:16961, Larceny:75321, Motor:7802, TVC Count:5889, Assault:3652, Murder:60, Rape:919, Robbery:1258
+State:Utah, Year:2004, Total Crimes:103409, TPC Count:97762, Burglary:15225, Larceny:74889, Motor:7648, TVC Count:5647, Assault:3398, Murder:46, Rape:967, Robbery:1236
+State:Utah, Year:2005, Total Crimes:101158, TPC Count:95546, Burglary:14971, Larceny:72082, Motor:8493, TVC Count:5612, Assault:3541, Murder:56, Rape:920, Robbery:1095
+State:Utah, Year:2006, Total Crimes:95343, TPC Count:89572, Burglary:14721, Larceny:66480, Motor:8371, TVC Count:5771, Assault:3587, Murder:51, Rape:891, Robbery:1242
+State:Utah, Year:2007, Total Crimes:99429, TPC Count:93082, Burglary:15594, Larceny:68573, Motor:8915, TVC Count:6347, Assault:3928, Murder:59, Rape:935, Robbery:1425
+State:Utah, Year:2008, Total Crimes:98538, TPC Count:92373, Burglary:14766, Larceny:70299, Motor:7308, TVC Count:6165, Assault:3788, Murder:41, Rape:915, Robbery:1421
+State:Utah, Year:2009, Total Crimes:97749, TPC Count:91751, Burglary:15258, Larceny:69556, Motor:6937, TVC Count:5998, Assault:3714, Murder:39, Rape:941, Robbery:1304
+State:Utah, Year:2010, Total Crimes:94241, TPC Count:88316, Burglary:15095, Larceny:67242, Motor:5979, TVC Count:5925, Assault:3620, Murder:53, Rape:983, Robbery:1269
+State:Utah, Year:2011, Total Crimes:89631, TPC Count:84084, Burglary:13170, Larceny:64727, Motor:6187, TVC Count:5547, Assault:3517, Murder:50, Rape:901, Robbery:1079
+State:Utah, Year:2012, Total Crimes:91300, TPC Count:85424, Burglary:12943, Larceny:66482, Motor:5999, TVC Count:5876, Assault:3783, Murder:50, Rape:943, Robbery:1100
+State:Utah, Year:2013, Total Crimes:92084, TPC Count:85586, Burglary:13333, Larceny:64788, Motor:7465, TVC Count:6498, Assault:3784, Murder:49, Rape:1422, Robbery:1243
+State:Utah, Year:2014, Total Crimes:91057, TPC Count:84711, Burglary:11518, Larceny:65895, Motor:7298, TVC Count:6346, Assault:3513, Murder:67, Rape:1454, Robbery:1312
+State:Utah, Year:2015, Total Crimes:96349, TPC Count:89278, Burglary:12468, Larceny:68103, Motor:8707, TVC Count:7071, Assault:4046, Murder:54, Rape:1645, Robbery:1326
+State:Utah, Year:2016, Total Crimes:97465, TPC Count:90058, Burglary:12836, Larceny:67834, Motor:9388, TVC Count:7407, Assault:4274, Murder:72, Rape:1520, Robbery:1541
+State:Utah, Year:2017, Total Crimes:93648, TPC Count:86238, Burglary:11817, Larceny:64892, Motor:9529, TVC Count:7410, Assault:4172, Murder:73, Rape:1697, Robbery:1468
+State:Utah, Year:2018, Total Crimes:82524, TPC Count:75156, Burglary:9968, Larceny:57460, Motor:7728, TVC Count:7368, Assault:4319, Murder:60, Rape:1753, Robbery:1236
+State:Utah, Year:2019, Total Crimes:77099, TPC Count:69546, Burglary:8871, Larceny:53937, Motor:6738, TVC Count:7553, Assault:4534, Murder:72, Rape:1822, Robbery:1125
+State:Vermont, Year:2000, Total Crimes:18185, TPC Count:17494, Burglary:3501, Larceny:13184, Motor:809, TVC Count:691, Assault:425, Murder:9, Rape:140, Robbery:117
+State:Vermont, Year:2001, Total Crimes:16978, TPC Count:16334, Burglary:3150, Larceny:12426, Motor:758, TVC Count:644, Assault:423, Murder:7, Rape:107, Robbery:107
+State:Vermont, Year:2002, Total Crimes:15600, TPC Count:14942, Burglary:3489, Larceny:10684, Motor:769, TVC Count:658, Assault:442, Murder:13, Rape:126, Robbery:77
+State:Vermont, Year:2003, Total Crimes:14510, TPC Count:13803, Burglary:3017, Larceny:10132, Motor:654, TVC Count:707, Assault:504, Murder:15, Rape:126, Robbery:62
+State:Vermont, Year:2004, Total Crimes:15272, TPC Count:14559, Burglary:3435, Larceny:10537, Motor:587, TVC Count:713, Assault:459, Murder:16, Rape:160, Robbery:78
+State:Vermont, Year:2005, Total Crimes:15531, TPC Count:14749, Burglary:3185, Larceny:10894, Motor:670, TVC Count:782, Assault:545, Murder:8, Rape:153, Robbery:76
+State:Vermont, Year:2006, Total Crimes:15825, TPC Count:14920, Burglary:3443, Larceny:10857, Motor:620, TVC Count:905, Assault:604, Murder:14, Rape:173, Robbery:114
+State:Vermont, Year:2007, Total Crimes:15504, TPC Count:14702, Burglary:3200, Larceny:10853, Motor:649, TVC Count:802, Assault:582, Murder:13, Rape:128, Robbery:79
+State:Vermont, Year:2008, Total Crimes:16757, TPC Count:15903, Burglary:3515, Larceny:11802, Motor:586, TVC Count:854, Assault:611, Murder:17, Rape:133, Robbery:93
+State:Vermont, Year:2009, Total Crimes:15847, TPC Count:15010, Burglary:3471, Larceny:11090, Motor:449, TVC Count:837, Assault:586, Murder:8, Rape:132, Robbery:111
+State:Vermont, Year:2010, Total Crimes:14980, TPC Count:14160, Burglary:3348, Larceny:10373, Motor:439, TVC Count:820, Assault:596, Murder:7, Rape:141, Robbery:76
+State:Vermont, Year:2011, Total Crimes:16011, TPC Count:15086, Burglary:3838, Larceny:10720, Motor:528, TVC Count:925, Assault:669, Murder:11, Rape:146, Robbery:99
+State:Vermont, Year:2012, Total Crimes:15909, TPC Count:15016, Burglary:3965, Larceny:10616, Motor:435, TVC Count:893, Assault:652, Murder:8, Rape:121, Robbery:112
+State:Vermont, Year:2013, Total Crimes:14634, TPC Count:13875, Burglary:3313, Larceny:10228, Motor:334, TVC Count:759, Assault:546, Murder:10, Rape:130, Robbery:73
+State:Vermont, Year:2014, Total Crimes:10173, TPC Count:9551, Burglary:2034, Larceny:7273, Motor:244, TVC Count:622, Assault:432, Murder:10, Rape:110, Robbery:70
+State:Vermont, Year:2015, Total Crimes:9545, TPC Count:8806, Burglary:1968, Larceny:6660, Motor:178, TVC Count:739, Assault:492, Murder:10, Rape:136, Robbery:101
+State:Vermont, Year:2016, Total Crimes:11591, TPC Count:10602, Burglary:2103, Larceny:8217, Motor:282, TVC Count:989, Assault:691, Murder:14, Rape:178, Robbery:106
+State:Vermont, Year:2017, Total Crimes:9994, TPC Count:8960, Burglary:1854, Larceny:6912, Motor:194, TVC Count:1034, Assault:710, Murder:14, Rape:218, Robbery:92
+State:Vermont, Year:2018, Total Crimes:9113, TPC Count:8036, Burglary:1467, Larceny:6316, Motor:253, TVC Count:1077, Assault:710, Murder:10, Rape:287, Robbery:70
+State:Vermont, Year:2019, Total Crimes:10150, TPC Count:8888, Burglary:1275, Larceny:7315, Motor:298, TVC Count:1262, Assault:902, Murder:11, Rape:278, Robbery:71
+State:Virginia, Year:2000, Total Crimes:214348, TPC Count:194405, Burglary:30434, Larceny:146158, Motor:17813, TVC Count:19943, Assault:11631, Murder:401, Rape:1616, Robbery:6295
+State:Virginia, Year:2001, Total Crimes:228445, TPC Count:207506, Burglary:31604, Larceny:157060, Motor:18842, TVC Count:20939, Assault:11945, Murder:364, Rape:1770, Robbery:6860
+State:Virginia, Year:2002, Total Crimes:229039, TPC Count:207783, Burglary:31757, Larceny:157548, Motor:18478, TVC Count:21256, Assault:12068, Murder:388, Rape:1839, Robbery:6961
+State:Virginia, Year:2003, Total Crimes:220939, TPC Count:200449, Burglary:29105, Larceny:153367, Motor:17977, TVC Count:20490, Assault:11554, Murder:416, Rape:1807, Robbery:6713
+State:Virginia, Year:2004, Total Crimes:220976, TPC Count:200368, Burglary:28759, Larceny:154154, Motor:17455, TVC Count:20608, Assault:11503, Murder:390, Rape:1816, Robbery:6899
+State:Virginia, Year:2005, Total Crimes:221838, TPC Count:200404, Burglary:29829, Larceny:154584, Motor:15991, TVC Count:21434, Assault:11718, Murder:458, Rape:1763, Robbery:7495
+State:Virginia, Year:2006, Total Crimes:211940, TPC Count:190257, Burglary:32166, Larceny:143292, Motor:14799, TVC Count:21683, Assault:11672, Murder:403, Rape:1829, Robbery:7779
+State:Virginia, Year:2007, Total Crimes:212798, TPC Count:191763, Burglary:32028, Larceny:145634, Motor:14101, TVC Count:21035, Assault:11131, Murder:415, Rape:1793, Robbery:7696
+State:Virginia, Year:2008, Total Crimes:216757, TPC Count:196726, Burglary:32188, Larceny:151191, Motor:13347, TVC Count:20031, Assault:10397, Murder:370, Rape:1794, Robbery:7470
+State:Virginia, Year:2009, Total Crimes:212215, TPC Count:194020, Burglary:31956, Larceny:150374, Motor:11690, TVC Count:18195, Assault:9911, Murder:370, Rape:1572, Robbery:6342
+State:Virginia, Year:2010, Total Crimes:204587, TPC Count:187403, Burglary:30804, Larceny:145990, Motor:10609, TVC Count:17184, Assault:9550, Murder:376, Rape:1580, Robbery:5678
+State:Virginia, Year:2011, Total Crimes:198916, TPC Count:182902, Burglary:30656, Larceny:142476, Motor:9770, TVC Count:16014, Assault:8694, Murder:304, Rape:1591, Robbery:5425
+State:Virginia, Year:2012, Total Crimes:192549, TPC Count:176985, Burglary:29511, Larceny:138398, Motor:9076, TVC Count:15564, Assault:9092, Murder:314, Rape:1452, Robbery:4706
+State:Virginia, Year:2013, Total Crimes:186859, TPC Count:170654, Burglary:26640, Larceny:135478, Motor:8536, TVC Count:16205, Assault:9062, Murder:316, Rape:2262, Robbery:4565
+State:Virginia, Year:2014, Total Crimes:177060, TPC Count:160720, Burglary:23122, Larceny:129933, Motor:7665, TVC Count:16340, Assault:9400, Murder:338, Rape:2310, Robbery:4292
+State:Virginia, Year:2015, Total Crimes:172869, TPC Count:156470, Burglary:21340, Larceny:127019, Motor:8111, TVC Count:16399, Assault:9235, Murder:383, Rape:2340, Robbery:4441
+State:Virginia, Year:2016, Total Crimes:174714, TPC Count:156412, Burglary:20018, Larceny:126606, Motor:9788, TVC Count:18302, Assault:10278, Murder:484, Rape:2737, Robbery:4803
+State:Virginia, Year:2017, Total Crimes:169487, TPC Count:151855, Burglary:18468, Larceny:123215, Motor:10172, TVC Count:17632, Assault:9985, Murder:453, Rape:2862, Robbery:4332
+State:Virginia, Year:2018, Total Crimes:158917, TPC Count:141885, Burglary:15574, Larceny:115533, Motor:10778, TVC Count:17032, Assault:10113, Murder:391, Rape:2924, Robbery:3604
+State:Virginia, Year:2019, Total Crimes:157966, TPC Count:140213, Burglary:13900, Larceny:116044, Motor:10269, TVC Count:17753, Assault:10987, Murder:426, Rape:2816, Robbery:3524
+State:Washington, Year:2000, Total Crimes:300932, TPC Count:279144, Burglary:53476, Larceny:190650, Motor:35018, TVC Count:21788, Assault:13043, Murder:196, Rape:2737, Robbery:5812
+State:Washington, Year:2001, Total Crimes:308492, TPC Count:287234, Burglary:53024, Larceny:195133, Motor:39077, TVC Count:21258, Assault:12545, Murder:179, Rape:2600, Robbery:5934
+State:Washington, Year:2002, Total Crimes:309931, TPC Count:288967, Burglary:54948, Larceny:193526, Motor:40493, TVC Count:20964, Assault:12249, Murder:184, Rape:2734, Robbery:5797
+State:Washington, Year:2003, Total Crimes:312814, TPC Count:291542, Burglary:58271, Larceny:192653, Motor:40618, TVC Count:21272, Assault:12509, Murder:182, Rape:2863, Robbery:5718
+State:Washington, Year:2004, Total Crimes:322167, TPC Count:300837, Burglary:60632, Larceny:196972, Motor:43233, TVC Count:21330, Assault:12417, Murder:190, Rape:2857, Robbery:5866
+State:Washington, Year:2005, Total Crimes:329406, TPC Count:307661, Burglary:60343, Larceny:198031, Motor:49287, TVC Count:21745, Assault:12941, Murder:205, Rape:2811, Robbery:5788
+State:Washington, Year:2006, Total Crimes:310759, TPC Count:288456, Burglary:58843, Larceny:183179, Motor:46434, TVC Count:22303, Assault:12934, Murder:197, Rape:2748, Robbery:6424
+State:Washington, Year:2007, Total Crimes:283544, TPC Count:261776, Burglary:52874, Larceny:170782, Motor:38120, TVC Count:21768, Assault:12862, Murder:174, Rape:2653, Robbery:6079
+State:Washington, Year:2008, Total Crimes:271171, TPC Count:249283, Burglary:53136, Larceny:167013, Motor:29134, TVC Count:21888, Assault:12623, Murder:193, Rape:2653, Robbery:6419
+State:Washington, Year:2009, Total Crimes:267627, TPC Count:245215, Burglary:53047, Larceny:168421, Motor:23747, TVC Count:22412, Assault:12928, Murder:190, Rape:2583, Robbery:6711
+State:Washington, Year:2010, Total Crimes:270564, TPC Count:249426, Burglary:55192, Larceny:168490, Motor:25744, TVC Count:21138, Assault:12476, Murder:154, Rape:2579, Robbery:5929
+State:Washington, Year:2011, Total Crimes:264361, TPC Count:244209, Burglary:56561, Larceny:162828, Motor:24820, TVC Count:20152, Assault:12042, Murder:163, Rape:2320, Robbery:5627
+State:Washington, Year:2012, Total Crimes:272719, TPC Count:252333, Burglary:60725, Larceny:165206, Motor:26402, TVC Count:20386, Assault:12242, Murder:206, Rape:2193, Robbery:5745
+State:Washington, Year:2013, Total Crimes:278815, TPC Count:258662, Burglary:58353, Larceny:171910, Motor:28399, TVC Count:20153, Assault:11601, Murder:160, Rape:2573, Robbery:5819
+State:Washington, Year:2014, Total Crimes:281842, TPC Count:261706, Burglary:55290, Larceny:175769, Motor:30647, TVC Count:20136, Assault:11627, Murder:174, Rape:2695, Robbery:5640
+State:Washington, Year:2015, Total Crimes:268763, TPC Count:248369, Burglary:50993, Larceny:170509, Motor:26867, TVC Count:20394, Assault:12029, Murder:211, Rape:2705, Robbery:5449
+State:Washington, Year:2016, Total Crimes:276676, TPC Count:254653, Burglary:49180, Larceny:173187, Motor:32286, TVC Count:22023, Assault:13100, Murder:195, Rape:3077, Robbery:5651
+State:Washington, Year:2017, Total Crimes:257575, TPC Count:235027, Burglary:43720, Larceny:162511, Motor:28796, TVC Count:22548, Assault:13673, Murder:230, Rape:3255, Robbery:5390
+State:Washington, Year:2018, Total Crimes:245483, TPC Count:222011, Burglary:40201, Larceny:154133, Motor:27677, TVC Count:23472, Assault:14251, Murder:236, Rape:3413, Robbery:5572
+State:Washington, Year:2019, Total Crimes:226601, TPC Count:204224, Burglary:34540, Larceny:145282, Motor:24402, TVC Count:22377, Assault:13700, Murder:198, Rape:3332, Robbery:5147
+State:West Virginia, Year:2000, Total Crimes:47067, TPC Count:41344, Burglary:9890, Larceny:28139, Motor:3315, TVC Count:5723, Assault:4597, Murder:46, Rape:331, Robbery:749
+State:West Virginia, Year:2001, Total Crimes:46120, TPC Count:41085, Burglary:9601, Larceny:28268, Motor:3216, TVC Count:5035, Assault:3968, Murder:40, Rape:320, Robbery:707
+State:West Virginia, Year:2002, Total Crimes:45320, TPC Count:41099, Burglary:9677, Larceny:27524, Motor:3898, TVC Count:4221, Assault:3179, Murder:57, Rape:328, Robbery:657
+State:West Virginia, Year:2003, Total Crimes:46997, TPC Count:42370, Burglary:10498, Larceny:28409, Motor:3463, TVC Count:4627, Assault:3542, Murder:73, Rape:311, Robbery:701
+State:West Virginia, Year:2004, Total Crimes:51436, TPC Count:46326, Burglary:10994, Larceny:31566, Motor:3766, TVC Count:5110, Assault:3922, Murder:68, Rape:346, Robbery:774
+State:West Virginia, Year:2005, Total Crimes:52725, TPC Count:47757, Burglary:11334, Larceny:32603, Motor:3820, TVC Count:4968, Assault:3735, Murder:82, Rape:335, Robbery:816
+State:West Virginia, Year:2006, Total Crimes:53054, TPC Count:47941, Burglary:11579, Larceny:32305, Motor:4057, TVC Count:5113, Assault:3776, Murder:80, Rape:404, Robbery:853
+State:West Virginia, Year:2007, Total Crimes:50636, TPC Count:45620, Burglary:10822, Larceny:31321, Motor:3477, TVC Count:5016, Assault:3716, Murder:65, Rape:388, Robbery:847
+State:West Virginia, Year:2008, Total Crimes:50977, TPC Count:45971, Burglary:10840, Larceny:31967, Motor:3164, TVC Count:5006, Assault:3654, Murder:67, Rape:389, Robbery:896
+State:West Virginia, Year:2009, Total Crimes:51769, TPC Count:46215, Burglary:12005, Larceny:31453, Motor:2757, TVC Count:5554, Assault:4086, Murder:84, Rape:470, Robbery:914
+State:West Virginia, Year:2010, Total Crimes:46887, TPC Count:41301, Burglary:10778, Larceny:28104, Motor:2419, TVC Count:5586, Assault:4390, Murder:58, Rape:362, Robbery:776
+State:West Virginia, Year:2011, Total Crimes:44506, TPC Count:39009, Burglary:10245, Larceny:26656, Motor:2108, TVC Count:5497, Assault:4236, Murder:87, Rape:372, Robbery:802
+State:West Virginia, Year:2012, Total Crimes:49747, TPC Count:43878, Burglary:11291, Larceny:30378, Motor:2209, TVC Count:5869, Assault:4538, Murder:72, Rape:421, Robbery:838
+State:West Virginia, Year:2013, Total Crimes:44581, TPC Count:39013, Burglary:9674, Larceny:27423, Motor:1916, TVC Count:5568, Assault:4203, Murder:61, Rape:653, Robbery:651
+State:West Virginia, Year:2014, Total Crimes:43236, TPC Count:37648, Burglary:8973, Larceny:26779, Motor:1896, TVC Count:5588, Assault:4358, Murder:74, Rape:505, Robbery:651
+State:West Virginia, Year:2015, Total Crimes:43482, TPC Count:37251, Burglary:9170, Larceny:25842, Motor:2239, TVC Count:6231, Assault:4729, Murder:70, Rape:672, Robbery:760
+State:West Virginia, Year:2016, Total Crimes:44044, TPC Count:37487, Burglary:9301, Larceny:25677, Motor:2509, TVC Count:6557, Assault:5099, Murder:81, Rape:657, Robbery:720
+State:West Virginia, Year:2017, Total Crimes:39998, TPC Count:33630, Burglary:7628, Larceny:23000, Motor:3002, TVC Count:6368, Assault:4964, Murder:85, Rape:795, Robbery:524
+State:West Virginia, Year:2018, Total Crimes:32063, TPC Count:26827, Burglary:5354, Larceny:18954, Motor:2519, TVC Count:5236, Assault:3945, Murder:67, Rape:652, Robbery:572
+State:West Virginia, Year:2019, Total Crimes:34050, TPC Count:28376, Burglary:5891, Larceny:20066, Motor:2419, TVC Count:5674, Assault:4464, Murder:78, Rape:754, Robbery:378
+State:Wisconsin, Year:2000, Total Crimes:172124, TPC Count:159424, Burglary:25183, Larceny:119605, Motor:14636, TVC Count:12700, Assault:6829, Murder:169, Rape:1165, Robbery:4537
+State:Wisconsin, Year:2001, Total Crimes:179410, TPC Count:166924, Burglary:26927, Larceny:125275, Motor:14722, TVC Count:12486, Assault:6708, Murder:192, Rape:1142, Robbery:4444
+State:Wisconsin, Year:2002, Total Crimes:176987, TPC Count:164749, Burglary:27926, Larceny:123365, Motor:13458, TVC Count:12238, Assault:6134, Murder:154, Rape:1237, Robbery:4713
+State:Wisconsin, Year:2003, Total Crimes:169788, TPC Count:157684, Burglary:26546, Larceny:118775, Motor:12363, TVC Count:12104, Assault:6322, Murder:183, Rape:1202, Robbery:4397
+State:Wisconsin, Year:2004, Total Crimes:158258, TPC Count:146710, Burglary:23854, Larceny:111482, Motor:11374, TVC Count:11548, Assault:6191, Murder:154, Rape:1136, Robbery:4067
+State:Wisconsin, Year:2005, Total Crimes:160923, TPC Count:147556, Burglary:24448, Larceny:110531, Motor:12577, TVC Count:13367, Assault:7471, Murder:206, Rape:1135, Robbery:4555
+State:Wisconsin, Year:2006, Total Crimes:172647, TPC Count:156748, Burglary:27038, Larceny:115682, Motor:14028, TVC Count:15899, Assault:8937, Murder:165, Rape:1233, Robbery:5564
+State:Wisconsin, Year:2007, Total Crimes:175635, TPC Count:159305, Burglary:27890, Larceny:117957, Motor:13458, TVC Count:16330, Assault:9438, Murder:185, Rape:1227, Robbery:5480
+State:Wisconsin, Year:2008, Total Crimes:170963, TPC Count:155456, Burglary:27459, Larceny:116456, Motor:11541, TVC Count:15507, Assault:9070, Murder:146, Rape:1128, Robbery:5163
+State:Wisconsin, Year:2009, Total Crimes:162342, TPC Count:147692, Burglary:26813, Larceny:111947, Motor:8932, TVC Count:14650, Assault:8482, Murder:146, Rape:1118, Robbery:4904
+State:Wisconsin, Year:2010, Total Crimes:156948, TPC Count:142781, Burglary:26636, Larceny:107993, Motor:8152, TVC Count:14167, Assault:8305, Murder:155, Rape:1191, Robbery:4516
+State:Wisconsin, Year:2011, Total Crimes:154180, TPC Count:139912, Burglary:27167, Larceny:104472, Motor:8273, TVC Count:14268, Assault:8340, Murder:138, Rape:1190, Robbery:4600
+State:Wisconsin, Year:2012, Total Crimes:156577, TPC Count:140513, Burglary:27945, Larceny:104352, Motor:8216, TVC Count:16064, Assault:10050, Murder:173, Rape:1219, Robbery:4622
+State:Wisconsin, Year:2013, Total Crimes:141649, TPC Count:125688, Burglary:24347, Larceny:93953, Motor:7388, TVC Count:15961, Assault:9278, Murder:162, Rape:1687, Robbery:4834
+State:Wisconsin, Year:2014, Total Crimes:136952, TPC Count:120238, Burglary:21216, Larceny:89103, Motor:9919, TVC Count:16714, Assault:9809, Murder:165, Rape:1674, Robbery:5066
+State:Wisconsin, Year:2015, Total Crimes:131571, TPC Count:113924, Burglary:19554, Larceny:83385, Motor:10985, TVC Count:17647, Assault:10395, Murder:240, Rape:1780, Robbery:5232
+State:Wisconsin, Year:2016, Total Crimes:129399, TPC Count:111720, Burglary:19425, Larceny:82337, Motor:9958, TVC Count:17679, Assault:10765, Murder:229, Rape:1979, Robbery:4706
+State:Wisconsin, Year:2017, Total Crimes:123341, TPC Count:104802, Burglary:17599, Larceny:77735, Motor:9468, TVC Count:18539, Assault:11869, Murder:186, Rape:2139, Robbery:4345
+State:Wisconsin, Year:2018, Total Crimes:107862, TPC Count:90686, Burglary:14099, Larceny:67953, Motor:8634, TVC Count:17176, Assault:11263, Murder:176, Rape:2248, Robbery:3489
+State:Wisconsin, Year:2019, Total Crimes:102742, TPC Count:85672, Burglary:12667, Larceny:65620, Motor:7385, TVC Count:17070, Assault:11643, Murder:175, Rape:2261, Robbery:2991
+State:Wyoming, Year:2000, Total Crimes:16285, TPC Count:14969, Burglary:2078, Larceny:12318, Motor:573, TVC Count:1316, Assault:1074, Murder:12, Rape:160, Robbery:70
+State:Wyoming, Year:2001, Total Crimes:17392, TPC Count:16120, Burglary:2481, Larceny:12943, Motor:696, TVC Count:1272, Assault:1026, Murder:9, Rape:153, Robbery:84
+State:Wyoming, Year:2002, Total Crimes:17858, TPC Count:16494, Burglary:2448, Larceny:13303, Motor:743, TVC Count:1364, Assault:1108, Murder:15, Rape:148, Robbery:93
+State:Wyoming, Year:2003, Total Crimes:17962, TPC Count:16648, Burglary:2611, Larceny:13239, Motor:798, TVC Count:1314, Assault:1080, Murder:14, Rape:136, Robbery:84
+State:Wyoming, Year:2004, Total Crimes:18052, TPC Count:16889, Burglary:2738, Larceny:13352, Motor:799, TVC Count:1163, Assault:973, Murder:11, Rape:112, Robbery:67
+State:Wyoming, Year:2005, Total Crimes:17242, TPC Count:16070, Burglary:2426, Larceny:12905, Motor:739, TVC Count:1172, Assault:958, Murder:14, Rape:122, Robbery:78
+State:Wyoming, Year:2006, Total Crimes:16688, TPC Count:15381, Burglary:2322, Larceny:12255, Motor:804, TVC Count:1307, Assault:1071, Murder:13, Rape:151, Robbery:72
+State:Wyoming, Year:2007, Total Crimes:16397, TPC Count:15053, Burglary:2365, Larceny:11875, Motor:813, TVC Count:1344, Assault:1067, Murder:21, Rape:172, Robbery:84
+State:Wyoming, Year:2008, Total Crimes:15845, TPC Count:14515, Burglary:2198, Larceny:11584, Motor:733, TVC Count:1330, Assault:1046, Murder:12, Rape:185, Robbery:87
+State:Wyoming, Year:2009, Total Crimes:15439, TPC Count:14243, Burglary:2176, Larceny:11310, Motor:757, TVC Count:1196, Assault:935, Murder:11, Rape:172, Robbery:78
+State:Wyoming, Year:2010, Total Crimes:14986, TPC Count:13869, Burglary:2151, Larceny:11126, Motor:592, TVC Count:1117, Assault:870, Murder:8, Rape:162, Robbery:77
+State:Wyoming, Year:2011, Total Crimes:14123, TPC Count:12878, Burglary:1864, Larceny:10493, Motor:521, TVC Count:1245, Assault:1010, Murder:18, Rape:146, Robbery:71
+State:Wyoming, Year:2012, Total Crimes:14383, TPC Count:13222, Burglary:2125, Larceny:10513, Motor:584, TVC Count:1161, Assault:932, Murder:14, Rape:154, Robbery:61
+State:Wyoming, Year:2013, Total Crimes:14004, TPC Count:12809, Burglary:1955, Larceny:10276, Motor:578, TVC Count:1195, Assault:916, Murder:17, Rape:187, Robbery:75
+State:Wyoming, Year:2014, Total Crimes:12619, TPC Count:11477, Burglary:1689, Larceny:9185, Motor:603, TVC Count:1142, Assault:899, Murder:16, Rape:174, Robbery:53
+State:Wyoming, Year:2015, Total Crimes:12453, TPC Count:11151, Burglary:1762, Larceny:8797, Motor:592, TVC Count:1302, Assault:1054, Murder:16, Rape:173, Robbery:59
+State:Wyoming, Year:2016, Total Crimes:12890, TPC Count:11460, Burglary:1771, Larceny:8889, Motor:800, TVC Count:1430, Assault:1146, Murder:20, Rape:205, Robbery:59
+State:Wyoming, Year:2017, Total Crimes:11980, TPC Count:10604, Burglary:1593, Larceny:8232, Motor:779, TVC Count:1376, Assault:1022, Murder:15, Rape:263, Robbery:76
+State:Wyoming, Year:2018, Total Crimes:11539, TPC Count:10313, Burglary:1525, Larceny:7949, Motor:839, TVC Count:1226, Assault:870, Murder:13, Rape:243, Robbery:100
+State:Wyoming, Year:2019, Total Crimes:10351, TPC Count:9093, Burglary:1396, Larceny:6984, Motor:713, TVC Count:1258, Assault:854, Murder:13, Rape:324, Robbery:67
