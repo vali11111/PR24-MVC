@@ -1,0 +1,1684 @@
+,Region,TIME,Value
+4125,Alabama ,1990,1.718
+4126,Alabama ,1991,3.185
+4127,Alabama ,1992,3.975
+4128,Alabama ,1993,4.275
+4129,Alabama ,1994,3.645
+4130,Alabama ,1995,4.021
+4131,Alabama ,1996,4.043
+4132,Alabama ,1997,3.75
+4133,Alabama ,1998,5.091
+4134,Alabama ,1999,2.59
+4135,Alabama ,2000,2.507
+4136,Alabama ,2001,5.517
+4137,Alabama ,2002,2.934
+4138,Alabama ,2003,3.978
+4139,Alabama ,2004,3.812
+4140,Alabama ,2005,7.044
+4141,Alabama ,2006,7.917
+4142,Alabama ,2007,4.726
+4143,Alabama ,2008,1.123
+4144,Alabama ,2009,-1.439
+4145,Alabama ,2010,-3.76
+4146,Alabama ,2011,-3.355
+4147,Alabama ,2012,-0.549
+4148,Alabama ,2013,-0.725
+4149,Alabama ,2014,1.17
+4150,Alabama ,2015,2.737
+4151,Alabama ,2016,2.895
+4152,Alabama ,2017,3.0
+4153,Alabama ,2018,4.087
+4154,Alabama ,2019,4.997
+4155,Alabama ,2020,5.81
+4156,Alabama ,2021,13.015
+4157,Alabama ,2022,16.82
+4158,Alaska ,1990,3.205
+4159,Alaska ,1991,13.472
+4160,Alaska ,1992,4.685
+4161,Alaska ,1993,2.002
+4162,Alaska ,1994,4.529
+4163,Alaska ,1995,4.206
+4164,Alaska ,1996,4.566
+4165,Alaska ,1997,2.75
+4166,Alaska ,1998,3.139
+4167,Alaska ,1999,3.474
+4168,Alaska ,2000,1.728
+4169,Alaska ,2001,5.005
+4170,Alaska ,2002,5.4
+4171,Alaska ,2003,4.945
+4172,Alaska ,2004,10.032
+4173,Alaska ,2005,12.267
+4174,Alaska ,2006,9.904
+4175,Alaska ,2007,3.905
+4176,Alaska ,2008,-0.399
+4177,Alaska ,2009,-0.506
+4178,Alaska ,2010,-0.579
+4179,Alaska ,2011,0.817
+4180,Alaska ,2012,0.474
+4181,Alaska ,2013,2.966
+4182,Alaska ,2014,2.073
+4183,Alaska ,2015,3.274
+4184,Alaska ,2016,1.974
+4185,Alaska ,2017,1.295
+4186,Alaska ,2018,1.037
+4187,Alaska ,2019,2.264
+4188,Alaska ,2020,3.372
+4189,Alaska ,2021,8.307
+4190,Alaska ,2022,11.632
+4191,Arizona ,1990,-0.171
+4192,Arizona ,1991,2.144
+4193,Arizona ,1992,3.006
+4194,Arizona ,1993,2.493
+4195,Arizona ,1994,5.142
+4196,Arizona ,1995,5.881
+4197,Arizona ,1996,4.853
+4198,Arizona ,1997,3.95
+4199,Arizona ,1998,5.238
+4200,Arizona ,1999,4.733
+4201,Arizona ,2000,6.008
+4202,Arizona ,2001,6.598
+4203,Arizona ,2002,5.438
+4204,Arizona ,2003,5.766
+4205,Arizona ,2004,12.535
+4206,Arizona ,2005,29.731
+4207,Arizona ,2006,18.59
+4208,Arizona ,2007,-0.994
+4209,Arizona ,2008,-13.859
+4210,Arizona ,2009,-15.882
+4211,Arizona ,2010,-12.302
+4212,Arizona ,2011,-10.84
+4213,Arizona ,2012,4.139
+4214,Arizona ,2013,13.215
+4215,Arizona ,2014,9.094
+4216,Arizona ,2015,6.158
+4217,Arizona ,2016,6.734
+4218,Arizona ,2017,7.522
+4219,Arizona ,2018,7.887
+4220,Arizona ,2019,6.664
+4221,Arizona ,2020,8.221
+4222,Arizona ,2021,21.954
+4223,Arizona ,2022,21.539
+4224,Arkansas ,1990,0.697
+4225,Arkansas ,1991,2.343
+4226,Arkansas ,1992,3.338
+4227,Arkansas ,1993,4.509
+4228,Arkansas ,1994,5.687
+4229,Arkansas ,1995,4.75
+4230,Arkansas ,1996,3.49
+4231,Arkansas ,1997,3.014
+4232,Arkansas ,1998,3.698
+4233,Arkansas ,1999,2.453
+4234,Arkansas ,2000,2.354
+4235,Arkansas ,2001,5.357
+4236,Arkansas ,2002,3.294
+4237,Arkansas ,2003,4.134
+4238,Arkansas ,2004,5.773
+4239,Arkansas ,2005,7.346
+4240,Arkansas ,2006,6.09
+4241,Arkansas ,2007,2.992
+4242,Arkansas ,2008,-0.358
+4243,Arkansas ,2009,-1.252
+4244,Arkansas ,2010,-2.482
+4245,Arkansas ,2011,-1.635
+4246,Arkansas ,2012,0.499
+4247,Arkansas ,2013,1.434
+4248,Arkansas ,2014,1.32
+4249,Arkansas ,2015,2.451
+4250,Arkansas ,2016,2.664
+4251,Arkansas ,2017,3.513
+4252,Arkansas ,2018,3.706
+4253,Arkansas ,2019,3.796
+4254,Arkansas ,2020,4.198
+4255,Arkansas ,2021,12.924
+4256,Arkansas ,2022,17.606
+4257,California ,1990,8.243
+4258,California ,1991,-0.315
+4259,California ,1992,-1.239
+4260,California ,1993,-3.768
+4261,California ,1994,-4.883
+4262,California ,1995,-1.842
+4263,California ,1996,-0.246
+4264,California ,1997,2.658
+4265,California ,1998,8.439
+4266,California ,1999,7.99
+4267,California ,2000,12.546
+4268,California ,2001,12.765
+4269,California ,2002,11.168
+4270,California ,2003,12.48
+4271,California ,2004,22.746
+4272,California ,2005,23.524
+4273,California ,2006,10.226
+4274,California ,2007,-5.414
+4275,California ,2008,-19.974
+4276,California ,2009,-13.442
+4277,California ,2010,-3.004
+4278,California ,2011,-5.21
+4279,California ,2012,0.276
+4280,California ,2013,12.23
+4281,California ,2014,11.923
+4282,California ,2015,7.097
+4283,California ,2016,7.072
+4284,California ,2017,6.543
+4285,California ,2018,6.491
+4286,California ,2019,3.23
+4287,California ,2020,4.243
+4288,California ,2021,14.054
+4289,California ,2022,15.628
+4290,Colorado ,1990,2.47
+4291,Colorado ,1991,3.766
+4292,Colorado ,1992,6.861
+4293,Colorado ,1993,9.071
+4294,Colorado ,1994,12.227
+4295,Colorado ,1995,7.905
+4296,Colorado ,1996,5.837
+4297,Colorado ,1997,5.227
+4298,Colorado ,1998,5.945
+4299,Colorado ,1999,8.75
+4300,Colorado ,2000,11.658
+4301,Colorado ,2001,9.337
+4302,Colorado ,2002,4.979
+4303,Colorado ,2003,2.582
+4304,Colorado ,2004,3.506
+4305,Colorado ,2005,4.889
+4306,Colorado ,2006,3.056
+4307,Colorado ,2007,1.244
+4308,Colorado ,2008,-0.895
+4309,Colorado ,2009,-1.559
+4310,Colorado ,2010,-3.278
+4311,Colorado ,2011,-3.122
+4312,Colorado ,2012,1.439
+4313,Colorado ,2013,5.873
+4314,Colorado ,2014,8.037
+4315,Colorado ,2015,10.65
+4316,Colorado ,2016,10.362
+4317,Colorado ,2017,9.051
+4318,Colorado ,2018,8.369
+4319,Colorado ,2019,4.923
+4320,Colorado ,2020,4.838
+4321,Colorado ,2021,15.263
+4322,Colorado ,2022,16.509
+4323,Connecticut ,1990,-5.011
+4324,Connecticut ,1991,-4.837
+4325,Connecticut ,1992,-1.104
+4326,Connecticut ,1993,-1.67
+4327,Connecticut ,1994,-3.219
+4328,Connecticut ,1995,-0.547
+4329,Connecticut ,1996,1.368
+4330,Connecticut ,1997,1.169
+4331,Connecticut ,1998,5.005
+4332,Connecticut ,1999,5.354
+4333,Connecticut ,2000,7.712
+4334,Connecticut ,2001,8.81
+4335,Connecticut ,2002,9.578
+4336,Connecticut ,2003,8.515
+4337,Connecticut ,2004,12.057
+4338,Connecticut ,2005,12.202
+4339,Connecticut ,2006,5.662
+4340,Connecticut ,2007,0.235
+4341,Connecticut ,2008,-4.272
+4342,Connecticut ,2009,-5.679
+4343,Connecticut ,2010,-3.707
+4344,Connecticut ,2011,-3.202
+4345,Connecticut ,2012,-1.956
+4346,Connecticut ,2013,-0.956
+4347,Connecticut ,2014,-0.226
+4348,Connecticut ,2015,1.641
+4349,Connecticut ,2016,0.547
+4350,Connecticut ,2017,0.555
+4351,Connecticut ,2018,1.126
+4352,Connecticut ,2019,2.734
+4353,Connecticut ,2020,4.439
+4354,Connecticut ,2021,13.844
+4355,Connecticut ,2022,14.414
+4356,Delaware ,1990,3.322
+4357,Delaware ,1991,1.635
+4358,Delaware ,1992,1.089
+4359,Delaware ,1993,0.448
+4360,Delaware ,1994,-1.641
+4361,Delaware ,1995,0.27
+4362,Delaware ,1996,1.75
+4363,Delaware ,1997,1.271
+4364,Delaware ,1998,3.299
+4365,Delaware ,1999,3.872
+4366,Delaware ,2000,5.71
+4367,Delaware ,2001,7.315
+4368,Delaware ,2002,8.024
+4369,Delaware ,2003,8.552
+4370,Delaware ,2004,13.758
+4371,Delaware ,2005,15.342
+4372,Delaware ,2006,9.53
+4373,Delaware ,2007,2.466
+4374,Delaware ,2008,-3.306
+4375,Delaware ,2009,-5.389
+4376,Delaware ,2010,-4.264
+4377,Delaware ,2011,-5.55
+4378,Delaware ,2012,-2.086
+4379,Delaware ,2013,0.859
+4380,Delaware ,2014,1.686
+4381,Delaware ,2015,2.466
+4382,Delaware ,2016,2.299
+4383,Delaware ,2017,1.807
+4384,Delaware ,2018,3.331
+4385,Delaware ,2019,3.657
+4386,Delaware ,2020,4.822
+4387,Delaware ,2021,12.489
+4388,Delaware ,2022,14.837
+4389,District of Columbia ,1990,3.986
+4390,District of Columbia ,1991,0.599
+4391,District of Columbia ,1992,2.215
+4392,District of Columbia ,1993,-0.726
+4393,District of Columbia ,1994,-2.636
+4394,District of Columbia ,1995,-0.986
+4395,District of Columbia ,1996,1.887
+4396,District of Columbia ,1997,-0.317
+4397,District of Columbia ,1998,5.451
+4398,District of Columbia ,1999,7.734
+4399,District of Columbia ,2000,13.981
+4400,District of Columbia ,2001,15.226
+4401,District of Columbia ,2002,15.198
+4402,District of Columbia ,2003,12.606
+4403,District of Columbia ,2004,19.933
+4404,District of Columbia ,2005,23.749
+4405,District of Columbia ,2006,11.868
+4406,District of Columbia ,2007,2.742
+4407,District of Columbia ,2008,-5.968
+4408,District of Columbia ,2009,-4.573
+4409,District of Columbia ,2010,-0.238
+4410,District of Columbia ,2011,1.05
+4411,District of Columbia ,2012,3.943
+4412,District of Columbia ,2013,8.237
+4413,District of Columbia ,2014,7.975
+4414,District of Columbia ,2015,6.683
+4415,District of Columbia ,2016,6.473
+4416,District of Columbia ,2017,4.668
+4417,District of Columbia ,2018,4.848
+4418,District of Columbia ,2019,3.783
+4419,District of Columbia ,2020,3.639
+4420,District of Columbia ,2021,8.137
+4421,District of Columbia ,2022,7.686
+4422,Florida ,1990,1.996
+4423,Florida ,1991,1.653
+4424,Florida ,1992,2.672
+4425,Florida ,1993,2.267
+4426,Florida ,1994,0.827
+4427,Florida ,1995,2.433
+4428,Florida ,1996,2.787
+4429,Florida ,1997,2.638
+4430,Florida ,1998,4.88
+4431,Florida ,1999,3.828
+4432,Florida ,2000,6.762
+4433,Florida ,2001,9.956
+4434,Florida ,2002,10.219
+4435,Florida ,2003,10.583
+4436,Florida ,2004,17.229
+4437,Florida ,2005,25.732
+4438,Florida ,2006,15.853
+4439,Florida ,2007,-2.595
+4440,Florida ,2008,-17.122
+4441,Florida ,2009,-14.802
+4442,Florida ,2010,-9.712
+4443,Florida ,2011,-7.636
+4444,Florida ,2012,-0.596
+4445,Florida ,2013,8.071
+4446,Florida ,2014,9.292
+4447,Florida ,2015,9.228
+4448,Florida ,2016,9.181
+4449,Florida ,2017,8.542
+4450,Florida ,2018,7.637
+4451,Florida ,2019,5.682
+4452,Florida ,2020,6.282
+4453,Florida ,2021,17.669
+4454,Florida ,2022,25.448
+4455,Georgia ,1990,0.397
+4456,Georgia ,1991,1.065
+4457,Georgia ,1992,2.604
+4458,Georgia ,1993,2.771
+4459,Georgia ,1994,2.255
+4460,Georgia ,1995,3.701
+4461,Georgia ,1996,4.546
+4462,Georgia ,1997,4.424
+4463,Georgia ,1998,6.063
+4464,Georgia ,1999,6.033
+4465,Georgia ,2000,6.041
+4466,Georgia ,2001,7.314
+4467,Georgia ,2002,4.521
+4468,Georgia ,2003,3.822
+4469,Georgia ,2004,4.482
+4470,Georgia ,2005,5.612
+4471,Georgia ,2006,4.577
+4472,Georgia ,2007,2.876
+4473,Georgia ,2008,-2.251
+4474,Georgia ,2009,-4.554
+4475,Georgia ,2010,-7.15
+4476,Georgia ,2011,-7.523
+4477,Georgia ,2012,-3.932
+4478,Georgia ,2013,4.02
+4479,Georgia ,2014,6.771
+4480,Georgia ,2015,6.311
+4481,Georgia ,2016,6.139
+4482,Georgia ,2017,6.03
+4483,Georgia ,2018,7.37
+4484,Georgia ,2019,5.948
+4485,Georgia ,2020,5.907
+4486,Georgia ,2021,15.318
+4487,Georgia ,2022,21.55
+4488,Hawaii ,1990,23.81
+4489,Hawaii ,1991,10.358
+4490,Hawaii ,1992,1.38
+4491,Hawaii ,1993,0.591
+4492,Hawaii ,1994,-0.603
+4493,Hawaii ,1995,-1.278
+4494,Hawaii ,1996,-4.902
+4495,Hawaii ,1997,-6.45
+4496,Hawaii ,1998,-0.231
+4497,Hawaii ,1999,-1.959
+4498,Hawaii ,2000,2.999
+4499,Hawaii ,2001,8.206
+4500,Hawaii ,2002,7.686
+4501,Hawaii ,2003,11.074
+4502,Hawaii ,2004,22.801
+4503,Hawaii ,2005,24.53
+4504,Hawaii ,2006,14.39
+4505,Hawaii ,2007,2.002
+4506,Hawaii ,2008,-4.812
+4507,Hawaii ,2009,-8.64
+4508,Hawaii ,2010,-3.888
+4509,Hawaii ,2011,-1.463
+4510,Hawaii ,2012,1.36
+4511,Hawaii ,2013,5.353
+4512,Hawaii ,2014,6.614
+4513,Hawaii ,2015,6.346
+4514,Hawaii ,2016,6.208
+4515,Hawaii ,2017,3.925
+4516,Hawaii ,2018,3.845
+4517,Hawaii ,2019,3.108
+4518,Hawaii ,2020,2.042
+4519,Hawaii ,2021,10.015
+4520,Hawaii ,2022,20.394
+4521,Idaho ,1990,7.095
+4522,Idaho ,1991,6.204
+4523,Idaho ,1992,6.784
+4524,Idaho ,1993,8.822
+4525,Idaho ,1994,7.796
+4526,Idaho ,1995,5.588
+4527,Idaho ,1996,3.34
+4528,Idaho ,1997,2.771
+4529,Idaho ,1998,3.663
+4530,Idaho ,1999,1.687
+4531,Idaho ,2000,1.701
+4532,Idaho ,2001,5.265
+4533,Idaho ,2002,3.013
+4534,Idaho ,2003,4.024
+4535,Idaho ,2004,7.374
+4536,Idaho ,2005,15.139
+4537,Idaho ,2006,16.744
+4538,Idaho ,2007,5.934
+4539,Idaho ,2008,-2.54
+4540,Idaho ,2009,-6.649
+4541,Idaho ,2010,-9.292
+4542,Idaho ,2011,-8.977
+4543,Idaho ,2012,1.117
+4544,Idaho ,2013,5.316
+4545,Idaho ,2014,5.81
+4546,Idaho ,2015,6.268
+4547,Idaho ,2016,7.351
+4548,Idaho ,2017,9.092
+4549,Idaho ,2018,12.234
+4550,Idaho ,2019,10.684
+4551,Idaho ,2020,10.954
+4552,Idaho ,2021,26.702
+4553,Idaho ,2022,18.158
+4554,Illinois ,1990,5.201
+4555,Illinois ,1991,3.812
+4556,Illinois ,1992,3.726
+4557,Illinois ,1993,3.46
+4558,Illinois ,1994,4.392
+4559,Illinois ,1995,3.882
+4560,Illinois ,1996,3.472
+4561,Illinois ,1997,3.008
+4562,Illinois ,1998,3.248
+4563,Illinois ,1999,3.973
+4564,Illinois ,2000,6.29
+4565,Illinois ,2001,6.006
+4566,Illinois ,2002,6.173
+4567,Illinois ,2003,5.347
+4568,Illinois ,2004,8.346
+4569,Illinois ,2005,8.856
+4570,Illinois ,2006,5.643
+4571,Illinois ,2007,1.44
+4572,Illinois ,2008,-3.907
+4573,Illinois ,2009,-6.677
+4574,Illinois ,2010,-5.157
+4575,Illinois ,2011,-4.848
+4576,Illinois ,2012,-1.837
+4577,Illinois ,2013,0.265
+4578,Illinois ,2014,3.013
+4579,Illinois ,2015,3.532
+4580,Illinois ,2016,3.007
+4581,Illinois ,2017,2.458
+4582,Illinois ,2018,2.175
+4583,Illinois ,2019,2.814
+4584,Illinois ,2020,2.93
+4585,Illinois ,2021,8.804
+4586,Illinois ,2022,12.713
+4587,Indiana ,1990,3.453
+4588,Indiana ,1991,3.925
+4589,Indiana ,1992,4.179
+4590,Indiana ,1993,3.709
+4591,Indiana ,1994,4.433
+4592,Indiana ,1995,4.855
+4593,Indiana ,1996,4.892
+4594,Indiana ,1997,4.188
+4595,Indiana ,1998,4.382
+4596,Indiana ,1999,3.207
+4597,Indiana ,2000,3.138
+4598,Indiana ,2001,4.952
+4599,Indiana ,2002,2.875
+4600,Indiana ,2003,2.726
+4601,Indiana ,2004,2.797
+4602,Indiana ,2005,3.626
+4603,Indiana ,2006,1.543
+4604,Indiana ,2007,1.394
+4605,Indiana ,2008,-0.602
+4606,Indiana ,2009,-1.613
+4607,Indiana ,2010,-1.994
+4608,Indiana ,2011,-1.625
+4609,Indiana ,2012,0.234
+4610,Indiana ,2013,0.887
+4611,Indiana ,2014,1.968
+4612,Indiana ,2015,3.736
+4613,Indiana ,2016,3.394
+4614,Indiana ,2017,4.385
+4615,Indiana ,2018,6.311
+4616,Indiana ,2019,5.655
+4617,Indiana ,2020,5.828
+4618,Indiana ,2021,13.577
+4619,Indiana ,2022,16.017
+4620,Iowa ,1990,5.134
+4621,Iowa ,1991,4.647
+4622,Iowa ,1992,4.329
+4623,Iowa ,1993,5.099
+4624,Iowa ,1994,7.16
+4625,Iowa ,1995,5.433
+4626,Iowa ,1996,4.619
+4627,Iowa ,1997,3.965
+4628,Iowa ,1998,4.861
+4629,Iowa ,1999,4.334
+4630,Iowa ,2000,4.119
+4631,Iowa ,2001,5.218
+4632,Iowa ,2002,3.657
+4633,Iowa ,2003,3.654
+4634,Iowa ,2004,4.562
+4635,Iowa ,2005,4.927
+4636,Iowa ,2006,2.63
+4637,Iowa ,2007,2.19
+4638,Iowa ,2008,0.477
+4639,Iowa ,2009,-0.044
+4640,Iowa ,2010,-0.689
+4641,Iowa ,2011,-0.27
+4642,Iowa ,2012,1.114
+4643,Iowa ,2013,1.584
+4644,Iowa ,2014,1.997
+4645,Iowa ,2015,3.225
+4646,Iowa ,2016,3.463
+4647,Iowa ,2017,3.756
+4648,Iowa ,2018,3.529
+4649,Iowa ,2019,3.223
+4650,Iowa ,2020,3.284
+4651,Iowa ,2021,9.383
+4652,Iowa ,2022,13.35
+4653,Kansas ,1990,0.2
+4654,Kansas ,1991,1.041
+4655,Kansas ,1992,2.791
+4656,Kansas ,1993,3.071
+4657,Kansas ,1994,6.462
+4658,Kansas ,1995,5.393
+4659,Kansas ,1996,4.671
+4660,Kansas ,1997,4.109
+4661,Kansas ,1998,4.981
+4662,Kansas ,1999,5.256
+4663,Kansas ,2000,5.125
+4664,Kansas ,2001,5.404
+4665,Kansas ,2002,4.336
+4666,Kansas ,2003,3.437
+4667,Kansas ,2004,4.329
+4668,Kansas ,2005,4.538
+4669,Kansas ,2006,3.138
+4670,Kansas ,2007,2.667
+4671,Kansas ,2008,-0.179
+4672,Kansas ,2009,-0.386
+4673,Kansas ,2010,-1.041
+4674,Kansas ,2011,-1.505
+4675,Kansas ,2012,0.223
+4676,Kansas ,2013,0.898
+4677,Kansas ,2014,2.344
+4678,Kansas ,2015,3.41
+4679,Kansas ,2016,4.259
+4680,Kansas ,2017,4.246
+4681,Kansas ,2018,4.735
+4682,Kansas ,2019,4.256
+4683,Kansas ,2020,5.289
+4684,Kansas ,2021,12.1
+4685,Kansas ,2022,14.357
+4686,Kentucky ,1990,2.919
+4687,Kentucky ,1991,3.282
+4688,Kentucky ,1992,3.647
+4689,Kentucky ,1993,3.647
+4690,Kentucky ,1994,6.008
+4691,Kentucky ,1995,5.29
+4692,Kentucky ,1996,4.547
+4693,Kentucky ,1997,4.398
+4694,Kentucky ,1998,4.434
+4695,Kentucky ,1999,4.323
+4696,Kentucky ,2000,4.328
+4697,Kentucky ,2001,4.913
+4698,Kentucky ,2002,3.346
+4699,Kentucky ,2003,3.655
+4700,Kentucky ,2004,4.721
+4701,Kentucky ,2005,5.009
+4702,Kentucky ,2006,3.253
+4703,Kentucky ,2007,2.37
+4704,Kentucky ,2008,0.603
+4705,Kentucky ,2009,-0.775
+4706,Kentucky ,2010,-1.162
+4707,Kentucky ,2011,-1.211
+4708,Kentucky ,2012,0.551
+4709,Kentucky ,2013,0.56
+4710,Kentucky ,2014,1.293
+4711,Kentucky ,2015,3.535
+4712,Kentucky ,2016,3.798
+4713,Kentucky ,2017,4.639
+4714,Kentucky ,2018,4.264
+4715,Kentucky ,2019,4.329
+4716,Kentucky ,2020,5.094
+4717,Kentucky ,2021,11.847
+4718,Kentucky ,2022,15.072
+4719,Louisiana ,1990,1.272
+4720,Louisiana ,1991,2.9
+4721,Louisiana ,1992,5.168
+4722,Louisiana ,1993,5.026
+4723,Louisiana ,1994,6.399
+4724,Louisiana ,1995,4.812
+4725,Louisiana ,1996,5.19
+4726,Louisiana ,1997,4.397
+4727,Louisiana ,1998,5.291
+4728,Louisiana ,1999,3.926
+4729,Louisiana ,2000,3.47
+4730,Louisiana ,2001,5.486
+4731,Louisiana ,2002,3.893
+4732,Louisiana ,2003,4.997
+4733,Louisiana ,2004,5.532
+4734,Louisiana ,2005,6.892
+4735,Louisiana ,2006,10.839
+4736,Louisiana ,2007,5.145
+4737,Louisiana ,2008,0.369
+4738,Louisiana ,2009,-0.317
+4739,Louisiana ,2010,-1.475
+4740,Louisiana ,2011,-1.123
+4741,Louisiana ,2012,1.297
+4742,Louisiana ,2013,1.372
+4743,Louisiana ,2014,2.297
+4744,Louisiana ,2015,3.78
+4745,Louisiana ,2016,3.478
+4746,Louisiana ,2017,2.376
+4747,Louisiana ,2018,1.766
+4748,Louisiana ,2019,2.811
+4749,Louisiana ,2020,3.646
+4750,Louisiana ,2021,7.307
+4751,Louisiana ,2022,10.877
+4752,Maine ,1990,-1.808
+4753,Maine ,1991,-2.878
+4754,Maine ,1992,-0.254
+4755,Maine ,1993,-0.396
+4756,Maine ,1994,-2.063
+4757,Maine ,1995,0.811
+4758,Maine ,1996,3.056
+4759,Maine ,1997,1.989
+4760,Maine ,1998,5.071
+4761,Maine ,1999,5.965
+4762,Maine ,2000,8.389
+4763,Maine ,2001,9.812
+4764,Maine ,2002,9.931
+4765,Maine ,2003,9.199
+4766,Maine ,2004,12.514
+4767,Maine ,2005,11.365
+4768,Maine ,2006,4.258
+4769,Maine ,2007,1.47
+4770,Maine ,2008,-1.665
+4771,Maine ,2009,-4.185
+4772,Maine ,2010,-3.453
+4773,Maine ,2011,-1.882
+4774,Maine ,2012,-1.262
+4775,Maine ,2013,0.559
+4776,Maine ,2014,1.261
+4777,Maine ,2015,3.007
+4778,Maine ,2016,3.796
+4779,Maine ,2017,4.688
+4780,Maine ,2018,5.307
+4781,Maine ,2019,5.204
+4782,Maine ,2020,6.527
+4783,Maine ,2021,17.378
+4784,Maine ,2022,18.827
+4785,Maryland ,1990,4.345
+4786,Maryland ,1991,1.72
+4787,Maryland ,1992,2.014
+4788,Maryland ,1993,0.786
+4789,Maryland ,1994,-0.681
+4790,Maryland ,1995,0.428
+4791,Maryland ,1996,1.712
+4792,Maryland ,1997,0.916
+4793,Maryland ,1998,2.915
+4794,Maryland ,1999,3.152
+4795,Maryland ,2000,5.514
+4796,Maryland ,2001,8.094
+4797,Maryland ,2002,10.454
+4798,Maryland ,2003,10.743
+4799,Maryland ,2004,18.124
+4800,Maryland ,2005,21.521
+4801,Maryland ,2006,12.824
+4802,Maryland ,2007,1.749
+4803,Maryland ,2008,-7.365
+4804,Maryland ,2009,-9.304
+4805,Maryland ,2010,-4.784
+4806,Maryland ,2011,-4.022
+4807,Maryland ,2012,-0.812
+4808,Maryland ,2013,1.633
+4809,Maryland ,2014,2.614
+4810,Maryland ,2015,2.556
+4811,Maryland ,2016,2.805
+4812,Maryland ,2017,2.601
+4813,Maryland ,2018,2.55
+4814,Maryland ,2019,2.902
+4815,Maryland ,2020,4.153
+4816,Maryland ,2021,11.07
+4817,Maryland ,2022,11.704
+4818,Massachusetts ,1990,-4.059
+4819,Massachusetts ,1991,-5.414
+4820,Massachusetts ,1992,-1.025
+4821,Massachusetts ,1993,0.258
+4822,Massachusetts ,1994,-0.172
+4823,Massachusetts ,1995,2.044
+4824,Massachusetts ,1996,3.62
+4825,Massachusetts ,1997,4.407
+4826,Massachusetts ,1998,6.968
+4827,Massachusetts ,1999,10.421
+4828,Massachusetts ,2000,14.443
+4829,Massachusetts ,2001,12.093
+4830,Massachusetts ,2002,12.172
+4831,Massachusetts ,2003,9.587
+4832,Massachusetts ,2004,11.262
+4833,Massachusetts ,2005,9.371
+4834,Massachusetts ,2006,0.756
+4835,Massachusetts ,2007,-3.25
+4836,Massachusetts ,2008,-5.338
+4837,Massachusetts ,2009,-4.527
+4838,Massachusetts ,2010,-1.895
+4839,Massachusetts ,2011,-1.825
+4840,Massachusetts ,2012,-0.326
+4841,Massachusetts ,2013,2.278
+4842,Massachusetts ,2014,4.263
+4843,Massachusetts ,2015,4.429
+4844,Massachusetts ,2016,4.889
+4845,Massachusetts ,2017,5.404
+4846,Massachusetts ,2018,5.248
+4847,Massachusetts ,2019,4.365
+4848,Massachusetts ,2020,4.943
+4849,Massachusetts ,2021,12.656
+4850,Massachusetts ,2022,13.802
+4851,Michigan ,1990,5.13
+4852,Michigan ,1991,3.848
+4853,Michigan ,1992,3.556
+4854,Michigan ,1993,2.76
+4855,Michigan ,1994,5.037
+4856,Michigan ,1995,7.099
+4857,Michigan ,1996,7.865
+4858,Michigan ,1997,7.589
+4859,Michigan ,1998,6.224
+4860,Michigan ,1999,6.703
+4861,Michigan ,2000,7.231
+4862,Michigan ,2001,5.842
+4863,Michigan ,2002,4.358
+4864,Michigan ,2003,3.402
+4865,Michigan ,2004,3.923
+4866,Michigan ,2005,3.309
+4867,Michigan ,2006,-1.517
+4868,Michigan ,2007,-4.227
+4869,Michigan ,2008,-7.78
+4870,Michigan ,2009,-7.274
+4871,Michigan ,2010,-6.841
+4872,Michigan ,2011,-3.868
+4873,Michigan ,2012,0.169
+4874,Michigan ,2013,6.063
+4875,Michigan ,2014,6.953
+4876,Michigan ,2015,5.62
+4877,Michigan ,2016,5.406
+4878,Michigan ,2017,6.61
+4879,Michigan ,2018,6.179
+4880,Michigan ,2019,5.292
+4881,Michigan ,2020,5.108
+4882,Michigan ,2021,13.003
+4883,Michigan ,2022,14.046
+4884,Minnesota ,1990,1.791
+4885,Minnesota ,1991,2.864
+4886,Minnesota ,1992,3.33
+4887,Minnesota ,1993,3.749
+4888,Minnesota ,1994,4.152
+4889,Minnesota ,1995,4.785
+4890,Minnesota ,1996,5.038
+4891,Minnesota ,1997,4.88
+4892,Minnesota ,1998,5.896
+4893,Minnesota ,1999,8.127
+4894,Minnesota ,2000,10.498
+4895,Minnesota ,2001,10.32
+4896,Minnesota ,2002,9.007
+4897,Minnesota ,2003,7.422
+4898,Minnesota ,2004,9.16
+4899,Minnesota ,2005,8.151
+4900,Minnesota ,2006,2.673
+4901,Minnesota ,2007,-0.708
+4902,Minnesota ,2008,-4.974
+4903,Minnesota ,2009,-5.217
+4904,Minnesota ,2010,-5.141
+4905,Minnesota ,2011,-5.055
+4906,Minnesota ,2012,-0.476
+4907,Minnesota ,2013,4.385
+4908,Minnesota ,2014,4.723
+4909,Minnesota ,2015,4.084
+4910,Minnesota ,2016,4.712
+4911,Minnesota ,2017,5.797
+4912,Minnesota ,2018,5.478
+4913,Minnesota ,2019,4.411
+4914,Minnesota ,2020,4.605
+4915,Minnesota ,2021,11.506
+4916,Minnesota ,2022,12.014
+4917,Mississippi ,1990,1.52
+4918,Mississippi ,1991,1.631
+4919,Mississippi ,1992,3.752
+4920,Mississippi ,1993,3.124
+4921,Mississippi ,1994,5.305
+4922,Mississippi ,1995,4.886
+4923,Mississippi ,1996,4.306
+4924,Mississippi ,1997,3.581
+4925,Mississippi ,1998,5.228
+4926,Mississippi ,1999,4.195
+4927,Mississippi ,2000,3.064
+4928,Mississippi ,2001,5.263
+4929,Mississippi ,2002,2.564
+4930,Mississippi ,2003,3.285
+4931,Mississippi ,2004,3.889
+4932,Mississippi ,2005,5.782
+4933,Mississippi ,2006,8.754
+4934,Mississippi ,2007,4.992
+4935,Mississippi ,2008,-0.147
+4936,Mississippi ,2009,-1.866
+4937,Mississippi ,2010,-3.266
+4938,Mississippi ,2011,-1.814
+4939,Mississippi ,2012,-0.252
+4940,Mississippi ,2013,-0.192
+4941,Mississippi ,2014,1.408
+4942,Mississippi ,2015,3.004
+4943,Mississippi ,2016,2.574
+4944,Mississippi ,2017,2.305
+4945,Mississippi ,2018,2.297
+4946,Mississippi ,2019,3.749
+4947,Mississippi ,2020,4.06
+4948,Mississippi ,2021,10.141
+4949,Mississippi ,2022,14.899
+4950,Missouri ,1990,0.756
+4951,Missouri ,1991,1.372
+4952,Missouri ,1992,2.345
+4953,Missouri ,1993,2.018
+4954,Missouri ,1994,4.504
+4955,Missouri ,1995,4.5
+4956,Missouri ,1996,4.26
+4957,Missouri ,1997,4.095
+4958,Missouri ,1998,4.097
+4959,Missouri ,1999,4.826
+4960,Missouri ,2000,5.773
+4961,Missouri ,2001,5.948
+4962,Missouri ,2002,5.498
+4963,Missouri ,2003,4.527
+4964,Missouri ,2004,6.296
+4965,Missouri ,2005,6.608
+4966,Missouri ,2006,3.977
+4967,Missouri ,2007,1.792
+4968,Missouri ,2008,-1.585
+4969,Missouri ,2009,-2.659
+4970,Missouri ,2010,-2.809
+4971,Missouri ,2011,-2.991
+4972,Missouri ,2012,-0.356
+4973,Missouri ,2013,0.218
+4974,Missouri ,2014,2.154
+4975,Missouri ,2015,3.725
+4976,Missouri ,2016,4.266
+4977,Missouri ,2017,4.308
+4978,Missouri ,2018,5.15
+4979,Missouri ,2019,4.799
+4980,Missouri ,2020,5.258
+4981,Missouri ,2021,12.768
+4982,Missouri ,2022,15.714
+4983,Montana ,1990,4.506
+4984,Montana ,1991,5.412
+4985,Montana ,1992,9.616
+4986,Montana ,1993,10.163
+4987,Montana ,1994,10.524
+4988,Montana ,1995,6.809
+4989,Montana ,1996,5.116
+4990,Montana ,1997,2.953
+4991,Montana ,1998,3.453
+4992,Montana ,1999,2.519
+4993,Montana ,2000,3.779
+4994,Montana ,2001,5.644
+4995,Montana ,2002,5.458
+4996,Montana ,2003,6.414
+4997,Montana ,2004,9.845
+4998,Montana ,2005,12.459
+4999,Montana ,2006,11.464
+5000,Montana ,2007,7.179
+5001,Montana ,2008,1.341
+5002,Montana ,2009,-2.085
+5003,Montana ,2010,-4.107
+5004,Montana ,2011,-2.862
+5005,Montana ,2012,1.688
+5006,Montana ,2013,3.662
+5007,Montana ,2014,3.96
+5008,Montana ,2015,4.234
+5009,Montana ,2016,3.822
+5010,Montana ,2017,5.014
+5011,Montana ,2018,5.711
+5012,Montana ,2019,5.152
+5013,Montana ,2020,6.118
+5014,Montana ,2021,19.361
+5015,Montana ,2022,21.222
+5016,Nebraska ,1990,3.815
+5017,Nebraska ,1991,3.329
+5018,Nebraska ,1992,4.531
+5019,Nebraska ,1993,4.73
+5020,Nebraska ,1994,7.339
+5021,Nebraska ,1995,5.62
+5022,Nebraska ,1996,5.41
+5023,Nebraska ,1997,5.082
+5024,Nebraska ,1998,4.578
+5025,Nebraska ,1999,4.371
+5026,Nebraska ,2000,3.491
+5027,Nebraska ,2001,4.179
+5028,Nebraska ,2002,3.257
+5029,Nebraska ,2003,3.063
+5030,Nebraska ,2004,4.762
+5031,Nebraska ,2005,4.426
+5032,Nebraska ,2006,1.855
+5033,Nebraska ,2007,1.202
+5034,Nebraska ,2008,-0.295
+5035,Nebraska ,2009,-0.297
+5036,Nebraska ,2010,-0.716
+5037,Nebraska ,2011,-0.247
+5038,Nebraska ,2012,1.234
+5039,Nebraska ,2013,2.469
+5040,Nebraska ,2014,3.377
+5041,Nebraska ,2015,4.446
+5042,Nebraska ,2016,4.064
+5043,Nebraska ,2017,5.835
+5044,Nebraska ,2018,5.27
+5045,Nebraska ,2019,5.092
+5046,Nebraska ,2020,4.471
+5047,Nebraska ,2021,12.094
+5048,Nebraska ,2022,14.867
+5049,Nevada ,1990,7.661
+5050,Nevada ,1991,6.129
+5051,Nevada ,1992,3.775
+5052,Nevada ,1993,2.377
+5053,Nevada ,1994,1.621
+5054,Nevada ,1995,3.54
+5055,Nevada ,1996,2.882
+5056,Nevada ,1997,2.291
+5057,Nevada ,1998,3.058
+5058,Nevada ,1999,1.257
+5059,Nevada ,2000,3.109
+5060,Nevada ,2001,6.442
+5061,Nevada ,2002,6.383
+5062,Nevada ,2003,8.868
+5063,Nevada ,2004,28.753
+5064,Nevada ,2005,23.444
+5065,Nevada ,2006,8.45
+5066,Nevada ,2007,-4.441
+5067,Nevada ,2008,-20.081
+5068,Nevada ,2009,-19.931
+5069,Nevada ,2010,-13.811
+5070,Nevada ,2011,-12.825
+5071,Nevada ,2012,-1.291
+5072,Nevada ,2013,16.368
+5073,Nevada ,2014,15.676
+5074,Nevada ,2015,10.728
+5075,Nevada ,2016,9.169
+5076,Nevada ,2017,9.528
+5077,Nevada ,2018,13.137
+5078,Nevada ,2019,6.135
+5079,Nevada ,2020,4.725
+5080,Nevada ,2021,17.33
+5081,Nevada ,2022,18.276
+5082,New Hampshire ,1990,-6.409
+5083,New Hampshire ,1991,-8.071
+5084,New Hampshire ,1992,-3.106
+5085,New Hampshire ,1993,-0.627
+5086,New Hampshire ,1994,-1.259
+5087,New Hampshire ,1995,1.383
+5088,New Hampshire ,1996,3.367
+5089,New Hampshire ,1997,3.719
+5090,New Hampshire ,1998,6.477
+5091,New Hampshire ,1999,8.689
+5092,New Hampshire ,2000,13.339
+5093,New Hampshire ,2001,12.303
+5094,New Hampshire ,2002,11.929
+5095,New Hampshire ,2003,9.441
+5096,New Hampshire ,2004,11.264
+5097,New Hampshire ,2005,10.612
+5098,New Hampshire ,2006,2.97
+5099,New Hampshire ,2007,-1.466
+5100,New Hampshire ,2008,-4.68
+5101,New Hampshire ,2009,-6.121
+5102,New Hampshire ,2010,-3.807
+5103,New Hampshire ,2011,-3.203
+5104,New Hampshire ,2012,-1.515
+5105,New Hampshire ,2013,0.763
+5106,New Hampshire ,2014,3.123
+5107,New Hampshire ,2015,4.022
+5108,New Hampshire ,2016,3.985
+5109,New Hampshire ,2017,5.16
+5110,New Hampshire ,2018,5.948
+5111,New Hampshire ,2019,5.117
+5112,New Hampshire ,2020,6.575
+5113,New Hampshire ,2021,15.941
+5114,New Hampshire ,2022,16.848
+5115,New Jersey ,1990,-3.48
+5116,New Jersey ,1991,-3.45
+5117,New Jersey ,1992,1.123
+5118,New Jersey ,1993,1.383
+5119,New Jersey ,1994,-0.406
+5120,New Jersey ,1995,0.081
+5121,New Jersey ,1996,1.912
+5122,New Jersey ,1997,1.509
+5123,New Jersey ,1998,4.267
+5124,New Jersey ,1999,5.033
+5125,New Jersey ,2000,8.946
+5126,New Jersey ,2001,9.9
+5127,New Jersey ,2002,12.101
+5128,New Jersey ,2003,10.682
+5129,New Jersey ,2004,14.962
+5130,New Jersey ,2005,15.746
+5131,New Jersey ,2006,8.663
+5132,New Jersey ,2007,-0.091
+5133,New Jersey ,2008,-5.468
+5134,New Jersey ,2009,-6.916
+5135,New Jersey ,2010,-3.482
+5136,New Jersey ,2011,-3.988
+5137,New Jersey ,2012,-2.665
+5138,New Jersey ,2013,0.316
+5139,New Jersey ,2014,2.207
+5140,New Jersey ,2015,2.643
+5141,New Jersey ,2016,2.508
+5142,New Jersey ,2017,1.977
+5143,New Jersey ,2018,2.944
+5144,New Jersey ,2019,3.571
+5145,New Jersey ,2020,4.747
+5146,New Jersey ,2021,12.611
+5147,New Jersey ,2022,16.064
+5148,New Mexico ,1990,1.0
+5149,New Mexico ,1991,3.25
+5150,New Mexico ,1992,5.425
+5151,New Mexico ,1993,6.322
+5152,New Mexico ,1994,10.119
+5153,New Mexico ,1995,6.878
+5154,New Mexico ,1996,2.665
+5155,New Mexico ,1997,1.959
+5156,New Mexico ,1998,2.422
+5157,New Mexico ,1999,1.184
+5158,New Mexico ,2000,1.179
+5159,New Mexico ,2001,4.343
+5160,New Mexico ,2002,3.661
+5161,New Mexico ,2003,5.106
+5162,New Mexico ,2004,7.214
+5163,New Mexico ,2005,11.899
+5164,New Mexico ,2006,13.31
+5165,New Mexico ,2007,6.276
+5166,New Mexico ,2008,-1.219
+5167,New Mexico ,2009,-3.96
+5168,New Mexico ,2010,-3.76
+5169,New Mexico ,2011,-4.476
+5170,New Mexico ,2012,-1.82
+5171,New Mexico ,2013,0.772
+5172,New Mexico ,2014,0.908
+5173,New Mexico ,2015,1.955
+5174,New Mexico ,2016,2.931
+5175,New Mexico ,2017,3.085
+5176,New Mexico ,2018,3.735
+5177,New Mexico ,2019,4.957
+5178,New Mexico ,2020,6.104
+5179,New Mexico ,2021,13.213
+5180,New Mexico ,2022,15.968
+5181,New York ,1990,-0.751
+5182,New York ,1991,-0.973
+5183,New York ,1992,2.18
+5184,New York ,1993,0.56
+5185,New York ,1994,-2.161
+5186,New York ,1995,-0.457
+5187,New York ,1996,1.865
+5188,New York ,1997,1.023
+5189,New York ,1998,5.101
+5190,New York ,1999,5.749
+5191,New York ,2000,9.122
+5192,New York ,2001,9.39
+5193,New York ,2002,10.528
+5194,New York ,2003,10.288
+5195,New York ,2004,12.843
+5196,New York ,2005,12.952
+5197,New York ,2006,6.509
+5198,New York ,2007,0.572
+5199,New York ,2008,-2.97
+5200,New York ,2009,-4.28
+5201,New York ,2010,-2.818
+5202,New York ,2011,-2.077
+5203,New York ,2012,-1.288
+5204,New York ,2013,0.679
+5205,New York ,2014,1.886
+5206,New York ,2015,3.445
+5207,New York ,2016,3.411
+5208,New York ,2017,4.496
+5209,New York ,2018,4.969
+5210,New York ,2019,4.262
+5211,New York ,2020,4.933
+5212,New York ,2021,11.312
+5213,New York ,2022,13.632
+5214,North Carolina ,1990,2.067
+5215,North Carolina ,1991,2.092
+5216,North Carolina ,1992,2.889
+5217,North Carolina ,1993,2.661
+5218,North Carolina ,1994,4.492
+5219,North Carolina ,1995,5.003
+5220,North Carolina ,1996,4.645
+5221,North Carolina ,1997,4.726
+5222,North Carolina ,1998,4.936
+5223,North Carolina ,1999,3.721
+5224,North Carolina ,2000,3.702
+5225,North Carolina ,2001,5.334
+5226,North Carolina ,2002,3.129
+5227,North Carolina ,2003,3.131
+5228,North Carolina ,2004,3.927
+5229,North Carolina ,2005,6.445
+5230,North Carolina ,2006,7.189
+5231,North Carolina ,2007,5.324
+5232,North Carolina ,2008,1.106
+5233,North Carolina ,2009,-2.265
+5234,North Carolina ,2010,-4.502
+5235,North Carolina ,2011,-3.676
+5236,North Carolina ,2012,-1.671
+5237,North Carolina ,2013,0.754
+5238,North Carolina ,2014,2.177
+5239,North Carolina ,2015,4.271
+5240,North Carolina ,2016,4.905
+5241,North Carolina ,2017,5.266
+5242,North Carolina ,2018,6.252
+5243,North Carolina ,2019,5.65
+5244,North Carolina ,2020,5.801
+5245,North Carolina ,2021,15.369
+5246,North Carolina ,2022,22.417
+5247,North Dakota ,1990,1.341
+5248,North Dakota ,1991,2.739
+5249,North Dakota ,1992,4.066
+5250,North Dakota ,1993,4.819
+5251,North Dakota ,1994,6.198
+5252,North Dakota ,1995,4.894
+5253,North Dakota ,1996,3.88
+5254,North Dakota ,1997,2.421
+5255,North Dakota ,1998,5.084
+5256,North Dakota ,1999,1.588
+5257,North Dakota ,2000,1.965
+5258,North Dakota ,2001,5.041
+5259,North Dakota ,2002,4.442
+5260,North Dakota ,2003,5.215
+5261,North Dakota ,2004,6.99
+5262,North Dakota ,2005,8.106
+5263,North Dakota ,2006,6.259
+5264,North Dakota ,2007,4.929
+5265,North Dakota ,2008,3.18
+5266,North Dakota ,2009,1.498
+5267,North Dakota ,2010,1.216
+5268,North Dakota ,2011,3.712
+5269,North Dakota ,2012,6.066
+5270,North Dakota ,2013,9.348
+5271,North Dakota ,2014,7.208
+5272,North Dakota ,2015,5.387
+5273,North Dakota ,2016,2.389
+5274,North Dakota ,2017,1.356
+5275,North Dakota ,2018,1.025
+5276,North Dakota ,2019,2.668
+5277,North Dakota ,2020,2.373
+5278,North Dakota ,2021,6.348
+5279,North Dakota ,2022,10.646
+5280,Ohio ,1990,4.464
+5281,Ohio ,1991,4.051
+5282,Ohio ,1992,4.4
+5283,Ohio ,1993,3.881
+5284,Ohio ,1994,4.76
+5285,Ohio ,1995,4.599
+5286,Ohio ,1996,5.103
+5287,Ohio ,1997,4.322
+5288,Ohio ,1998,4.655
+5289,Ohio ,1999,3.722
+5290,Ohio ,2000,3.798
+5291,Ohio ,2001,5.329
+5292,Ohio ,2002,3.393
+5293,Ohio ,2003,3.218
+5294,Ohio ,2004,3.549
+5295,Ohio ,2005,3.534
+5296,Ohio ,2006,0.45
+5297,Ohio ,2007,-0.904
+5298,Ohio ,2008,-2.585
+5299,Ohio ,2009,-2.41
+5300,Ohio ,2010,-2.818
+5301,Ohio ,2011,-3.329
+5302,Ohio ,2012,-0.693
+5303,Ohio ,2013,0.161
+5304,Ohio ,2014,2.73
+5305,Ohio ,2015,3.834
+5306,Ohio ,2016,3.928
+5307,Ohio ,2017,4.747
+5308,Ohio ,2018,5.44
+5309,Ohio ,2019,5.228
+5310,Ohio ,2020,6.048
+5311,Ohio ,2021,12.639
+5312,Ohio ,2022,14.87
+5313,Oklahoma ,1990,1.046
+5314,Oklahoma ,1991,3.226
+5315,Oklahoma ,1992,3.317
+5316,Oklahoma ,1993,3.903
+5317,Oklahoma ,1994,4.222
+5318,Oklahoma ,1995,3.504
+5319,Oklahoma ,1996,3.908
+5320,Oklahoma ,1997,3.023
+5321,Oklahoma ,1998,4.811
+5322,Oklahoma ,1999,3.92
+5323,Oklahoma ,2000,3.942
+5324,Oklahoma ,2001,5.564
+5325,Oklahoma ,2002,3.948
+5326,Oklahoma ,2003,4.036
+5327,Oklahoma ,2004,4.096
+5328,Oklahoma ,2005,5.094
+5329,Oklahoma ,2006,4.727
+5330,Oklahoma ,2007,4.285
+5331,Oklahoma ,2008,2.004
+5332,Oklahoma ,2009,0.514
+5333,Oklahoma ,2010,-0.702
+5334,Oklahoma ,2011,-1.56
+5335,Oklahoma ,2012,1.489
+5336,Oklahoma ,2013,1.67
+5337,Oklahoma ,2014,2.853
+5338,Oklahoma ,2015,3.839
+5339,Oklahoma ,2016,2.624
+5340,Oklahoma ,2017,3.364
+5341,Oklahoma ,2018,2.643
+5342,Oklahoma ,2019,3.89
+5343,Oklahoma ,2020,4.96
+5344,Oklahoma ,2021,11.574
+5345,Oklahoma ,2022,16.101
+5346,Oregon ,1990,14.41
+5347,Oregon ,1991,9.575
+5348,Oregon ,1992,7.949
+5349,Oregon ,1993,7.718
+5350,Oregon ,1994,10.454
+5351,Oregon ,1995,9.402
+5352,Oregon ,1996,7.567
+5353,Oregon ,1997,6.401
+5354,Oregon ,1998,4.989
+5355,Oregon ,1999,2.517
+5356,Oregon ,2000,2.879
+5357,Oregon ,2001,5.641
+5358,Oregon ,2002,4.257
+5359,Oregon ,2003,4.791
+5360,Oregon ,2004,9.501
+5361,Oregon ,2005,16.608
+5362,Oregon ,2006,16.631
+5363,Oregon ,2007,5.608
+5364,Oregon ,2008,-3.564
+5365,Oregon ,2009,-8.546
+5366,Oregon ,2010,-7.163
+5367,Oregon ,2011,-7.012
+5368,Oregon ,2012,-0.621
+5369,Oregon ,2013,6.749
+5370,Oregon ,2014,8.264
+5371,Oregon ,2015,8.87
+5372,Oregon ,2016,10.834
+5373,Oregon ,2017,8.264
+5374,Oregon ,2018,6.108
+5375,Oregon ,2019,4.615
+5376,Oregon ,2020,5.313
+5377,Oregon ,2021,16.285
+5378,Oregon ,2022,13.692
+5379,Pennsylvania ,1990,2.511
+5380,Pennsylvania ,1991,1.793
+5381,Pennsylvania ,1992,2.627
+5382,Pennsylvania ,1993,1.687
+5383,Pennsylvania ,1994,-0.035
+5384,Pennsylvania ,1995,0.831
+5385,Pennsylvania ,1996,2.069
+5386,Pennsylvania ,1997,1.358
+5387,Pennsylvania ,1998,3.573
+5388,Pennsylvania ,1999,2.485
+5389,Pennsylvania ,2000,3.607
+5390,Pennsylvania ,2001,6.708
+5391,Pennsylvania ,2002,6.491
+5392,Pennsylvania ,2003,6.836
+5393,Pennsylvania ,2004,10.305
+5394,Pennsylvania ,2005,11.655
+5395,Pennsylvania ,2006,7.702
+5396,Pennsylvania ,2007,2.818
+5397,Pennsylvania ,2008,-0.922
+5398,Pennsylvania ,2009,-2.402
+5399,Pennsylvania ,2010,-2.097
+5400,Pennsylvania ,2011,-2.14
+5401,Pennsylvania ,2012,-0.831
+5402,Pennsylvania ,2013,0.811
+5403,Pennsylvania ,2014,1.498
+5404,Pennsylvania ,2015,2.671
+5405,Pennsylvania ,2016,2.689
+5406,Pennsylvania ,2017,3.39
+5407,Pennsylvania ,2018,3.956
+5408,Pennsylvania ,2019,4.283
+5409,Pennsylvania ,2020,5.15
+5410,Pennsylvania ,2021,11.817
+5411,Pennsylvania ,2022,13.552
+5412,Rhode Island ,1990,-1.277
+5413,Rhode Island ,1991,-3.506
+5414,Rhode Island ,1992,-1.639
+5415,Rhode Island ,1993,-0.41
+5416,Rhode Island ,1994,-3.067
+5417,Rhode Island ,1995,0.255
+5418,Rhode Island ,1996,0.763
+5419,Rhode Island ,1997,0.718
+5420,Rhode Island ,1998,3.86
+5421,Rhode Island ,1999,4.292
+5422,Rhode Island ,2000,10.532
+5423,Rhode Island ,2001,11.189
+5424,Rhode Island ,2002,15.442
+5425,Rhode Island ,2003,14.711
+5426,Rhode Island ,2004,18.667
+5427,Rhode Island ,2005,13.667
+5428,Rhode Island ,2006,4.052
+5429,Rhode Island ,2007,-2.636
+5430,Rhode Island ,2008,-8.118
+5431,Rhode Island ,2009,-8.047
+5432,Rhode Island ,2010,-4.321
+5433,Rhode Island ,2011,-4.43
+5434,Rhode Island ,2012,-2.811
+5435,Rhode Island ,2013,-0.353
+5436,Rhode Island ,2014,2.473
+5437,Rhode Island ,2015,4.716
+5438,Rhode Island ,2016,4.447
+5439,Rhode Island ,2017,5.928
+5440,Rhode Island ,2018,6.167
+5441,Rhode Island ,2019,4.508
+5442,Rhode Island ,2020,5.685
+5443,Rhode Island ,2021,15.678
+5444,Rhode Island ,2022,16.313
+5445,South Carolina ,1990,3.263
+5446,South Carolina ,1991,2.769
+5447,South Carolina ,1992,3.233
+5448,South Carolina ,1993,2.66
+5449,South Carolina ,1994,2.534
+5450,South Carolina ,1995,3.423
+5451,South Carolina ,1996,4.432
+5452,South Carolina ,1997,4.401
+5453,South Carolina ,1998,5.575
+5454,South Carolina ,1999,5.223
+5455,South Carolina ,2000,4.464
+5456,South Carolina ,2001,6.157
+5457,South Carolina ,2002,3.573
+5458,South Carolina ,2003,3.461
+5459,South Carolina ,2004,4.545
+5460,South Carolina ,2005,7.604
+5461,South Carolina ,2006,7.555
+5462,South Carolina ,2007,4.491
+5463,South Carolina ,2008,0.59
+5464,South Carolina ,2009,-2.302
+5465,South Carolina ,2010,-4.574
+5466,South Carolina ,2011,-4.04
+5467,South Carolina ,2012,-1.076
+5468,South Carolina ,2013,0.379
+5469,South Carolina ,2014,2.392
+5470,South Carolina ,2015,5.044
+5471,South Carolina ,2016,5.034
+5472,South Carolina ,2017,5.395
+5473,South Carolina ,2018,5.841
+5474,South Carolina ,2019,5.258
+5475,South Carolina ,2020,5.403
+5476,South Carolina ,2021,13.867
+5477,South Carolina ,2022,20.864
+5478,South Dakota ,1990,3.714
+5479,South Dakota ,1991,5.224
+5480,South Dakota ,1992,6.331
+5481,South Dakota ,1993,6.781
+5482,South Dakota ,1994,7.279
+5483,South Dakota ,1995,4.381
+5484,South Dakota ,1996,4.512
+5485,South Dakota ,1997,3.99
+5486,South Dakota ,1998,4.201
+5487,South Dakota ,1999,3.37
+5488,South Dakota ,2000,3.959
+5489,South Dakota ,2001,5.268
+5490,South Dakota ,2002,4.332
+5491,South Dakota ,2003,4.167
+5492,South Dakota ,2004,5.711
+5493,South Dakota ,2005,6.995
+5494,South Dakota ,2006,4.718
+5495,South Dakota ,2007,3.938
+5496,South Dakota ,2008,2.545
+5497,South Dakota ,2009,0.438
+5498,South Dakota ,2010,-0.899
+5499,South Dakota ,2011,0.224
+5500,South Dakota ,2012,1.709
+5501,South Dakota ,2013,3.46
+5502,South Dakota ,2014,2.904
+5503,South Dakota ,2015,4.278
+5504,South Dakota ,2016,4.374
+5505,South Dakota ,2017,4.983
+5506,South Dakota ,2018,4.599
+5507,South Dakota ,2019,4.419
+5508,South Dakota ,2020,4.97
+5509,South Dakota ,2021,13.519
+5510,South Dakota ,2022,17.84
+5511,Tennessee ,1990,0.489
+5512,Tennessee ,1991,1.415
+5513,Tennessee ,1992,3.198
+5514,Tennessee ,1993,3.356
+5515,Tennessee ,1994,4.893
+5516,Tennessee ,1995,5.764
+5517,Tennessee ,1996,5.46
+5518,Tennessee ,1997,4.473
+5519,Tennessee ,1998,5.193
+5520,Tennessee ,1999,3.215
+5521,Tennessee ,2000,2.705
+5522,Tennessee ,2001,4.865
+5523,Tennessee ,2002,2.902
+5524,Tennessee ,2003,3.375
+5525,Tennessee ,2004,4.092
+5526,Tennessee ,2005,6.494
+5527,Tennessee ,2006,7.122
+5528,Tennessee ,2007,4.636
+5529,Tennessee ,2008,0.371
+5530,Tennessee ,2009,-1.8
+5531,Tennessee ,2010,-2.889
+5532,Tennessee ,2011,-2.648
+5533,Tennessee ,2012,-0.148
+5534,Tennessee ,2013,1.61
+5535,Tennessee ,2014,3.637
+5536,Tennessee ,2015,4.93
+5537,Tennessee ,2016,5.955
+5538,Tennessee ,2017,6.923
+5539,Tennessee ,2018,6.965
+5540,Tennessee ,2019,5.764
+5541,Tennessee ,2020,6.285
+5542,Tennessee ,2021,16.456
+5543,Tennessee ,2022,22.93
+5544,Texas ,1990,1.528
+5545,Texas ,1991,2.335
+5546,Texas ,1992,3.537
+5547,Texas ,1993,2.893
+5548,Texas ,1994,2.026
+5549,Texas ,1995,1.724
+5550,Texas ,1996,2.604
+5551,Texas ,1997,2.147
+5552,Texas ,1998,4.857
+5553,Texas ,1999,5.4
+5554,Texas ,2000,6.106
+5555,Texas ,2001,6.646
+5556,Texas ,2002,3.555
+5557,Texas ,2003,3.076
+5558,Texas ,2004,2.744
+5559,Texas ,2005,4.421
+5560,Texas ,2006,5.656
+5561,Texas ,2007,5.161
+5562,Texas ,2008,1.817
+5563,Texas ,2009,0.157
+5564,Texas ,2010,-1.224
+5565,Texas ,2011,-1.392
+5566,Texas ,2012,1.46
+5567,Texas ,2013,4.454
+5568,Texas ,2014,7.139
+5569,Texas ,2015,7.248
+5570,Texas ,2016,7.131
+5571,Texas ,2017,7.119
+5572,Texas ,2018,5.988
+5573,Texas ,2019,4.801
+5574,Texas ,2020,4.64
+5575,Texas ,2021,14.479
+5576,Texas ,2022,19.907
+5577,Utah ,1990,3.248
+5578,Utah ,1991,5.857
+5579,Utah ,1992,6.506
+5580,Utah ,1993,10.922
+5581,Utah ,1994,16.618
+5582,Utah ,1995,11.753
+5583,Utah ,1996,8.671
+5584,Utah ,1997,6.13
+5585,Utah ,1998,5.131
+5586,Utah ,1999,1.206
+5587,Utah ,2000,1.01
+5588,Utah ,2001,4.338
+5589,Utah ,2002,1.324
+5590,Utah ,2003,1.675
+5591,Utah ,2004,3.134
+5592,Utah ,2005,9.603
+5593,Utah ,2006,15.736
+5594,Utah ,2007,12.222
+5595,Utah ,2008,-1.236
+5596,Utah ,2009,-7.89
+5597,Utah ,2010,-6.198
+5598,Utah ,2011,-5.36
+5599,Utah ,2012,1.57
+5600,Utah ,2013,6.868
+5601,Utah ,2014,5.811
+5602,Utah ,2015,5.575
+5603,Utah ,2016,7.211
+5604,Utah ,2017,8.629
+5605,Utah ,2018,9.24
+5606,Utah ,2019,7.453
+5607,Utah ,2020,7.393
+5608,Utah ,2021,22.185
+5609,Utah ,2022,19.349
+5610,Vermont ,1990,1.248
+5611,Vermont ,1991,-1.118
+5612,Vermont ,1992,0.921
+5613,Vermont ,1993,0.916
+5614,Vermont ,1994,0.228
+5615,Vermont ,1995,0.684
+5616,Vermont ,1996,1.378
+5617,Vermont ,1997,0.969
+5618,Vermont ,1998,2.372
+5619,Vermont ,1999,4.291
+5620,Vermont ,2000,7.261
+5621,Vermont ,2001,7.706
+5622,Vermont ,2002,7.646
+5623,Vermont ,2003,7.29
+5624,Vermont ,2004,13.426
+5625,Vermont ,2005,13.969
+5626,Vermont ,2006,7.998
+5627,Vermont ,2007,2.603
+5628,Vermont ,2008,-0.207
+5629,Vermont ,2009,-2.249
+5630,Vermont ,2010,-1.413
+5631,Vermont ,2011,-0.91
+5632,Vermont ,2012,0.195
+5633,Vermont ,2013,-0.07
+5634,Vermont ,2014,-0.037
+5635,Vermont ,2015,1.836
+5636,Vermont ,2016,1.351
+5637,Vermont ,2017,2.275
+5638,Vermont ,2018,3.026
+5639,Vermont ,2019,3.745
+5640,Vermont ,2020,5.109
+5641,Vermont ,2021,14.049
+5642,Vermont ,2022,18.15
+5643,Virginia ,1990,1.426
+5644,Virginia ,1991,-0.086
+5645,Virginia ,1992,1.639
+5646,Virginia ,1993,1.037
+5647,Virginia ,1994,0.574
+5648,Virginia ,1995,1.138
+5649,Virginia ,1996,2.051
+5650,Virginia ,1997,1.936
+5651,Virginia ,1998,3.123
+5652,Virginia ,1999,4.584
+5653,Virginia ,2000,6.908
+5654,Virginia ,2001,8.668
+5655,Virginia ,2002,8.697
+5656,Virginia ,2003,8.2
+5657,Virginia ,2004,14.973
+5658,Virginia ,2005,19.307
+5659,Virginia ,2006,10.476
+5660,Virginia ,2007,1.76
+5661,Virginia ,2008,-4.889
+5662,Virginia ,2009,-5.415
+5663,Virginia ,2010,-3.758
+5664,Virginia ,2011,-2.739
+5665,Virginia ,2012,-0.246
+5666,Virginia ,2013,1.445
+5667,Virginia ,2014,2.443
+5668,Virginia ,2015,2.859
+5669,Virginia ,2016,2.391
+5670,Virginia ,2017,2.959
+5671,Virginia ,2018,3.341
+5672,Virginia ,2019,4.027
+5673,Virginia ,2020,4.894
+5674,Virginia ,2021,11.503
+5675,Virginia ,2022,14.734
+5676,Washington ,1990,21.875
+5677,Washington ,1991,6.662
+5678,Washington ,1992,4.153
+5679,Washington ,1993,3.953
+5680,Washington ,1994,4.771
+5681,Washington ,1995,3.401
+5682,Washington ,1996,3.11
+5683,Washington ,1997,4.022
+5684,Washington ,1998,6.76
+5685,Washington ,1999,5.245
+5686,Washington ,2000,5.214
+5687,Washington ,2001,6.136
+5688,Washington ,2002,4.368
+5689,Washington ,2003,4.34
+5690,Washington ,2004,9.51
+5691,Washington ,2005,15.945
+5692,Washington ,2006,15.622
+5693,Washington ,2007,6.981
+5694,Washington ,2008,-2.648
+5695,Washington ,2009,-8.463
+5696,Washington ,2010,-6.684
+5697,Washington ,2011,-6.588
+5698,Washington ,2012,-1.48
+5699,Washington ,2013,5.088
+5700,Washington ,2014,6.816
+5701,Washington ,2015,8.12
+5702,Washington ,2016,10.308
+5703,Washington ,2017,10.409
+5704,Washington ,2018,9.461
+5705,Washington ,2019,5.565
+5706,Washington ,2020,6.85
+5707,Washington ,2021,17.035
+5708,Washington ,2022,16.362
+5709,West Virginia ,1990,2.448
+5710,West Virginia ,1991,3.402
+5711,West Virginia ,1992,4.816
+5712,West Virginia ,1993,4.864
+5713,West Virginia ,1994,5.362
+5714,West Virginia ,1995,4.52
+5715,West Virginia ,1996,3.716
+5716,West Virginia ,1997,2.913
+5717,West Virginia ,1998,4.884
+5718,West Virginia ,1999,1.808
+5719,West Virginia ,2000,1.568
+5720,West Virginia ,2001,5.399
+5721,West Virginia ,2002,3.463
+5722,West Virginia ,2003,3.808
+5723,West Virginia ,2004,6.256
+5724,West Virginia ,2005,9.858
+5725,West Virginia ,2006,5.868
+5726,West Virginia ,2007,2.044
+5727,West Virginia ,2008,-0.479
+5728,West Virginia ,2009,-1.997
+5729,West Virginia ,2010,-1.276
+5730,West Virginia ,2011,-1.551
+5731,West Virginia ,2012,0.557
+5732,West Virginia ,2013,1.423
+5733,West Virginia ,2014,2.043
+5734,West Virginia ,2015,2.331
+5735,West Virginia ,2016,1.907
+5736,West Virginia ,2017,0.944
+5737,West Virginia ,2018,2.391
+5738,West Virginia ,2019,2.337
+5739,West Virginia ,2020,4.198
+5740,West Virginia ,2021,9.625
+5741,West Virginia ,2022,11.524
+5742,Wisconsin ,1990,5.146
+5743,Wisconsin ,1991,4.791
+5744,Wisconsin ,1992,5.385
+5745,Wisconsin ,1993,5.009
+5746,Wisconsin ,1994,8.819
+5747,Wisconsin ,1995,6.11
+5748,Wisconsin ,1996,4.607
+5749,Wisconsin ,1997,4.442
+5750,Wisconsin ,1998,3.881
+5751,Wisconsin ,1999,5.026
+5752,Wisconsin ,2000,6.115
+5753,Wisconsin ,2001,5.263
+5754,Wisconsin ,2002,5.039
+5755,Wisconsin ,2003,4.781
+5756,Wisconsin ,2004,8.096
+5757,Wisconsin ,2005,7.796
+5758,Wisconsin ,2006,3.377
+5759,Wisconsin ,2007,1.27
+5760,Wisconsin ,2008,-1.634
+5761,Wisconsin ,2009,-2.933
+5762,Wisconsin ,2010,-3.047
+5763,Wisconsin ,2011,-3.002
+5764,Wisconsin ,2012,-0.777
+5765,Wisconsin ,2013,-0.198
+5766,Wisconsin ,2014,1.358
+5767,Wisconsin ,2015,3.351
+5768,Wisconsin ,2016,3.97
+5769,Wisconsin ,2017,4.985
+5770,Wisconsin ,2018,5.42
+5771,Wisconsin ,2019,4.778
+5772,Wisconsin ,2020,4.481
+5773,Wisconsin ,2021,11.683
+5774,Wisconsin ,2022,15.49
+5775,Wyoming ,1990,8.119
+5776,Wyoming ,1991,5.605
+5777,Wyoming ,1992,6.248
+5778,Wyoming ,1993,7.838
+5779,Wyoming ,1994,10.29
+5780,Wyoming ,1995,7.627
+5781,Wyoming ,1996,5.057
+5782,Wyoming ,1997,3.053
+5783,Wyoming ,1998,3.57
+5784,Wyoming ,1999,2.734
+5785,Wyoming ,2000,4.371
+5786,Wyoming ,2001,5.724
+5787,Wyoming ,2002,6.426
+5788,Wyoming ,2003,6.154
+5789,Wyoming ,2004,9.282
+5790,Wyoming ,2005,11.395
+5791,Wyoming ,2006,12.711
+5792,Wyoming ,2007,9.846
+5793,Wyoming ,2008,2.099
+5794,Wyoming ,2009,-1.778
+5795,Wyoming ,2010,-3.154
+5796,Wyoming ,2011,-1.447
+5797,Wyoming ,2012,1.364
+5798,Wyoming ,2013,2.251
+5799,Wyoming ,2014,3.076
+5800,Wyoming ,2015,3.548
+5801,Wyoming ,2016,2.038
+5802,Wyoming ,2017,1.39
+5803,Wyoming ,2018,3.532
+5804,Wyoming ,2019,4.218
+5805,Wyoming ,2020,5.052
+5806,Wyoming ,2021,11.604
+5807,Wyoming ,2022,15.409
