@@ -64,7 +64,7 @@ Dosedanje ugotovitve kažejo, da je trenutno 24 držav v celoti legaliziralo kon
 Ugotovitve kažejo na več pomembnih dejstev glede legalizacije konoplje in njenega vpliva na število brezdomcev v Združenih državah Amerike:
 
 - Povezava med legalizacijo konoplje in številom brezdomcev: Opazili smo, da je skupno največ brezdomcev tam, kjer je legalizacija konoplje v celoti dovoljena. To nas spodbuja k razmišljanju o morebitnih socialnih izzivih in ekonomskih posledicah, povezanih z izvajanjem politik legalizacije.
-- Razlika med medicinsko in rekreacijsko legalizacijo: Ugotovili smo, da je največji delež brezdomcev v državah, kjer je konoplja legalizirana zgolj za medicinske namene, sledijo ji države, kjer uporaba ni legalna, medtem ko nobena država nima samo rekreacijsko legalizirane politike. To kaže na kompleksnost vpliva različnih vrst legalizacije na socialno-ekonomske razmere.
+- Razlika med medicinsko in rekreacijsko legalizacijo: Ugotovili smo, da je največji delež brezdomcev v državah, kjer je konoplja v celoti legalizirana zgolj za medicinske namene, sledijo ji države, kjer dovoljena medicinska uporaba, medtem ko nobena država nima samo rekreacijsko legalizirane politike. To kaže na kompleksnost vpliva različnih vrst legalizacije na socialno-ekonomske razmere.
 
 ### Odprta vprašanja
 
