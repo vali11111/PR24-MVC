@@ -41,6 +41,12 @@ Podatke smo pridobivali iz več virov:
 - Težave: Podatki so podani v Excelovi tabeli, kjer so podatki za posamezna leta v ločenih tabelah po listih. Imena in vrstni red atributov se po posameznih listih spreminja - ni enotnega formata.
 - Predprocesiranje: Predprocesiranje je bilo obsežnejše. Potrebno je bilo preimenovati atribute, spreminjati vrstni red, dodati letnice in združiti vrednosti iz posameznih tabel v eno tabelo za smiselno primerjavo spreminjanja indeksa v ZDA skozi leta. Poleg tega je bilo nekaj odvečnih podatkov potrebno tudi odrezati.
 
+7. Kriminal (https://corgis-edu.github.io/corgis/csv/state_crime/)
+- Namen: Ugotavljanje korelacije med legalizacijo marihuane in kriminalom v ZDA. Primerjati želimo stopnjo prisotnega kriminala v ZDA po posamičnih zvezdnih državah, s stopnjo legalizacije marihuane po le teh državah.
+- Obseg: Podatki zajemajo časovno obdobje (2000 - 2019) Zajeti so podatki različnih zločinov. Te pa se primarno delijo na Property Crime in Violent Crime.
+- Težave: Večjih težav ni bilo. Obdelava je bila dokaj preprosta.
+- Predprocesiranje: Obdelava je bla obsežna vendar preprosta, saj je že sam dataset zelo kvalitetno narejen brez podvojenih podatkov ali drugih sitnosti.
+
 ### Glavna vprašanja/cilji podatkovnega rudarjenja
 
 - Pridobiti in analizirati informacije o tem, katere zvezne države imajo legalizirano konopljo (medicinska ali rekreacijska) in kako to vpliva na različne ekonomske (brezposelnost, cene nepremičnin) in družbene (kriminal, kazalniki sreče, brezdomstvo) faktorje.
