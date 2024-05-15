@@ -29,19 +29,7 @@ Podatke smo pridobivali iz več virov:
 - Težave: Zaradi razširjenosti podatkov so možne težave z obdelavo velike količine podatkov in potrebnih virov za shranjevanje.
 - Predprocesiranje: Potrebno je obsežno predprocesiranje, vključno s čiščenjem podatkov, pretvorbo formatov in združevanjem različnih virov.
 
-5. Housing Price Index (https://stats.oecd.org/Download.ashx?type=csv&Delimiter=%2c&IncludeTimeSeriesIdentifiers=False&LabelType=CodeAndLabel&LanguageCode=en)
-- Namen: Analiza povezave cen nepremičnin po različnih zveznih državah z legalizacijo marihuane. Zbrali smo bazo podatkov za obdobja pred in po legalizaciji v posamičnih državah.
-- Obseg: Podatki so zelo obsežni; vsebujejo podatke med 1990 in 2022 za povprečje v ZDA, po državah in celo po nekaj posamečnih mestih. Čas beleženja je letno, indeks pa je podan absolutno in relativno.
-- Težave: Večjih težav s to bazo ni bilo. Večino težav je povzročajo čiščenje podatkov in podvojeni atributi.
-- Predprocesiranje: Predprocesiranje ni bilo preveč zahtevno, saj je v večini vključevalo le odstranjevanje odvečnih stolpcev in vrstic.
-
-6. Happiness Report (World Happiness Report)
-- Namen: Ugotavljanje povezav med legalizacijo marihuane in indeksom sreče v ZDA. Primerjati želimo kako se je indeks sreče v ZDA spreminjal s številom držav, ki so legalizirale marihuano. To spreminjanje spremljamo tudi v povezavi s svetovnim trendom.
-- Obseg: Podatki zajemajo krajše časovno obdobje (2007 - 2022) in poleg indeksa sreče vsebujejo tudi razne socialno-ekonomske vrednosti, ki so bile vključene pri izračunu indeksa. Podatki zajemajo večje število držav na svetu.
-- Težave: Podatki so podani v Excelovi tabeli, kjer so podatki za posamezna leta v ločenih tabelah po listih. Imena in vrstni red atributov se po posameznih listih spreminja - ni enotnega formata.
-- Predprocesiranje: Predprocesiranje je bilo obsežnejše. Potrebno je bilo preimenovati atribute, spreminjati vrstni red, dodati letnice in združiti vrednosti iz posameznih tabel v eno tabelo za smiselno primerjavo spreminjanja indeksa v ZDA skozi leta. Poleg tega je bilo nekaj odvečnih podatkov potrebno tudi odrezati.
-
-7. Kriminal (https://corgis-edu.github.io/corgis/csv/state_crime/)
+5. Kriminal (https://corgis-edu.github.io/corgis/csv/state_crime/)
 - Namen: Ugotavljanje korelacije med legalizacijo marihuane in kriminalom v ZDA. Primerjati želimo stopnjo prisotnega kriminala v ZDA po posamičnih zvezdnih državah, s stopnjo legalizacije marihuane po le teh državah.
 - Obseg: Podatki zajemajo časovno obdobje (2000 - 2019) Zajeti so podatki različnih zločinov. Te pa se primarno delijo na Property Crime in Violent Crime.
 - Težave: Večjih težav ni bilo. Obdelava je bila dokaj preprosta.
@@ -49,26 +37,27 @@ Podatke smo pridobivali iz več virov:
 
 ### Glavna vprašanja/cilji podatkovnega rudarjenja
 
-- Pridobiti in analizirati informacije o tem, katere zvezne države imajo legalizirano konopljo (medicinska ali rekreacijska) in kako to vpliva na različne ekonomske (brezposelnost, cene nepremičnin) in družbene (kriminal, kazalniki sreče, brezdomstvo) faktorje.
-- Primerjava učinkov medicinske in rekreacijske legalizacije marihuane lahko razkrije pomembne razlike v njihovem vplivu na soci-ekonomske .
-- Napovedati, kaj bi se zgodilo, če bi države, ki nimajo legalizirane, legalizirale konopljo, torej kako bi to vplivalo na njihove soci-ekonomske razmere.- Raziskati in analizirati medsebojni vpliv vseh ostalih socio-ekonomskih dejavnikov.
+- Pridobiti in analizirati informacije o tem, katere zvezne države imajo legalizirano konopljo (medicinska ali rekreacijska) in kako to vpliva na stopnjo socialne deprivacije (brezdomstvo, kriminal in brezposelnost).
+- Primerjava učinkov medicinske in rekreacijske legalizacije marihuane lahko razkrije pomembne razlike v njihovem vplivu na socialne dejavnike.
+- Napovedati, kaj bi se zgodilo, če bi države, ki nimajo legalizirane, legalizirale konopljo, torej kako bi to vplivalo na njihovo socilano deprivacijo.
+- Raziskati in analizirati medsebojni vpliv vseh ostalih dejavnikov.
 
 ### Podroben opis ciljev in metod
 
 1.  Analiza vpliva legalizacije na ekonomske in družbene faktorje:
 
--   Cilj: Raziskati vpliv legalizacije konoplje na socio-ekonomske faktorje, kot so brezposelnost, cene nepremičnin, kriminal, sreča in brezdomstvo.
+-   Cilj: Raziskati vpliv legalizacije konoplje na socialno deprivacijo.
 -   Metode: Analiza podatkov (grafi) za ugotavljanje povezav med legalizacijo konoplje ter socio-ekonomskimi kazalci.
 
 2.  Primerjava učinkov medicinske in rekreacijske legalizacije:
 
 -   Cilj: Primerjati učinke medicinske in rekreacijske legalizacije konoplje na socio-ekonomske faktorje.
--   Metode: Primerjalna analiza socio-ekonomskih kazalcev v državah z medicinsko in rekreacijsko legalizacijo ter identifikacija morebitnih razlik v njihovem vplivu na ekonomske in družbene aspekte.
+-   Metode: Primerjalna analiza socio-ekonomskih kazalcev v državah z medicinsko in rekreacijsko legalizacijo ter identifikacija morebitnih razlik v stopnji socialni deprivacije.
 
 3.  Napoved učinkov legalizacije v državah brez legalizacije:
 
--   Cilj: Napovedati vpliv legalizacije konoplje na socio-ekonomske razmere v državah brez legalizacije.
--   Metode: Uporaba  primerjalnih študij in napovednih analiz za oceno potencialnih učinkov legalizacije konoplje na brezposelnost, cene nepremičnin, kriminal in druge socio-ekonomske faktorje.
+-   Cilj: Napovedati vpliv legalizacije konoplje na stopnjo socialne deprivacije v državah brez legalizacije.
+-   Metode: Uporaba  primerjalnih študij in napovednih analiz za oceno potencialnih učinkov legalizacije konoplje na brezposelnost, kriminal in brezdomstvo.
 
 4.  Raziskovanje medsebojnega vpliva socio-ekonomskih dejavnikov:
 
@@ -86,6 +75,6 @@ Ugotovitve kažejo na več pomembnih dejstev glede legalizacije konoplje in njen
 
 ### Odprta vprašanja
 
--  Kako legalizacija vpliva na ostale ekonomske in družbene faktorje in kako vplivajo drug ana drugega?
+-  Kako legalizacija vpliva na ostale ekonomske in družbene faktorje in kako vplivajo druga na drugega?
 
 - Kakšne so razlike med medicinsko in rekreacijsko legalizacijo ter kako bi legalizacija vplivala na države brez nje?
