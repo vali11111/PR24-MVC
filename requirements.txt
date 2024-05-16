@@ -2,3 +2,6 @@ beautifulsoup4==4.12.3
 openpyxl==3.1.2
 pandas==2.2.2
 Requests==2.31.0
+geopandas==0.14.4
+ipywidgets==8.1.2
+matplotli==3.9.0
